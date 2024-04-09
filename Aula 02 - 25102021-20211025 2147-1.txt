@@ -1,0 +1,4149 @@
+Maravilha.
+
+Estamos gravando.
+
+Compartilhar, compartilhar o conteúdo.
+
+Tela 2.
+
+Pronto.
+
+Cês veem a tela do PowerPoint?
+
+Ou não?
+
+Sim, aqui já tá aparecendo.
+
+Show de bola.
+
+Bom, aqui é o negócio de sempre, né, gente?
+
+Como eu perco um pouquinho do feedback, quem quiser falar alguma coisa, comentar, fique à vontade pra me interromper, tá bom?
+
+Rafael entrando aí também.
+
+Chegou na hora, então bora começar aqui, pessoal.
+
+Vamos lá.
+
+Boa noite, Rafael.
+
+Bora lá.
+
+Bom, gente, como combinado, né, vamos agora pra nossa segunda aula do curso.
+
+Não sei se vocês se recordam, né, mas de acordo com o plano de aula que a gente preparou, hoje é um dia como, acho que o Thales comentou, né, um dia um pouco mais denso, né?
+
+Semana passada foi uma aula bastante introdutória, né, sobre o curso em si, a gente falou bastante sobre a estrutura do setor elétrico, né, e tudo mais, e hoje a gente já vai começar a entrar um pouco mais a fundo nos principais elementos, não só do mercado livre de energia, mas principalmente aquilo que é a matéria-prima dos mercados de energia de modo geral, que é o preço, né?
+
+Como que acontece a precificação dessa commodity de energia, né, tanto do ponto de vista do mercado regulado, né, do ACR, quanto do ponto de vista do ACL, do mercado livre.
+
+Então, a aula de hoje é uma base fundamental pra aula da semana que vem.
+
+Se essa aula de hoje já vai ser 20% prática, a aula da semana que vem vai ser 70%, né, realmente a gente vai botar muita mão na massa na semana que vem, tá?
+
+Então, avançando aqui, na aula anterior, a gente compreendeu essa evolução do CEB, como que ele foi se desenvolvendo ao longo do tempo, né, como que isso aconteceu, por quê, quais foram os principais elementos que levaram o setor elétrico brasileiro a tantas reformas.
+
+A gente viu ali o impacto que foi do racionamento e dos apagões lá no ano de 2001.
+
+Entendemos aí essa problemática.
+
+E mais importante ainda do que isso foi entender que em razão da evolução do setor elétrico, a gente hoje cultiva duas realidades dentro desse mercado, né?
+
+Uma realidade essencialmente física, que a gente entendeu como sendo a preocupação da entrega da energia, propriamente dita, né?
+
+Então, o caminho que a energia elétrica faz da produção até o consumo diz respeito a essa realidade física, né?
+
+Só que, por outro lado, a gente viu que existe uma outra realidade que às vezes a gente não percebe intuitivamente, que é a realidade comercial do setor de energia elétrica, né?
+
+Não necessariamente eu preciso ter a venda e compra de energia funcionando exatamente igual a essa entrega física da energia.
+
+Isso aí vai ficar mais claro ainda na aula que vem, tá?
+
+O porquê que isso acontece, né?
+
+Então, a gente entendeu essa realidade e mais ainda a gente reforçou aqui o foco do nosso curso, consequentemente, a realidade comercial.
+
+A gente não tá aqui pra falar de sistemas de potência, né?
+
+De circuitos, pra falar de linha de transmissão, distribuição.
+
+A gente tá aqui pra falar da realidade econômica do setor elétrico que é base pra todo o resto, tá bom?
+
+Em terceiro lugar, a gente entendeu, finalmente, o que é esse negócio de mercado cativo, né?
+
+Ou mercado regulado, ambiente de contratação regulada.
+
+E a gente entendeu também o que é o ambiente de contratação livre de energia, né?
+
+A gente conseguiu separar tanto da ótica física, que a gente viu que é absolutamente igual.
+
+Então, o que o mercado regulado e livre tem em comum?
+
+A realidade física é a mesma, né?
+
+A produção, o transporte, o consumo acontecem sem se preocupar com o que tá acontecendo na realidade econômica, né?
+
+Por outro lado, quando a gente olha pro mercado livre, essa realidade econômica muda razoavelmente porque alguns aspectos econômicos entre os dois também se alteram.
+
+Lembrando, no mercado regulado, tanto o transporte da energia quanto a energia em si, o quilowatt-hora consumido, são ambos faturados pela distribuidora.
+
+Então, a distribuidora é o agente responsável por repassar todos os custos da cadeia para o consumidor final, incluindo ali o custo da energia que foi gerada e que o consumidor, consequentemente, vai usar, vai consumir, quanto também os custos de toda a cadeia de suprimento do transporte.
+
+Por outro lado, no mercado livre, o consumidor passa a negociar livremente a energia propriamente dita que ele vai consumir, né?
+
+Com quem ele quiser, pode ser direto com o gerador, como pode ser por meio dos agentes comercializadores.
+
+A gente vai dar uma ênfase nos comercializadores maior a partir da aula que vem, vocês vão ver isso.
+
+Talvez no final dessa aula a gente já comece a dar uma ênfase maior na comercialização, mas mais ainda nas aulas 3 e 4.
+
+Só que, por outro lado, ele continua sendo faturado pela distribuidora, porém somente e exclusivamente a partir do respeito ao transporte de energia, tá bom, pessoal?
+
+Tudo bem até aqui?
+
+São conceitos que a gente viu na semana que vem.
+
+A gente vai depender deles para avançar bastante.
+
+A gente vai esbarrar muito neles até o final, tá?
+
+E um último elemento da aula anterior que eu quero destacar é que, por enquanto, o mercado livre de energia ainda é restrito a consumidores específicos, né?
+
+Então, foi o final da aula, a gente gastou meia hora, pelo menos, nesse ponto, entendendo ali por que hoje alguns consumidores podem e outros não podem migrar para o mercado livre.
+
+A gente viu que existem alguns pré-requisitos para se migrar hoje, mas que esses pré-requisitos, na verdade, não têm uma característica física.
+
+É essencialmente um universo regulatório que hoje está dimensionado de uma forma a permitir realmente que somente alguns consumidores possam migrar.
+
+A gente viu que existe uma agenda de abertura do mercado, então, a expectativa é que até 2024 ele se abra completamente, mas a gente pode até discutir isso lá mais para frente.
+
+Isso não é um problema de natureza física, é um problema de natureza comercial.
+
+O porquê que essa abertura está acontecendo de forma paulatina, aos poucos, ao longo do tempo.
+
+Tudo bem, pessoal?
+
+Então, um breve resumo aqui, o resumo do resumo da aula passada.
+
+Se vocês tiverem alguma dúvida, perguntem.
+
+Esses conceitos vão ser fundamentais para as outras aulas, incluindo a de hoje.
+
+E não só perguntem agora, mas voltem na aula da semana passada, no material, no vídeo, o vídeo está lá no Moodle, disponível.
+
+Acho que dá até para vocês baixarem, se não me engano, e assistirem aonde quiserem.
+
+Está bom, pessoal?
+
+Então, bora lá.
+
+Se não ficou nenhuma dúvida da semana anterior, vamos avançando.
+
+O que vale a pena a gente já destacar, pessoal, com base no que a gente viu na semana passada e para usar isso de trampolim para o assunto de hoje?
+
+A gente já começa a perceber algumas características que distinguem os consumidores livres e regulados.
+
+A gente tem na tela aqui cinco características essenciais, de um ponto de vista bem prático.
+
+O preço de energia, ou seja, o quanto que o consumidor paga, não só o quanto que ele paga, como ele paga e para quem ele paga.
+
+Então, esse é um aspecto que existem diferenças entre consumidores regulados e livres.
+
+Um outro aspecto que a gente não citou na semana passada, já passou a citar mais, é o volume de energia, o quanto e como esses diferentes consumidores contratam a energia, o volume propriamente dito.
+
+A gente vira e mexe, vai voltar e comparar com o pessoal da telecomunicações.
+
+A gente está muito acostumado hoje a fazer contratos em telecomunicações, em que você contrata um determinado volume, um dado preço a priori, para que esse player de telecomunicações te entregue.
+
+Aqui em telecom a gente fala em reais, um pacote fechado em reais e um pacote de dados, por exemplo, de 50 gigas.
+
+Especialmente se a gente pensar em celular.
+
+Se você ultrapassa ou você fica abaixo desse limite, existe um tratamento neste volume, especialmente se você ultrapassa.
+
+E a gente vai ver que esse é um aspecto muito importante para quem está no mercado livre de energia, o tratamento do volume que você vai consumir.
+
+O período de contrato, como que você contrata energia no livre e no regulado, isso diferencia do ponto de vista de contrato.
+
+Você tem um contrato com a distribuidora, da mesma forma que você tem contratos com aqueles que vão te vender energia no mercado livre.
+
+Os reajustes do preço, isso aqui é um negócio que dá um trauma.
+
+A gente vai ver bastante coisa hoje com relação a reajustes.
+
+Esse é um negócio que dá um certo trauma na população de modo geral, como que o reajuste acontece.
+
+Ninguém mais aguenta pagar reajustes diversos, bandeira, etc.
+
+E isso tem um tratamento específico no mercado regulado e um outro tratamento no mercado livre.
+
+Mas no fim do dia, gente, aquilo que a gente falou, no fim do dia, a entrega continua sendo a distribuidora.
+
+Então vejam que esses quatro elementos aqui, eles lidam com aspectos essencialmente comerciais, ao passo que esse aqui é o único elemento físico e não muda de modo algum.
+
+Hoje a gente vai focar bastante nos aspectos do preço e dos reajustes.
+
+Hoje é uma aula bastante concentrada em tarifação e precificação de energia.
+
+Mas eu já faço uma introdução aqui com relação a esses outros elementos, que é o seguinte.
+
+Volume de energia.
+
+Os consumidores hoje, em média tensão, que contratam energia regulada, eles têm um contrato com a distribuidora.
+
+Esse contrato, o período desse contrato do consumidor com a distribuidora, tem um período pré-definido.
+
+Até porque, lembrem o que a gente viu na aula passada, a distribuidora compra a energia nos leilões e repassa esse custo para os seus consumidores.
+
+Se esse consumidor...
+
+Você construiu um comércio, um shopping, construiu uma indústria, você vai celebrar esse contrato com a distribuidora, quando ela contrata energia, se ela já contratou ou se ela for contratar, ela vai considerar você no universo dela de atendimento, então ela vai considerar você no pool de energia, no montante de energia para ela contratar para te entregar.
+
+E quando ela celebrar esse contrato com o gerador, ela vai estar considerando não só você, como todo o pool de consumidores dela, então, consequentemente, você vai ter um contrato com a distribuidora, que não necessariamente vai ser o contrato que ela tem com o gerador, que é de 15, 10, 15, 20 anos, mas esse é um contrato mais curto, via de regra 3 a 5 anos, a depender do formato de contratação.
+
+Então, você já tem alguns pré-requisitos para serem atendidos.
+
+Por outro lado, o período de contratação que você tem no mercado livre é livremente negociado, você pode contratar desde um mês até infinito, é uma negociação totalmente livre.
+
+Eu comecei falando, na verdade, do volume, mas é a mesma coisa, o volume é pós-pago no mercado regulado, você utiliza e paga depois.
+
+É claro que você tem os detalhes de demanda, como a gente vai ver, mas no mercado livre você negocia isso livremente, mas em contrapartida, é o que eu falei, os excedentes ou os déficits do que você contratou requerem um tratamento específico.
+
+Tudo bem até aqui, gente?
+
+Sem problema essa intro, a gente vai se aprofundar bastante agora nesses elementos.
+
+Bom, pessoal, regulação tarifária.
+
+É incrível como que a gente acostumou, eu falo agora como consumidor de energia, o quanto a gente acostumou a simplesmente acreditar no preço de energia, na tarifa que está na fatura.
+
+Ou melhor, a gente acostumou a simplesmente não olhar para a tarifa de energia na fatura.
+
+É claro que aqui a gente está em um público mais seleto, pessoas estão preocupadas com isso, então eu presumo que em algum momento, se vocês já fizeram isso, façam.
+
+Pegue uma fatura, dê uma olhadinha com carinho na tarifa.
+
+Mas a gente sabe, pessoal, que a imensa, esmagadora maioria, não faz isso.
+
+As pessoas não compreendem o quanto está sendo cobrado pela energia que elas consomem.
+
+O pessoal, via de regra, se preocupa com o quê?
+
+Com o custo global da fatura.
+
+Não existe o mínimo incentivo efetivo, eu digo, efetivo.
+
+Uma coisa é sair na mídia, outra coisa é a gente ter matéria em veículos de comunicação diversos, a própria ANEL incentivar em algum nível.
+
+Mas não existe, de fato, uma campanha educacional, cultural, para que o consumidor brasileiro de energia invista tempo na gestão da energia dele.
+
+Isso essencialmente acaba sendo uma iniciativa que acontece de forma pontual, especialmente nas empresas, e quanto maior o porte dessas empresas, tende a ser maior esse esforço.
+
+Mas as pessoas, via de regra, não se importam ou simplesmente são ignorantes, no sentido de não saberem o que está acontecendo na fatura de energia delas.
+
+E isso é uma questão de exposição à informação, em primeiro lugar, em incentivo.
+
+Então, quando acontece que a pessoa recebe uma fatura de energia, vamos ver se vocês já viram essa cena.
+
+Alguém recebe uma fatura de energia elétrica, a primeira coisa que a pessoa faz é reclamar do valor da fatura.
+
+Nossa, mas está caro demais.
+
+É a primeira coisa que acontece.
+
+E aí a pessoa vai tentar investigar.
+
+Só que essa investigação dura por volta de 30 a 60 segundos, quando ela olha a fatura de energia dela.
+
+A pessoa não faz, em primeiro lugar, um julgamento do volume consumido.
+
+Deveria ser algo natural nosso, a gente zelar pelo consumo de energia racional.
+
+Ou seja, fazer um consumo de energia inteligente, o uso da racional da energia.
+
+Então, entender, de fato, se o consumo foi maior do que deveria.
+
+A pessoa não investiga a tarifa, mas o que ela faz, com certeza, é xingar a distribuidora e o governo.
+
+Sem, muitas vezes, entender o porquê que aquela fatura está mais cara.
+
+O que ela sabe é que está mais cara, e que ninguém mais aguenta pagar por isso.
+
+O que, muitas vezes, não acontece com outras coisas.
+
+As pessoas estão muito acostumadas a gerenciar outros tipos de custos.
+
+A gente falou na aula passada, eu acho que foi aqui com vocês, o quanto as pessoas têm sido incentivadas recentemente.
+
+Esse é um movimento de alguns anos para cá.
+
+O nível de incentivo para as pessoas gerenciarem orçamento familiar, investir, etc.
+
+É um absurdo.
+
+Isso não existia até alguns anos atrás.
+
+Por que não?
+
+A gente não passa a fazer isso.
+
+Então, gente, essa introdução, que mais parece um apelo, é para mostrar para vocês que, para você fazer negócios bem feitos no setor de energia, é imprescindível compreender a realidade do preço, como que ele funciona.
+
+É o que a gente falou.
+
+Não há usina de geração, não há projeto de eficiência energética que saia do papel sem que exista uma realidade econômica por trás dele que faça sentido.
+
+E é a mesma coisa no mercado livre de energia que você precisa realmente compreender um pouquinho como que é a estruturação tarifária.
+
+Então, dito isso, reforçado a importância disso, o que eu destaco para vocês?
+
+Dêem uma visitadinha aqui nesse link aqui.
+
+Vocês vão ter o site da Nel em que existem todos os procedimentos de regulação tarifária.
+
+Quem quiser se especializar nisso, eu recomendo demais que abra e leia e compreenda o PRO-REC, que é esse que está na tela aí.
+
+Então, o PRO-REC, que são os procedimentos de regulação tarifária, simplesmente são a bíblia da tarifa de energia no Brasil.
+
+Adereça todos os elementos de tarifação para as distribuidoras e aí vale para qualquer nível de concessionária de distribuição.
+
+Vale para as permissionárias, concessionárias, enfim, todas elas.
+
+Então, todo tratamento tarifário é dado nessa regulação que está na tela de vocês.
+
+Ah, eu não tenho interesse em seguir carreira nessa parte mais econômica da tarifação de energia, embora eu já sinalize para você que é um dos aspectos mais essenciais do futuro do setor.
+
+Depende de uma regulação e de uma precificação inteligente.
+
+Mas se você não tiver interesse, dê uma olhadinha, pelo menos, nesse submódulo 7.1.
+
+Esse submódulo 7.1, que a gente vai falar um pouquinho dele agora, vai mostrar a importância dele, ele fala sobre a estrutura da tarifa na sua essência.
+
+O que compõe a tarifa de energia?
+
+E uma vez que você compreende a composição dessa tarifa, e aí eu vou lembrar, eu não me lembro agora se foi o Thales, se foi o Adriano, o Rafael, eu não lembro quem foi que comentou, fez algum comentário sobre geração distribuída na semana passada.
+
+Se você compreende a realidade tarifária, como que ela está minimamente estruturada, problemas ou assuntos como geração distribuída viram fichinha.
+
+Porque você começa a entender como que o sistema funciona de um ponto de vista econômico.
+
+Quem está cobrando o quê, por quê e como.
+
+Então fica aqui o apelo para você estudar isso e indicar o que eu já gostaria de destacar para vocês.
+
+A composição tarifária, no fim do dia, e o ProRet traz isso, o ProRet nada mais é do que como que o pessoal chega até isso que está na tela.
+
+Como eu já falei para vocês, a composição tarifária, ela basicamente lida em remunerar os custos do transporte de energia, como que essa energia chega até nós, e cobrar pela energia em si.
+
+Essas duas parcelas de cobrança, vamos chamar assim, elas carinhosamente têm os nomes de TUSG e TE.
+
+Se alguém nunca ouviu esses termos, TUSG, Tarifa do Uso do Sistema de Distribuição.
+
+E TE, Tarifa de Energia.
+
+O que vale destacar?
+
+Essa imagem é interessante, vocês veriam o seguinte.
+
+Esse custo do uso do sistema de transmissão e distribuição, ele vai sendo cobrado lá do início da cadeia.
+
+Você tem a transmissão, esse custo de transmissão do gerador ao transmissor, do transmissor até o distribuidor, e do distribuidor até o consumidor livre.
+
+Vocês percebem que existe uma remuneração acontecendo em diferentes níveis pelo uso da rede?
+
+Então a TUSG, a gente vai falar mais em termos de TUSG, porque a gente está preocupado com a realidade do consumidor livre, mas a realidade do transporte permeia toda a cadeia do setor elétrico, como a gente já falou.
+
+E a gente vai perceber que dentro de cada elemento desse da tarifa, no caso a TUSG, por exemplo, que remunera o transporte da energia, você tem outros sub-elementos.
+
+Por exemplo, você tem os custos que remuneram, de fato, o serviço de distribuição.
+
+Por exemplo, a TUSG demanda, ela remunera a distribuidora, no caso dos consumidores de média tensão, pelo uso do fio, da redistribuição, mas você também tem alguns encargos setoriais.
+
+A gente vai perceber hoje que a nossa tarifa parece uma linguiça.
+
+O pessoal vai tuchando coisa, como se fosse uma linguiça, e aí ela vira aquele negócio.
+
+Então, o que a gente tem de encargos e outros custos referenciais do setor não está escrito, de tanta coisa que tem.
+
+Então, um elemento fundamental é essa parte da tarifa que diz respeito à remuneração do uso da rede.
+
+Outro elemento é a tarifa de energia.
+
+O que vale a pena citar aqui na tarifa de energia?
+
+Percebam o seguinte, a tarifa de energia, ou a parcela referente à tarifa de energia, é paga pelos consumidores o quê, gente?
+
+Cativos.
+
+Percebem?
+
+A TUSG é paga por ambos, tanto cativos quanto livres, porque ambos utilizam a estrutura de entrega de energia do setor elétrico.
+
+A parte que diz respeito à energia em si, como a gente já citou, e a essa altura eu acho que já está um pouco mais intuitivo para vocês, é paga somente pelos cativos.
+
+Mas por que, Jonatas, só o consumidor cativo paga pela TE?
+
+Porque ele deixa de comprar a energia da distribuidora para comprar a energia, provavelmente, de outra.
+
+Percebem?
+
+Então vejam que a coisa vai fazendo sentido, e a regulação tarifária vai prevendo isso, ela vai mostrando que isso de fato acontece.
+
+Então, pessoal, aqui uma separação básica.
+
+O que a gente vai fazer agora na próxima tela é ampliar esse entendimento do que compõem essas parcelas, ou essas partes da tarifa, mas o que vale reforçar.
+
+No fim do dia, no preço que a gente paga na tarifa de energia, a gente vai ver algumas formas que a gente paga pela energia, ou a gente está pagando pelo transporte, ou a gente está pagando pela energia em si, pelo consumo que a gente teve.
+
+Além disso, não tem a ver com a energia, que é encargo, perda, imposto, etc.
+
+Pessoal, tudo bem até aqui?
+
+Se alguém tiver uma dúvida, é só interromper ou mandar uma mensagem aqui no bate-papo.
+
+Está jóia?
+
+Pessoal, sejam bem-vindos ao universo da tarifa.
+
+Tudo isso aqui que vocês estão vendo compõe a tarifa de energia que a gente paga.
+
+Não importa se você pensou na tarifa da tua casa, se você pensou na tarifa da tua empresa, não importa nem um pouco.
+
+No fim do dia, é isso que a gente vai pagar.
+
+A gente vai pagar a TUSD, pelo transporte, distribuição da energia, fio, rede, gestão física, e pela energia de fato que está sendo entregue, aquilo que a gente utiliza, como eu estou usando aqui agora na minha lâmpada, aqui no meu quarto.
+
+Então, pessoal, o que é importante a gente compreender?
+
+TUSD.
+
+Lembram que a gente falou que a tarifa, de modo geral, ela é um grande repasse de custos?
+
+Vejam só.
+
+Aqui de cima, essa parte de cima, a gente tem a ótica do consumidor.
+
+Esses bloquinhos todos são ótica do consumidor.
+
+Essas setinhas aqui são ótica dos outros agentes do setor elétrico.
+
+Então, vamos combinar isso.
+
+Bloquinho, bloquinho, ótica do consumidor, quem está pagando a conta total no final do dia.
+
+E aqui embaixo, setinha, ótica do outro agente.
+
+Vamos pensar.
+
+O gerador é o agente que investiu em geração e gera energia.
+
+Ele vive disso, ele é remunerado por isso, por esse serviço.
+
+Então, se a gente perceber, o que você vai ter acesso na sua fatura?
+
+Você vai ter acesso a esse primeiro layer aqui, está vendo?
+
+Essa primeira camada.
+
+Você vai conseguir enxergar, em certa medida, que tem uma TUS de lá e tem uma TE.
+
+Eventualmente, na sua fatura, você consegue enxergar até esse segundo layer aqui.
+
+O que compõe a TUS e o que compõe a TE.
+
+Não espere que seja bonitinho, assim, como está na tela.
+
+Mas, geralmente, a gente enxerga até isso aqui na fatura.
+
+Quando você tem uma boa fatura.
+
+Quando você tem uma fatura meia boca e tem um monte de distribuidora por aí que não tem fatura legal, você não consegue enxergar tudo isso daqui.
+
+Daqui para baixo, gente, é detalhe.
+
+Mas são detalhes importantes.
+
+Que é realmente razoável a gente entender como funciona.
+
+Então, vejam só.
+
+Vamos começar aqui pela TUS.
+
+Olha só.
+
+O que compõe a TUS?
+
+A TUS, vamos pensar num valor.
+
+Se alguém quiser falar um valor, fala um valor para a gente.
+
+Vamos falar R$1,00.
+
+Pronto.
+
+R$1,00.
+
+Então, a gente tem R$1,00 que é cobrado ao todo.
+
+Deixa eu ver se eu consigo escrever aqui.
+
+Então, vamos ver o seguinte.
+
+Essa soma aqui é R$1,00.
+
+R$1,00 por kWh.
+
+É isso que a gente está pagando.
+
+Vamos supor que desse R$1,00 aqui, R$0,50, vou colocar R$0,50.
+
+R$0,50 é TUSG e R$0,50 é TE.
+
+Ah, Jhonatas, é essa a relação?
+
+Não, depende.
+
+Depende da distribuidora e tal.
+
+Vai depender de uma série de fatores.
+
+A gente poderia dizer até que a parcela TUSG é maior, porque é de regra, um pouco maior do que TE.
+
+Mas vamos seguir aqui o exemplo de R$0,50.
+
+Vamos dizer que nessa parte do transporte aqui, você tem uma parte do transporte que a gente chama de fio A. Está vendo?
+
+Esse fio A remunera, no final do dia, a transmissora.
+
+Remunera o serviço de transmissão de energia elétrica.
+
+Ou seja, que ela pega lá da geração até chegar na distribuição.
+
+Esse é o serviço da transmissora.
+
+E é isso que é remunerado nesse tal de fio A, que está dentro da TUSG.
+
+É aqui que a transmissora ganha dinheiro.
+
+Está bom?
+
+Em outras palavras.
+
+Então, você está remunerando aqui.
+
+Vamos dizer que aqui dentro desses R$0,50, você tem, sei lá, R$10.
+
+Que é referente a fio A. Esquece, por enquanto, esses nomes aqui.
+
+Parcela A e parcela B. Esquece isso aqui, por enquanto.
+
+Esquece.
+
+Fio A. Olha só o que a gente tem.
+
+A gente tem um tal de fio B. Também dentro dessa rúbrica transporte.
+
+Dentro da TUSG, eu tenho uma parte que diz respeito ao transporte da energia.
+
+E não é o total, percebem?
+
+Eu sei que está um tanto óbvio agora, que vocês estão vendo na tela.
+
+Mas percebam que parte desse custo não fica...
+
+Já não vai para o bolso da distribuidora.
+
+O que vai para o bolso da distribuidora, gente?
+
+Esse fio B aqui.
+
+Está vendo?
+
+Remuneração.
+
+Aqui que a distribuidora, de fato, paga o seu negócio.
+
+Está bom?
+
+Só que é o seguinte.
+
+A gente tem engenheiro na sala aqui.
+
+A gente sabe que quando você transporta energia em qualquer sentido, você tem conversão de energia, essas coisas todas.
+
+Você sempre tem perdas associadas.
+
+E no caso do setor elétrico, além dessas perdas técnicas, você tem perdas também não técnicas.
+
+Vocês já ouviram falar de gato?
+
+Então, a gente tem perdas não técnicas.
+
+E a gente também tem perdas na redistribuição e distribuição.
+
+Desculpa, na rede básica.
+
+E na própria rede de distribuição.
+
+Então, essas perdas também são remuneradas...
+
+Ou melhor, também são repassadas.
+
+O custo dessas perdas também é repassado para o consumidor na tarifa.
+
+Então, por exemplo, 10 pagou o fio A, que é a transmissora.
+
+Vamos dizer que aqui a gente tem mais 30.
+
+E paga o fio B, remunerado à distribuidora.
+
+E ainda a distribuidora cobra de você o custo que o pessoal teve para transmitir e distribuir energia.
+
+A perda na transmissão e a perda na distribuição.
+
+Percebem?
+
+Vamos dizer que isso aqui é mais 5.
+
+Tá bom?
+
+Então, opa, 45 centavos já estão aqui.
+
+Então, essa é a composição.
+
+Tudo está dentro da sua tarifa, você nunca ouviu falar.
+
+E aí, no fim do dia, a gente também tem um tal de encargo.
+
+Gente, se tem um setor que é recheado de encargo, é o setor elétrico.
+
+O que são essas siglas aqui, resumidamente?
+
+CDE, Conta do Desenvolvimento Energético.
+
+Em suma...
+
+Em suma.
+
+Para falar do CDE, não dá para falar em suma.
+
+Tem muita coisa dentro desse recurso aí.
+
+Um deles, garantir o abastecimento de energia para sistemas isolados.
+
+Roraima.
+
+Roraima é um estado que não está conectado ainda ao SIM.
+
+A gente falou do SIM na semana passada.
+
+Por não estar conectado, todo mundo contribui com o custeio da energia local lá.
+
+Então, a Conta do Desenvolvimento Energético serve também para isso.
+
+De onde saíram os recursos para lidar com a crise energética no meio da pandemia?
+
+CDE também.
+
+TFSE, Tarifa Social do Setor Elétrico.
+
+Então, aqui a gente tem as pessoas de baixa renda.
+
+Tendo uma tarifa subsidiada.
+
+Garantir o acesso universal à tarifa de energia.
+
+Lembra que a gente falou isso no início?
+
+Então, essas pessoas com menor poder inquisitivo, elas são subsidiadas pelas tarifas convencionais para que elas tenham acesso a uma tarifa mais barata.
+
+ONS.
+
+Contribuição para a remuneração desse agente.
+
+E programa de P&D e eficiência energética.
+
+Anualmente, as distribuidoras têm que investir X% dos recursos delas em programas de eficiência energética e P&D para o setor.
+
+Garantir o crescimento do setor elétrico por meio de projetos de eficiência.
+
+Incentivo ao uso racional de energia.
+
+E PROINFA, Programa de Incentivo às Fontes Alternativas.
+
+Então, isso aqui também ajudou, principalmente no passado não tão distante, coisa de 10 anos atrás, para que as fontes, especialmente eólica, fossem subsidiadas e garantissem o crescimento e o avanço delas.
+
+Tudo bem?
+
+Então, vejam só, pessoal, o tanto de recheio que a gente tem aqui dentro de uma única tarifazinha.
+
+Ou melhor, dentro de uma componente da tarifa que diz respeito somente do transporte.
+
+Tudo bem até aqui, pessoal?
+
+Se você entender essa estrutura, você entende todo o resto.
+
+TE não é diferente.
+
+Se na TUSD, o fio A remunera a transmissora e o fio B remunera a distribuidora, a parcela A...
+
+Parcela A, não.
+
+A parte que diz respeito à compra de energia na TE remunera o gerador.
+
+Então, aquela energia que foi comprada em leilão é isso aqui.
+
+Está aqui a energia do leilão.
+
+O leilão está aqui.
+
+Está bom, pessoal?
+
+Então, onde que entra...
+
+Olha o spoiler.
+
+Onde que entra a energia adquirida no mercado livre?
+
+Aqui.
+
+Está joia?
+
+Basicamente, é aqui que vai substituir.
+
+Não é só aqui.
+
+No final do dia, a TE...
+
+O custo...
+
+A energia do mercado livre acaba rebatendo nessas três aqui.
+
+Vocês vão ver isso.
+
+Mas, basicamente, é como se a gente deixasse de comprar essa energia repassada pela distribuidora para comprar diretamente com um agente de geração, um de comercialização.
+
+E aqui não é diferente.
+
+Da mesma forma, você tem aqui o repasse de alguns custos de transporte, porém referentes à Itaipu, principalmente.
+
+Então, o pessoal repassa esses custos de Itaipu dentro da TE.
+
+Aí tem algumas perdas na rede básica do mercado cativo que também são repassadas dentro da TE.
+
+E a gente vai ver por quê.
+
+Jonas, por que repassa na TE e não na TUSD?
+
+A gente vai entender isso por quê.
+
+E outros encargos.
+
+Só que aqui são encargos relativos à geração.
+
+Aqui são encargos relativos à distribuição.
+
+Então, aqui da mesma forma.
+
+Aqui eu vou ter, sei lá, R$25,00.
+
+Aí eu vou ter, sei lá, R$10,00.
+
+R$35,00.
+
+Aqui vai ser mais R$5,00.
+
+E aqui vai ser mais R$10,00.
+
+Pronto.
+
+O nosso R$1,00 está feito.
+
+Pessoal, alguma dúvida até aqui?
+
+Tranquilo?
+
+Pessoal.
+
+Com licença.
+
+Oi.
+
+Eu só não entendi uma coisa.
+
+No fio A, na TUSD, a gente paga a remuneração da transmissora que é para usar os fios dela, né?
+
+A estrutura física dela.
+
+É isso, né?
+
+Isso.
+
+Na TE, tem esse transporte único e exclusivo da Itaipu, esses gastos de transporte?
+
+Isso.
+
+É, isso aí.
+
+Esse aqui é que o transporte da Itaipu tem um tratamento especial dentro da TE.
+
+É exatamente isso.
+
+Tá?
+
+Porque ela tem uma rede especial lá.
+
+Itaipu.
+
+Então, mas pelo SIM, como o sistema é interligado, eu não sei de onde vem a energia.
+
+E mesmo assim, eu tenho que pagar por Itaipu?
+
+Essa taxa?
+
+É justamente por isso.
+
+Porque ninguém sabe de onde está consumindo energia, concorda?
+
+Quando você recebe a sua energia...
+
+Eu estou aqui em São Paulo.
+
+Eu recebi minha energia.
+
+Eu estou remunerando por...
+
+Eu estou pagando.
+
+A gente não paga sozinho, né?
+
+A gente está pagando com o resto da população toda.
+
+Mas a gente está pagando para que chegue energia de qualquer lugar.
+
+Entendeu?
+
+Essa energia para suprir a gente está vindo de qualquer lugar.
+
+Esse que é o ponto.
+
+Então, é o seguinte.
+
+Imagina que a conta disso aqui de Itaipu é 1 bi.
+
+Sei lá.
+
+Tá?
+
+E a conta de qualquer outra parte da rede também é 1 bi.
+
+Então, todo mundo reparte esse custo.
+
+Porque mesmo a gente que está aqui no Sudeste, como quem está lá no Nordeste, em alguma medida, está remunerando o uso da rede Itaipu.
+
+Da mesma forma que a gente está remunerando todo o resto do sistema.
+
+Entendeu?
+
+Por quê?
+
+Porque o sistema é interligado.
+
+Porque se a gente fosse pegar essa lógica, por exemplo, a gente poderia até pensar assim.
+
+Bom, quais são as usinas que têm maior probabilidade de me atender aqui na região Sul?
+
+Ah, são essas usinas.
+
+Só que não é assim que funciona.
+
+Porque percebe o seguinte.
+
+Não necessariamente essas usinas vão gerar o montante necessário, única e exclusivamente para nos atender.
+
+Tanto por isso que a gente tem um intercâmbio de energia, que a gente falou na última aula.
+
+Então, se eu tenho uma geração no Sudeste maior que o necessário para atender o Sudeste, então o Sudeste está precisando, sei lá, de um giga médio, um gigawatt médio, por exemplo.
+
+Só que eu gerei dois gigawatts médios.
+
+Eu abato o consumo instantaneamente aqui e escou o restante da energia para o resto do país, para quem está ligado.
+
+Isso acontece de forma instantânea, a gente não percebe.
+
+Mas a gente garante com isso que essa usina que é gigante, por exemplo, Itaipu, se ela gerar mais do que uma área da região imediatamente próxima precisa, o sistema escoa para quem precisa.
+
+E se eu tenho uma fonte barata ou gerando, no caso de Itaipu, por exemplo, eu evito que uma térmica lá no Norte, por exemplo, se acione porque eu estou interligado e estou escondendo essa energia.
+
+Ficou claro, Thales?
+
+Do porquê esse custo é repartido?
+
+Ficou sim.
+
+Legal.
+
+Obrigado.
+
+Imagina.
+
+Então é importante a gente ter isso em mente, pessoal.
+
+Bom, vamos avançando que o tempo está voando aqui.
+
+Então, pessoal, se a gente tem essa dinâmica de custo, pagando por TUD, por TR, etc., o que a gente pode esperar?
+
+Que dependendo da estrutura do consumidor ou do formato do consumidor, você tenha um tratamento ou uma forma de cobrança diferenciada a depender do consumidor.
+
+Então, por exemplo, a gente inicia o conceito aqui de subgrupos tarifários.
+
+A gente até agora falou bastante de média tensão, baixa tensão, e isso interfere muito.
+
+Vamos fazer um exercício mental aqui rápido.
+
+Quando você recebe energia na sua casa, você já está recebendo ela em baixa tensão.
+
+O que está chegando na sua casa é 220 volts. 220 volts, 127.
+
+Dependendo do comércio que você está, chegar a 380, 220, por aí.
+
+Isso é baixa tensão.
+
+O que a distribuidora fez?
+
+Ela pegou aquela energia que a transmissora entregou para ela na subestação.
+
+Essa energia, quando foi entregue lá, a energia elétrica foi entregue num nível de tensão elevado.
+
+A gente vai ver isso.
+
+Essa energia foi entregue, sei lá, em cento e tantos quilovolts.
+
+Foi entregue num nível de tensão alto.
+
+Só que é um nível de tensão que não é utilizável de imediato.
+
+A gente está a trabalhar.
+
+Não existe máquina, computador que vai rodar com 100 mil volts, 100 quilovolts.
+
+Então, o que a distribuidora faz?
+
+Ela rebaixa esse nível de tensão para algo ali entre 13 e 34 quilovolts.
+
+Por isso que a gente chama isso de mega tensão, porque a alta tensão, de fato, efetiva, ela é considerada para fins pragmáticos acima de 34, 69 quilovolts.
+
+Então, a tensão é rebaixada.
+
+Por quê?
+
+Porque fica mais prático você distribuir a energia no centro de consumo já com a tensão mais baixa.
+
+Quando chega, por exemplo, na rua, na tua rua de casa, na avenida que você mora próximo, vocês vão perceber, todo mundo já viu, os transformadores lá nos porres, etc.
+
+Isso é uma outra etapa de rebaixamento de tensão.
+
+Ela está trazendo essa tensão de 13 mil volts, mais ou menos, para o que você e os pequenos comércios, por exemplo, precisam para utilizar.
+
+O custo dela fazer esse serviço de rebaixa, rebaixa, distribui, etc., ela repassa na tarifa dos consumidores de baixa tensão.
+
+Agora, imagine que você é um consumidor que você fala assim para a distribuidora, não precisa rebaixar para a minha tensão.
+
+Deixa que eu faça esse rebaixamento.
+
+Deixa que eu construo aqui na minha indústria uma cabine primária, está certo?
+
+Você me entrega essa energia em 13 mil volts e eu rebaixo para usar aqui dentro.
+
+Então, eu vou investir na minha cabine primária, no meu transformador, etc.
+
+Isso é o que, em resumo, separa a realidade do consumidor que é conectado em média tensão, porque ele assim o é, ele recebe a energia em média tensão, do consumidor de baixa tensão.
+
+Só que, dadas essas características, um consumidor vai pagar por esse serviço.
+
+O outro consumidor, ele mesmo, vai investir e rebaixar a tensão, que é o caso da média tensão.
+
+Existe um tratamento tarifário distinto entre os dois.
+
+A gente vai entender agora por quê.
+
+E é isso que dá origem ao subgrupo tarifário.
+
+Por isso que a gente tem baixa tensão, grupo B, e alta barra média tensão, grupo A. Justamente por quê?
+
+Um vai receber, repetindo, a energia ainda a ser tratada, vamos dizer assim, entre aspas, e o outro já o seu produto final.
+
+Qual que é um segundo motivo para isso?
+
+Que, na verdade, é um segundo motivo que eu vou citar, mas é, muitas vezes, a raiz da questão.
+
+Quando você recebe a energia elétrica em um nível de tensão mais elevado, você possibilita que haja um transporte de uma capacidade maior, de uma potência maior.
+
+Lembra que, quando a gente fala de energia, a gente está falando em quilowatt-hora, que é a quantidade de potência que você absorve ao longo do tempo.
+
+Isso é energia.
+
+Quando a gente fala em potência sozinha, é quilowatt.
+
+Tudo bem, gente?
+
+É bom a gente refrisar esses conceitos.
+
+Então, quando você recebe energia em um nível mais alto de tensão, vamos lembrar, eu poderia ter colocado na tela, lembram da lei de Ohm, da potência?
+
+Potência é igual a tensão vezes corrente.
+
+Lembram disso?
+
+Então, são inversamente proporcionais.
+
+Quanto maior a tensão, menor a corrente, para se entregar uma determinada potência.
+
+Se você rebaixa essa tensão, você, consequentemente, eleva a corrente elétrica para entregar a mesma potência.
+
+Por que a gente quer reduzir a corrente elétrica para transportar energia?
+
+Em primeiro lugar, segurança.
+
+Em segundo lugar, custo.
+
+Quem nunca fez, por exemplo, uma instalação em casa, se não fez, faça, vale o exercício.
+
+Quando você vai comprar cabo para instalar um chuveiro elétrico, por exemplo, alguma coisa assim, você não vai comprar o cabo mais grosso de todos.
+
+Você vai comprar o cabo que é ideal para instalar o chuveiro para atender aquela potência.
+
+Porque se você reduz muito a sessão do cabo, você corre o risco de ter superaquecimento, não tem segurança.
+
+Se você exagera no cabo, você vai gastar mais confiação.
+
+O exercício é o mesmo.
+
+É claro que não é nesse nível de simplicidade, mas basicamente é isso que acontece.
+
+Então, existe um tratamento distinto do ponto de vista físico para se entregar energia com segurança, mas, consequentemente, como essa dinâmica de custos muda, existe um tratamento tarifário diferente também.
+
+E isso é imprescindível que a gente compreenda, uma vez que os consumidores que estão no mercado livre, que podem ir para o mercado livre hoje, são consumidores de média tensão.
+
+E os consumidores de média tensão têm algumas alternativas em termos de escolha da tarifa que eles vão ser cobrados.
+
+Então, o que a gente tem dentro do Grupo A?
+
+Você tem uma primeira alternativa de tarifação, que é a tarifa azul.
+
+Ou tarifa oro-sazonal azul.
+
+Por que tarifa oro-sazonal?
+
+Ela é mais oro hoje do que sazonal.
+
+Porque, antigamente, essa tarifa variava em função da hora do dia, ou do patamar de hora do dia, ponta ou fora-ponta, então oro.
+
+E sazonal, porque ela tinha alguns ajustes dependendo do período do ano, se o período era úmido ou era seco.
+
+Úmido, período que vai...
+
+Sempre erro.
+
+Que vai de novembro a abril, ou novembro a março.
+
+E período seco, que vai de abril até outubro.
+
+Por que eu brinquei que ela não é mais sazonal?
+
+Porque esse tratamento sazonal agora é dado pelas bandeiras tarifárias, como a gente vai ver.
+
+Então, o efeito dessa sazonalidade hoje é percebido pelas bandeiras tarifárias.
+
+Mas ela depende do patamar horário.
+
+Então, o consumidor de energia em média tensão, ou seja, que está no Grupo A, ele tem uma primeira alternativa, que é a tarifa azul.
+
+Como que vai funcionar essa tarifa azul?
+
+Ele vai ter, basicamente, quatro preços distintos.
+
+Porque ele vai pagar por duas...
+
+Por dois elementos.
+
+O primeiro elemento é a demanda.
+
+A demanda diz respeito a essa capacidade de potência que a distribuidora vai entregar para ele.
+
+O kilowatt.
+
+Então, a demanda é isso.
+
+A potência disponibilizada pela distribuidora para aquele consumidor.
+
+Então, vocês veem que a demanda tem relação com essa entrega da energia, com essa capacidade física de se entregar aquele montante elétrico de potência.
+
+Isso é a demanda.
+
+Então, vejam que não tem hora em demanda.
+
+É kilowatt.
+
+É uma capacidade.
+
+E o outro elemento é o consumo, propriamente dito.
+
+É a relação que vai haver ao longo do mês, ao longo de um dado período, entre o que o cliente absorve da rede vezes o tempo que ele usa.
+
+Porque hora ele vai ligar 90% do maquinário, hora ele vai ligar 40%, 20% e tal.
+
+Isso vai variando ao longo do mês.
+
+Essa potência que ele absorve vai variando.
+
+E ao longo do tempo ele vai multiplicando, tendo ali os consumos acumulados de energia.
+
+Por outro lado, a demanda independe desse regime de consumo.
+
+A demanda, a distribuidora fala, olha, você tem aqui, eu estou te entregando, ou você tem aí a sua disponibilidade a absorver 500 kilowatts, por exemplo, da minha rede.
+
+Então, o máximo de máquina que você pode ligar ao mesmo tempo tem que totalizar 500 kilowatts.
+
+Se você extrapolar, você é multado.
+
+Se você não extrapolar, você está absorvendo dentro do que você contratou.
+
+Agora, se ele decidir ligar 500 kilowatts e deixar rodando 24 horas, ele tem um consumo.
+
+Se ele rodar 500 kilowatts durante 5 horas, é outro consumo.
+
+Então, 500 kilowatts demanda, por exemplo, 500 kilowatts hora, ele deixou 500 kilowatts ligados ao longo de 1 hora.
+
+Ou deixou 500 kilowatts ao longo de 1 quarto de hora no dia, depois 1 quarto de hora no outro, 1 quarto de hora no outro, 1 quarto de hora no outro.
+
+Tudo bem, gente?
+
+Então, quem paga a tarifa azul, paga por esses elementos.
+
+E como eu falei que ela é uma tarifa orossazonal, vocês percebam que existe uma divisão importante.
+
+O cliente vai ter uma demanda contratada para o horário de ponta.
+
+Esse horário de ponta varia dependendo da região que você está.
+
+Aqui em São Paulo, no Estado de São Paulo, o horário de ponta vai dar 5h30 da tarde até as 8h30 da noite.
+
+São 3 horas de ponta.
+
+O que acontece com hora de ponta?
+
+Você não precisa ser do setor elétrico para saber.
+
+Se você já andou de Uber, você sabe o que é hora de ponta.
+
+Na hora de ponta, o custo para se prestar um dado de serviço, ele aumenta.
+
+Ele aumenta.
+
+E não é diferente na tarifa azul.
+
+Os custos para se atender à ponta são sempre mais altos no setor elétrico do que não se atender à ponta.
+
+Então, você tem uma demanda...
+
+Ele tem que contratar o cara que está na tarifa azul uma demanda para ser atendido na ponta e uma demanda para ser atendido fora da ponta.
+
+Então, dependendo do planejamento, ele fala que eu preciso contratar 500 kW de demanda na ponta e fora da ponta, eu contrato um pouco mais, por exemplo.
+
+Depende...
+
+A gente vai ver hoje.
+
+Eu contrato um pouco mais, 600 kW, porque eu vou precisar.
+
+Porque o meu planejamento de produção é assim.
+
+Tudo bem?
+
+Beleza, gente?
+
+Até aqui.
+
+Se você entendeu tarifa azul, entender tarifa verde é mais fácil ainda.
+
+Por quê?
+
+Na tarifa verde, você tem, neste caso, somente uma demanda.
+
+Você tem uma demanda única.
+
+A demanda que você contrata na tarifa verde serve para todos os horários.
+
+Você não precisa contratar uma demanda para a ponta e uma para fora da ponta.
+
+Você contrata só uma.
+
+Por outro lado, você continua pagando por um consumo na ponta e um consumo fora da ponta de energia.
+
+Isso a gente pode já adiantar.
+
+No primeiro momento, às vezes, não é intuitivo.
+
+Essas relações de preços aqui na azul seguem uma certa lógica que não necessariamente acontece na verde.
+
+Eu quero dizer com isso.
+
+Por exemplo, a gente vai ver isso já já numa tarifa que a gente vai analisar.
+
+Então, por exemplo, na azul, via de regra, via de regra, via de regra não, sempre.
+
+A tarifa de demanda na ponta é bem mais alta do que a tarifa de demanda fora de ponta.
+
+E o consumo de ponta é um pouco mais alto que o consumo fora de ponta.
+
+Um pouco mais alto que o consumo fora de ponta.
+
+O custo, a tarifa.
+
+E a tarifa de demanda na ponta é, via de regra, o dobro.
+
+Via de regra não, sempre.
+
+O dobro da demanda fora de ponta.
+
+Na tarifa verde, porém, veja só.
+
+Você tem uma demanda só.
+
+Então, você tem uma tarifa de demanda.
+
+Aqui, o consumo ponta não é um pouco maior do que o consumo fora de ponta.
+
+Ele é muito maior.
+
+Então, essa relação aqui de custos muda.
+
+E veja o que você está pagando em função do seu consumo.
+
+Não é em função de uma demanda pré-contratada.
+
+Se você ultrapassar, você tem multa?
+
+Tem.
+
+Mas se você fizer um bom dimensionamento da tua necessidade, você não vai ultrapassar.
+
+Então, tem que ter uma inteligência envolvida na seleção da melhor tarifa.
+
+Para o pessoal que está na média tensão, principalmente.
+
+Tem mais alguma para a média tensão?
+
+Gente, observação.
+
+Estamos falando de consumidores cativos.
+
+Não estamos falando nada de livre ainda.
+
+Então, pensando em consumidores cativos.
+
+Média tensão, tem mais alguma alternativa de tarifa?
+
+Tem.
+
+É uma alternativa que está em desuso.
+
+Que é a tarifa convencional.
+
+Você tem uma tarifa de demanda e uma tarifa de consumo.
+
+Muito, muito, muito difícil servelmente um contrato desse.
+
+Já passou algumas faturas na minha mão com isso aí.
+
+Mas foram a minoria da minoria.
+
+Realmente, o que manda é tarifa azul e tarifa verde.
+
+Pessoal, tudo bem até aqui?
+
+Média tensão.
+
+A gente já começou pelo mais complicadinho.
+
+Vamos fazer treino, mas...
+
+É imprescindível compreender isso no detalhe, gente.
+
+Está claro?
+
+Se alguém ficou com dúvida, a gente explica de novo essa conceituação toda.
+
+Bom?
+
+Bom.
+
+Com isso, a gente finaliza as tarifas, os modelos tarifários para os consumidores regulados de média tensão.
+
+Temos os de baixa.
+
+Somos nós, nós todos.
+
+Todos nós somos, em algum nível, consumidores de baixa tensão.
+
+Então, o que a gente tem hoje?
+
+Eu não sei se alguém tem aqui tarifa branca, mas a maioria vai ter tarifa convencional.
+
+É o que a gente está acostumado, certo?
+
+Você paga uma tarifa única.
+
+Tem uma tarifa lá que, dentro daquela tarifa, em reais por quilowatt-hora, está o custo do transporte.
+
+Dentro daquela tarifa, em reais por quilowatt-hora, está o custo da TE, que é o exercício que a gente fez agora há pouco.
+
+Está tudo dentro dessa tarifa e é uma tarifa única.
+
+Percebam que o entendimento de como ela funciona é muito mais simples.
+
+Apesar de ser muito mais simples, a população, de modo geral, ainda tem dificuldade de compreendê-la, mas ela é um modelo muito razoável para você atender a população, de modo geral.
+
+A gente fazer uma explicação de tarifação desse tipo aqui não é simples.
+
+Então, não é à toa que é o modelo de tarifa mais utilizado, não só por ser baixa tensão e, consequentemente, lidar com a maior quantidade de pessoas, lidar com a maior parcela da população, mas, realmente, o seu tratamento é muito simples.
+
+O que acontece aqui, na tarifa convencional, por outro lado?
+
+A gente não tem, de fato, um sinal bom do quanto que a gente está usando da rede ou quanto que a gente está remunerando pelo transporte.
+
+A gente não tem um compromisso de gerenciar a nossa demanda.
+
+A gente, realmente, só utiliza o consumo e fica totalmente a cargo da distribuidora a gestão desse risco associado ao quanto ela vai entregar na sua casa.
+
+Recentemente, mais recentemente, na verdade, agora eu esqueci o ano exato, eu acho que isso foi em 2016 ou 2017, por aí, a Anel implementou a tarifa branca.
+
+Ainda é uma tarifa pouco utilizada pelo Grupo B, mas é uma tarifa bem bacana, porque se você fizer um planejamento e compreender bem o seu consumo, você pode aproveitar alguns benefícios, porque ela divide a semelhança do que acontece nas tarifas de média, ela divide ou ela secciona o nível do custo que vai ser cobrado de você ao longo de um dia.
+
+Você continua pagando dentro de um único formato, uma tarifa volumétrica, quilowatt-hora, que é a separação explícita do custo de capacidade, que é a demanda, mas você tem separações horárias bacanas, você tem o consumo fora-ponta, você tem um consumo intermediário e um consumo ponta.
+
+Então, o consumo fora-ponta é bem mais baixo, o intermediário já fica um pouquinho mais alto e o consumo ponta realmente extrapola, fica bem alto.
+
+Então, veja, se você, na tua residência ou no teu pequeno comércio, consegue fazer um trabalho de gestão da energia para garantir que a maior parte do consumo fique fora da ponta e você evite o consumo no intermediário e na ponta, você consegue ter uma economia razoável frente à tarifa convencional.
+
+Vale a pena fazer uma análise aí, dependendo da tua casa mesmo, teu apartamento, você pode ter algum benefício.
+
+Não sei agora, em tempos de pandemia, que todo mundo está dentro de casa toda hora, mas vale a pena considerar.
+
+Tá bom, pessoal?
+
+Então, o que vale a pena a gente citar aqui?
+
+Percebam que as tarifas do grupo A são tarifas essencialmente binômias.
+
+Você paga por duas grandezas diferentes, você paga por demanda e por consumo.
+
+Por outro lado, no grupo B, as tarifas são monômias.
+
+E só para ressaltar, qual que é a raiz dessa diferença?
+
+É a atenção que é entregue à energia.
+
+Então, por exemplo, no grupo A, você tem do A1 até o AS.
+
+A grande maioria dos consumidores, em termos de quantidade, é atendido no A4, média tensão, de 2,3 a 25 kV.
+
+Uma galera considerável também em A3 e A3A. Realmente, quando você passa a ter indústrias, por exemplo, muito grandes, que vão precisar de uma potência muito elevada, imagina uma Braskem da vida, uma Vale, enfim, não é impossível você encontrar lá o pessoal sendo alimentado em A1 ou A2. 138 kV, por exemplo.
+
+Porque o pessoal vai ter uma subestação maior, etc., vai rebaixar e tal.
+
+Então, quanto mais intensivo for o uso ali, ou a necessidade de potência, melhor que a tensão seja alta mesmo.
+
+Agora, por outro lado, você tem alguns grupos na B também.
+
+Vejam, todos eles aqui baixam a tensão, só que tem algum tratamento econômico distinto.
+
+No B1, você tem residencial, residencial baixa renda, tem a classe rural, que também tem uma tarifa especial, tem as classes comerciais aqui no B3, e a iluminação pública.
+
+Os pontos de iluminação pública são faturados dentro da classe B4.
+
+Tudo bem, pessoal?
+
+Alguma dúvida até aqui?
+
+Não tem dúvida até aqui?
+
+Agora é tranquilo.
+
+Beleza.
+
+Então, vamos seguindo aí.
+
+Bom, gente, então, beleza.
+
+A gente está entendendo a estrutura tarifária, a joia, subgrupo, como funciona esse negócio todo.
+
+E a gente tem que entender um elemento importante agora antes de chegar no cerne da tarifa.
+
+Como que acontecem os reajustes?
+
+De onde sai esse preço?
+
+E aí, eu queria só destacar aqui, antes da gente olhar para uma tarifa de fato, esses processos tarifários, porque, às vezes, acontece muita confusão nesse sentido.
+
+Bom, mas toda hora tem reajuste, toda hora tem revisão.
+
+Como que acontece?
+
+Como que essa dinâmica de análise dos preços, como que esses preços vêm?
+
+Como que esses preços de energia mudam?
+
+O que vale a gente destacar são os processos tarifários que são de revisão, reajuste, que são basicamente os principais, mas ainda existe também o processo de revisão extraordinário.
+
+Resumidamente, o que acontece todo ano é o quê?
+
+Reajuste.
+
+Depois vocês leiam à vontade os detalhamentos, mas todo ano existe reajuste tarifário.
+
+O reajuste tarifário, basicamente, como o nome diz, preza por equilibrar economicamente o contrato vigente da concessão de distribuição.
+
+Então, o que manda ali?
+
+Inflação, fatores de qualidade do serviço da distribuidora, se ela está prestando o melhor serviço, ela é premiada, entre aspas, por isso.
+
+É o tal do fator X que a gente chama.
+
+Então, o reajuste ocorre em uma base anual.
+
+A cada três, quatro, cinco anos, dependendo de como é o contrato de concessão, acontece a revisão.
+
+Essa revisão é bem mais estrutural do que o reajuste.
+
+Tanto que você tem aí, inclusive, módulos distintos dentro do PRORET, que a gente apresentou o procedimento, que trata desses processos.
+
+O módulo 2 trata só da revisão e o módulo 3 trata só do reajuste.
+
+Então, é algo muito mais estrutural na revisão.
+
+Lógico, no final do processo vai sair uma tarifa atualizada, mas esse que é o ponto.
+
+Essa revisão tarifária é um processo mais moroso até, internamente, nessa relação distribuidora-anel, por exemplo, que o reajuste é muito mais dinâmico.
+
+É claro que você tem as revisões extraordinárias.
+
+O que a gente já viu ano passado, por causa da pandemia, e veremos, inclusive, presumo, se bobear mais.
+
+Justamente por algum acontecimento de força maior, fatores fora do controle da concessionária, ela pode pedir uma revisão extraordinária.
+
+Por que revisão?
+
+Porque o reajuste não é suficiente para cobrir algum problema que ela pode ter tido naquele período.
+
+E aí, pessoal, são desses reajustes, dessas revisões, que saem as tarifas de aplicação, que são aquelas que vão parar a nossa fatura.
+
+E dentro desse processo de reajuste ou revisão, é que são tratados todos aqueles componentes que a gente mostrou slides atrás.
+
+Os de ITS, os subcomponentes, e a cada ciclo de revisão ou de reajuste tarifário, a gente tem uma nova tarifa vigente.
+
+É claro que esse reajuste pode ser para mais ou para menos, mas essa é a raiz disso.
+
+E aí eu vou mostrar para vocês agora o caminho das pedras.
+
+Nesse link aqui...
+
+Porque assim, pode ser que alguém aqui pergunte, mas como que eu acho as tarifas?
+
+Vocês estão vendo bem a minha tela?
+
+Eu estou usando uma tela grande aqui.
+
+Não sei se vai ficar muito pequeno para vocês, está bom?
+
+O tamanho?
+
+Está bem legível.
+
+Legal.
+
+Então, gente, eu não aguento mais ficar entrando em site de um monte de distribuidora para ficar vendo onde está a tarifa de fulano.
+
+É horrível, né, gente?
+
+Eu sei que é horrível.
+
+Se você quer saber as tarifas e ficar entrando em cada uma, horrível, péssimo, muito ruim.
+
+Cada uma vai mostrar de um jeito, uma mostra a informação mais completa, outra incompleta.
+
+Resolva seu problema indo na fonte.
+
+Lembra o que eu falei na primeira aula?
+
+Tudo de graça se você navegar nos sites corretos.
+
+Sites corretos são Anel, CCE, ONE, CPE.
+
+Então, aqui nessa página de tarifa da Anel, você tem tudo.
+
+Quero saber de ProRet, está aqui.
+
+Relatório, ranking e tal.
+
+Gente, aqui, calendário e resultado dos processos tarifários.
+
+É o que a gente está vendo agora.
+
+Processo tarifário.
+
+Pronto.
+
+É o calendário, então é só clicar aqui, pessoal.
+
+Vocês vão ter acesso a tudo.
+
+Não só o vigente, que está vigente esse ano, mas de quando você quiser.
+
+Nossa, eu quero fazer mestrado em tarifa de energia elétrica.
+
+Você vai passar, vai ter mestrado inteiro aqui.
+
+O que você tem?
+
+Tudo basicamente aqui.
+
+Categoria do agente.
+
+Eu quero ver todos.
+
+Quero ver permissionárias, concessionárias.
+
+Vamos escolher uma aí.
+
+Alguém fala aí uma concessionária, por favor.
+
+Qualquer uma.
+
+Para eu não monopolizar a escolha aqui.
+
+Anel.
+
+Qual Anel?
+
+Anel...
+
+Miterói, acho que Miterói é Anel, né?
+
+É, Anel Rio de Janeiro, isso aí.
+
+Boa.
+
+A Anel é uma concessionária.
+
+Ah, eu não tenho certeza do que é.
+
+Põe todos aqui.
+
+Então vamos lá, Anel.
+
+Ceará.
+
+Anel Rio de Janeiro.
+
+Pronto.
+
+Aí a gente vai olhar aqui.
+
+Ah, eu sei o que eu quero olhar?
+
+Depende.
+
+Ah, eu quero olhar a tarifa vigente, a mais recente.
+
+O que está vigente hoje.
+
+Então eu boto todos, porque eu não sei.
+
+Eu não tenho certeza se foi reajuste, revisão, o que foi o último.
+
+Eu acho que foi reajuste.
+
+Mas vamos botar todos aqui.
+
+E o ano.
+
+O último reajuste, o último processo, na verdade, eu não sei o que é.
+
+Mas o último processo foi em 2021.
+
+Pronto.
+
+Procurei.
+
+Então em 2021, a Anel agora fez um reajuste em 15 de março.
+
+Estátus definitivo.
+
+Aí, gente, olha só.
+
+Você vai ter nível tarifário, estrutura tarifária e atos regulatórios.
+
+Se você quer estudar muito a fundo o que ela fez, você vem aqui em nível tarifário.
+
+Se você quiser estudar profundamente o que ela fez, vem aqui.
+
+Agora, se você quiser saber exclusivamente o essencial, você vem aqui em ato regulatório.
+
+Tá?
+
+Então vamos ver.
+
+Vou clicar em ato regulatório.
+
+Abrir aqui.
+
+O que vai ter dentro desse ato aqui?
+
+Homológio, resultado do reajuste, tal, da tarifa TE e das tarifas TUSD, da Anelville e blá, blá, blá.
+
+Outras providências, tá?
+
+No ano de março, ó.
+
+E aqui fala...
+
+Esse textinho é legal para você ter uma noção.
+
+Aqui dá o resumo.
+
+Em média, reajustou em 6,2%.
+
+Tá vendo?
+
+Tem um resuminho aqui do que aconteceu.
+
+Mas o mais importante no teu dia a dia, a não ser que você queira, repito, entender a coisa com profundidade, é o que está no final.
+
+Tarifas de aplicação e base econômica.
+
+Qual que é a diferença?
+
+Base econômica...
+
+Ela...
+
+Ela não tem alguns ajustes específicos relativos.
+
+Se eu não me engano, aí é mais profundo, mas algumas coisas referentes a encargos e perdas ficam pendentes na base econômica.
+
+Então sempre olhe, pessoal, para a tarifa de aplicação, que é a tarifa efetivamente que vai ser aplicada, como o nome diz, para o consumidor que está na Anelville.
+
+Tá?
+
+E aí aqui nesse PDF você tem absolutamente tudo.
+
+Tudo.
+
+Você tem a tarifa do A2, modalidade azul, a tarifa do A2, modalidade azul, autoprodução de energia, distribuição, geração.
+
+Então, os agentes de geração, que nesse caso são esses aqui, que estão conectados em A2, eles vão pagar esses custos aqui.
+
+Vai pagar a TUSD, porque o agente de gerador está conectado para gerar energia em A2.
+
+Então ele vai pagar para a distribuidora R$3,61 por kW que ele for injetar na rede.
+
+A3, mesma coisa.
+
+Outra coisa.
+
+Percebam que A2 e A3, você só tem azul.
+
+Percebem?
+
+Consumidor em A2 e A3, o consumidor é azul.
+
+Quando você chega no nível de A3A, aí você começa a ver verde.
+
+Tá?
+
+Isso vai ter a ver com um conceito que a gente vai explorar melhor na próxima aula, chamado fator de carga.
+
+Mas deixem isso por enquanto em stand-by.
+
+Então vejam o verde aqui.
+
+Aí você tem o A4.
+
+Tem até o cara.
+
+Quem está gerando energia no A4?
+
+Aqui não é geração distribuída, pessoal.
+
+Micro e mini geração distribuída.
+
+Não é isso.
+
+Aqui é gerador mesmo.
+
+Produtor independente de energia.
+
+E os de baixo tem que estar aqui.
+
+B1.
+
+Aí você tem a tarifa branca.
+
+Tá vendo?
+
+Tarifa branca.
+
+Ponta intermediária e fora ponta.
+
+Aqui.
+
+Pergunta.
+
+Essas tarifas já têm impostos?
+
+O que vocês acham?
+
+Sim, acho que sim.
+
+Quem que falou Tatares?
+
+Pior que não, viu?
+
+Então aqui é R$ 932,00 por megawatt-hora.
+
+Sem impostos.
+
+A convencional aqui, R$ 445,00.
+
+Só a parte Tuesday.
+
+Sem impostos.
+
+Isso aqui a gente chama de tarifa seca.
+
+Ela está seca.
+
+Não tem imposto nenhum aqui ainda.
+
+O que vai entrar aqui ainda?
+
+Pelo menos Piscofins e ICMS.
+
+Ah, João, trazer aquele papo de ICMS e não sei o quê.
+
+Não dá para a gente falar disso nesse curso.
+
+Infelizmente.
+
+O ICMS é um tabu no setor elétrico.
+
+Tem muita discussão que acontece.
+
+Tem muita coisa que permeia essa questão tributária no setor elétrico.
+
+Mas para todos os efeitos, nas nossas brincadeiras aqui, a gente vai considerar aplicação total de ICMS.
+
+Mas sem impostos, gente.
+
+Tá bom?
+
+Então vejam o que está tudo aqui.
+
+Então, olha só.
+
+Vamos ler aqui uma tarifa.
+
+Sou uma indústria.
+
+Estou no A4.
+
+Então, se eu sou uma indústria, estou no A4.
+
+Legal.
+
+Peguei logo a pior, que a tabela A4 está quebrada.
+
+Então, tudo isso aqui é A4.
+
+Certo?
+
+Sou uma indústria.
+
+Estou no A4.
+
+E estou no subgrupo tarifário azul.
+
+Legal.
+
+Então, você azul, na ponta, vai pagar R$ 68,76 por kilowatt, na TUS de demanda.
+
+Essa TUS de, esse custo de transporte de energia, que é cobrado em reais por kilowatt, kilowatt, a gente chama de TUS de demanda.
+
+Tá?
+
+Na ponta, você vai pagar isso, R$ 68,76.
+
+Tá?
+
+Por outro lado, fora da ponta, no azul, você vai pagar R$ 29,38 por kilowatt pela TUS de demanda.
+
+Demanda, porque é kilowatt.
+
+Certo?
+
+Legal.
+
+O que é, então, essa TUS de reais por megawatt-hora?
+
+O que é isso aqui?
+
+Tá?
+
+A gente chama essa TUS de reais por megawatt-hora porque, veja, é uma TUS de, você paga pelo transporte, só que você não está cobrando por kilowatt.
+
+Não tem a ver com a demanda, tem a ver com o consumo.
+
+Então, a gente chama de quê?
+
+TUS de encargo.
+
+Tá?
+
+Esse custo em reais por megawatt-hora cobre os encargos da TUS de.
+
+Essa reais por kilowatt cobra parcela fio B. Tá?
+
+Basicamente.
+
+O que a gente chama de encargo aqui é o que compõe lá o resto da TUS de.
+
+Tá?
+
+Tá bom, pessoal?
+
+Tudo bem até aqui?
+
+Legal.
+
+Mesma coisa para consumo, estão vendo?
+
+Olha só.
+
+Você vai pagar quase R$401 por megawatt-hora na tarifa de energia na ponta no A4 azul.
+
+Você vai pagar R$257 por megawatt-hora da TE fora da ponta na tarifa azul no A4.
+
+Tudo bem até aqui?
+
+Alguma dúvida?
+
+Vamos fazer mais um exercício desse aqui.
+
+Vamos olhar para o A3.
+
+Vamos olhar lá para cima para o A2, que é mais fácil.
+
+Então, o A2.
+
+Você está no azul.
+
+Então, a sua tarifa de demanda na ponta é R$32,11.
+
+Sua tarifa de demanda fora da ponta é R$17,19 por kilowatt.
+
+Qual é a sua tarifa de consumo?
+
+A sua tarifa de consumo não é demanda.
+
+Consumo na azul, na ponta, vai ser a soma da TUS de encargo, porque é consumo, megawatt-hora.
+
+É consumo, mas eu estou pagando transporte.
+
+Não tem problema, reais por megawatt-hora.
+
+Então, você vai pagar R$81 por megawatt-hora, mais R$400,99.
+
+Então, essa soma aqui, dessas duas, é a sua tarifa de consumo na ponta, no azul, no A2.
+
+Certo?
+
+Existe uma soma de uma parte TUS e de uma parte TE.
+
+Por outro lado, na demanda, você paga isso daqui, na ponta, no azul, no A2.
+
+Mesmo raciocínio para fora da ponta.
+
+Dentro de toda essa custaiada aqui, pessoal, dentro de tudo isso aqui, a gente está pagando aquele negócio todo.
+
+Deixa eu voltar aqui.
+
+Meu pai.
+
+Espera aí.
+
+Agora travei tudo aqui.
+
+Mas eu sei que você sabe onde eu quero chegar.
+
+Né?
+
+Dentro de tudo aquilo lá, está isso aqui.
+
+A questão é que parte da TUS de está em reais por kilowatt, parte da TUS de está em reais por megawatt-hora, e a TE inteira está em reais por megawatt-hora.
+
+Elas depois se subdividem para compor, né?
+
+Isso daqui.
+
+Demanda é TUS de reais por kilowatt e consumo tem uma parte que é TUS e uma parte que é TE.
+
+Tudo bem, gente?
+
+Está claro?
+
+Eu quero olhar, Jonatas, as tarifas da Electro, interior de São Paulo.
+
+Beleza?
+
+2021, o que aconteceu?
+
+2021, 27 de agosto, concessionária Electro.
+
+Tem vários processos, mas só tem um ato regulatório.
+
+Então, essa que está vigente.
+
+Mesma coisa.
+
+Vou olhar a Electro aqui.
+
+Eita, tem gerador para caramba na Electro.
+
+Olha a A2, bom gerador.
+
+A4, bonitinha.
+
+Vamos ver como é a de baixa tensão na Electro.
+
+Olha só, pessoal.
+
+Estou na Electro, moro na Electro.
+
+Tenho tarifa convencional.
+
+Gente, tarifa de baixa tensão é monômia, certo?
+
+Opa, é monômia.
+
+Tem TUS de fio, que a gente chama, reais por quilowatt?
+
+Não, porque eu não pago por quilowatt na baixa, eu pago só por megawatt-hora.
+
+Então, eu tenho a tarifa composta por uma TUS de e por uma TR.
+
+Onde está a diferença?
+
+Que na TUS de energia, que a gente chama, na TUS de real por megawatt-hora, na média tensão, só tinham os encargos.
+
+Na baixa tensão, essa TUS de tem tudo.
+
+E tudo está em termos de megawatt-hora.
+
+Mas, do mesmo jeito, isso performa uma única tarifa de consumo.
+
+E eu somo ambas para chegar no seu valor total.
+
+Pessoal, está claro até aqui?
+
+Alguma dúvida?
+
+Pode perguntar, gente.
+
+Não tem pergunta errada.
+
+Não tem pergunta errada.
+
+Só vou seguir.
+
+Quando alguém descer, dá hora de vida, hein?
+
+Está tudo ok, Bruce.
+
+Eu mandei no chat, mas está ok.
+
+Ah, legal.
+
+Às vezes eu perco o visual do chat aqui.
+
+Beleza.
+
+Então, é isso aí, pessoal.
+
+Eu sei que eu posso estar chovendo no molhado também, né?
+
+Porque o pessoal aí também já manja de tudo e tal, e eu estou chovendo no molhado.
+
+Mas é importante para a gente não perder a lógica toda, tá?
+
+Então, gente, seguindo aqui, uma vez que a gente compreendeu isso, o que a gente tem?
+
+Então, como a gente viu, essa parcela a gente chama de TUS de demanda, essa parcela a gente chama de TUS de encargo, e essa parcela a gente chama de tarifas de energia propriamente dita.
+
+Todas elas, ou essas três, né?
+
+Elas vão aparecer, em maior ou menor medida, para compor as tarifas finais, que vão ser faturadas para o cliente final.
+
+Percebam que você tem os postos tarifários, ponta fora a ponta, ponta fora a ponta.
+
+O máximo que vai acontecer é que, se não se aplicar, você não vai ter nenhuma tarifa associada.
+
+Beleza?
+
+Antes da gente fazer um exercício, o que são as bandeiras tarifárias, né, pessoal?
+
+Isso aqui é bem legal de saber.
+
+Como eu falei que as tarifas, elas...
+
+Principalmente as tarifas de média tensão, elas são chamadas de orossazonais, no passado havia uma sinalização do quanto que o sistema elétrico brasileiro estava comprometido e o quanto que ficaria mais caro entregar essa energia para o consumidor.
+
+O que a gente quer dizer por comprometido, especialmente o Brasil, especialmente hidrelétrica, realmente é a escassez de chuvas.
+
+Acontece que, em 2015, essa sistemática de cobrança adicional mudou para esse regime de bandeiras, que é bastante intuitivo.
+
+Então, a gente tem ali os sinais do semáforo, verde, amarelo e vermelho.
+
+Aqui no vermelho você tem dois patamares, vermelho 1 e vermelho 2.
+
+E, no final do mês passado, a gente teve a criação de uma bandeira preta, que é preta porque realmente o negócio está preto.
+
+Já está um pouco melhor, mas já ficou bem ruim no mês passado.
+
+Mas não é porque está um pouco melhor que a gente vai exagerar em casa.
+
+Então, o que foi a bandeira escassez hídrica?
+
+O que acontece?
+
+Onde que a bandeira entra?
+
+A bandeira entra dentro da componente TE.
+
+Quem que a bandeira encarece?
+
+A componente TE.
+
+Então, se as condições de geração de energia estejam favoráveis, existe necessidade para eu incentivar que o consumidor manere no consumo?
+
+Não.
+
+Então, eu não tenho cobrança adicional.
+
+Porque quando eu quero que o consumidor reduza o consumo?
+
+Quando eu tiver escassez.
+
+Porque se eu tenho escassez e o consumo se elevar demais, eu preciso acionar térmica.
+
+Se eu aciono térmica, o custo de geração fica mais elevado.
+
+E esse custo tem que ser repassado para o consumidor.
+
+Agora, se eu estou com condições um pouco menos favoráveis, eu já começo a cobrar.
+
+E esse custo de bandeira, ele vai entrar aqui, na TE.
+
+Então, por exemplo, nessa azul, R$ 424,00 por megawatt-hora.
+
+Decora esse número. 424, arredondado.
+
+Se eu estou num cenário amarelo, o que é 1,87 por 100?
+
+A cada 100 kilowatt-hora. 1,87 vão ser...
+
+Quanto mesmo, gente?
+
+Se eu trouxer para megawatt-hora, para cada 100 kilowatt-hora, são R$ 0,18.
+
+Ou melhor, R$ 0,18.
+
+Então, R$ 1,87 para cada 100 kilowatt-hora é a mesma coisa que R$ 18,00 por megawatt-hora.
+
+Então, ao invés de eu cobrar R$ 424,00 na TE, eu vou cobrar R$ 424,00 mais R$ 18,00.
+
+No caso de uma bandeira amarela.
+
+Ah, no caso de uma bandeira hídrica, já são R$ 142,00 por megawatt-hora.
+
+Então, eu não vou cobrar mais R$ 424,00.
+
+Vou cobrar R$ 424,00 mais R$ 142,00 por megawatt-hora.
+
+Por que a gente fala em megawatt-hora e não kilowatt-hora?
+
+Porque fica mais fácil de ler os valores.
+
+Já pensou em ficar falando centavos aqui?
+
+R$ 0,42 por kilowatt-hora, 26.
+
+Seria horrível, não é?
+
+Ainda mais no mercado livre que a gente liga com consumos altos.
+
+Então, a gente cada vez mais vai falar em termos de megawatt.
+
+Está bom?
+
+Então, a bandeira sinaliza essas condições de geração.
+
+E a aplicação da bandeira serve justamente para isso, para sinalizar para o consumidor que a coisa não está boa para a geração.
+
+Se o consumo continua elevado, tem que se acionar térmicas.
+
+Então, é um incentivo econômico para que o consumidor reduza o seu consumo.
+
+Está bom?
+
+Então, as bandeiras tarifárias são aplicadas mediante cálculo da ANEL.
+
+E aí, todo final de mês, na última semana do mês, é publicada qual vai ser a bandeira para o próximo mês.
+
+E aqui, eu quero mostrar para vocês.
+
+Isso aqui é um tequinho de uma fatura.
+
+Uma fatura de um consumidor qualquer.
+
+E aí, o que a gente tem?
+
+Consumo, ponta.
+
+Consumo, fora ponta.
+
+Demanda, ponta.
+
+E demanda, fora ponta.
+
+Primeira pergunta.
+
+Qual subgrupo tarifário desse cliente?
+
+Alguém se atreve?
+
+Azul.
+
+É isso aí.
+
+Ele tem duas tarifas de consumo e duas de demanda.
+
+Então, é o azul.
+
+É isso aí.
+
+E olha só.
+
+Aqui, na tarifa de consumo, ponta, o que eu tenho?
+
+Eu tenho atos de encargos.
+
+Então, essa tarifa aqui, que é R$0,33 o quilowatt-hora, ou R$331,79.
+
+Agora, você entendeu, né?
+
+O que acontece depois da vírgula na tarifa, né?
+
+É por causa disso.
+
+Porque o setor precifica em megawatt-hora.
+
+R$331,79 por megawatt-hora.
+
+E aí, o que a gente tem?
+
+A gente tem atos de encargos aqui, que é real por megawatt-hora, mais a TE.
+
+A soma é essa tarifa aqui.
+
+A mesma coisa embaixo.
+
+Só que fora ponta.
+
+Atos de encargos, dá fora ponta, mais a TE.
+
+Percebe que a tarifa de consumo ponta é um pouco mais alta do que a tarifa fora ponta?
+
+Percebem essa diferença?
+
+Agora, olha para a demanda.
+
+Atos de demanda aqui, pelo menos o triplo, né?
+
+Da tarifa fora ponta.
+
+Demanda na ponta, bem mais alta que a demanda fora ponta.
+
+Além disso, o que tem mais aqui, gente?
+
+ICMS.
+
+Então, percebam, esses custos aqui não tem.
+
+Nesse pequinho de fatura, só tem o ICMS, né?
+
+Mas, para todos os efeitos, a gente tem aplicação de fisicofins também.
+
+Aí, já é uma questão de tributação federal.
+
+E a contribuição de iluminação pública.
+
+Gente, o que é a contribuição de iluminação pública?
+
+É um negócio que a gente paga.
+
+Se a gente já não liga para a tarifa, a iluminação pública, então, piorou.
+
+É um convênio que as distribuidoras têm com as prefeituras para arrecadar, em nome dos municípios, o pagamento pelo uso da iluminação pública.
+
+Qual que é o argumento?
+
+A iluminação pública não é um uso comum da população em determinado município?
+
+Então, todo mundo contribui pagando por aquela despesa.
+
+E aí, cada município vai ter a sua taxa de contribuição em função do volume de energia consumida, ou da faixa que você consome.
+
+E aí, é onde existe a arrecadação para abater esse custo, e o custo com isso fica mais baixo da prefeitura.
+
+Inclusive, a prefeitura pode ser até superavitária nesse sentido, mas ela redistribui depois, ou deveria, pelo menos, redistribuir isso de alguma forma lá dentro.
+
+Inclusive, gente, se você entrar aqui na internet, no navegador, você pode colocar COSIP, Eneo São Paulo, por exemplo.
+
+Aí você vai ter aqui o COSIP da Eneo.
+
+COSIP, Contribuição de Iluminação Pública.
+
+Aí você tem a tabela de valores.
+
+Olha só, Barueri.
+
+Então, Barueri, para o pessoal que é classe industrial, eles têm essas faixas de consumo.
+
+Então, acima de 3.000 kWh, o cara está pagando R$ 262,70.
+
+Pronto, você já sabe qual que é.
+
+Minha casa aqui, aqui na minha casa eu sou residencial e consumo mais ou menos nessa faixa.
+
+Então, eu pago R$ 4,40 de contribuição.
+
+Beleza, gente?
+
+Isso aí dá para achar.
+
+Pessoal, vamos treinar?
+
+Agora são 8h20.
+
+Deixa eu ver.
+
+É isso aí, vai dar 8h20.
+
+Lembrando que a gente vai até 10h30.
+
+O que a gente vai fazer?
+
+A gente vai abrir aqui uma planilhinha.
+
+E eu vou fazer uma sessão de breakout.
+
+Não sei se vocês já ouviram falar disso aí.
+
+Eu vou separar vocês aí em grupos.
+
+Então, é hora de pôr a mão na massa.
+
+Não adianta fazer careta.
+
+É hora de separar vocês em grupos.
+
+1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+Vou separar em dois ou três grupos.
+
+E aí, qual que é a missão?
+
+Anota aí.
+
+Deixa eu ampliar aqui o Excel.
+
+Qual que é a missão?
+
+Vocês vão simular um consumidor.
+
+O faturamento de energia desse consumidor.
+
+É o consumidor que está na Lite.
+
+Ele está na tarifa.
+
+Verde.
+
+Ele tem um consumo.
+
+Ponta.
+
+Consumo fora ponta.
+
+Demanda ponta.
+
+Demanda, só demanda.
+
+Demanda ponta, demanda.
+
+Só demanda, vai.
+
+Na verdade, eu vou fazer assim.
+
+Demanda.
+
+Pronto.
+
+O consumidor da Lite.
+
+Ele tem um consumo na ponta de 25 MWh.
+
+Ele tem um consumo fora da ponta de 360 MWh.
+
+E tem uma demanda de 700 kW.
+
+Só para você saber, o ICMS, o PIS e o COFINS, que a gente vai admitir como premissa.
+
+PIS, COFINS.
+
+Vou usar os dois juntos.
+
+O PIS, COFINS, gente, em termos gerais, ele oscila aí na federação para algo da ordem de 6%.
+
+Vamos usar 6%.
+
+E o ICMS lá no Rio de Janeiro, 32%.
+
+Beleza?
+
+Pergunta.
+
+Estatura de energia.
+
+Está certo?
+
+Beleza?
+
+Municipio.
+
+Ele está no município de Rio de Janeiro.
+
+Beleza?
+
+Então é isso aí.
+
+Lite, tarifa verde.
+
+Beleza?
+
+Consumo ponta, consumo fora ponta, demanda única.
+
+ICMS, PIS, COFINS.
+
+Gente, vou dar para vocês aí.
+
+É... 8h21.
+
+Até 8h20... 8h35, tá?
+
+Para vocês em grupo.
+
+Então, 15 minutos.
+
+Para vocês em grupo fazerem essa conta.
+
+Qual que é a fatura desse mês aí desse cara?
+
+Beleza?
+
+Então, todos os recursos estão no material.
+
+Tem acesso às tarifas.
+
+Tem acesso a tudo.
+
+Interajam aí.
+
+Façam essa simulação, tá bom?
+
+Se der tempo, façam também para esse mesmo cliente na azul.
+
+O mesmo consumo aqui.
+
+Mesmo consumo aqui.
+
+Demanda na...
+
+Aqui eu vou colocar essa demanda.
+
+Vamos chamar de demanda ponta.
+
+Para o azul.
+
+Fora ponta, vamos colocar 500.
+
+Tá?
+
+Então, se você fizer para o verde, e sobrar tempo, faz para o azul também.
+
+Tá?
+
+Só que aí no azul, aquele 700 que era único no verde, vira ponta e o 500 fora ponta.
+
+Tá bom?
+
+Beleza, pessoal?
+
+Vou separar vocês aqui então em...
+
+Vou fazer um breakout aqui.
+
+Espera aí.
+
+Vou parar de compartilhar.
+
+Parei de compartilhar.
+
+Deixa eu tirar um...
+
+Espera aí rapidinho.
+
+Mandei aí no chat, tá, gente?
+
+Os dados de simulação.
+
+Acho que ficou meio zoado aí, mas dá para ver.
+
+Deixa eu mandar melhor aqui.
+
+Espera aí.
+
+Deixa eu mandar aqui.
+
+Deixa eu mandar a imagem que fica melhor.
+
+Vou mandar aqui para vocês olharem.
+
+Ixi, não dá para mandar a imagem não.
+
+Tá bom.
+
+Pessoal, só reforçando, tá?
+
+25 megawatt-hora ponta, 360 megawatt-hora fora ponta, 700 demanda contratada na light.
+
+Tá?
+
+E 32% CMS e 6% piscofins.
+
+Se tiver tempo de fazer na azul, considera 700 demanda ponta e considera 500 fora ponta.
+
+Jonathan, a tabela com os valores tem no material ou tem que achar e pegar na internet?
+
+Qual tabela com valores?
+
+A da light.
+
+Tá.
+
+A da Tuzi, da TR.
+
+Ah, não, tem que pegar na internet.
+
+Tem que pegar na internet, tá?
+
+Vou separar aqui vocês em três grupos.
+
+Tá?
+
+E aí é isso, o negócio é isso aí, botar a mão na massa e ir atrás das tarifas, tudo bonitinho, e rodar esse negócio aí.
+
+Tá bom?
+
+Beleza.
+
+Beleza?
+
+Então, ó.
+
+Então é isso aí, gente.
+
+Tá aqui. 8h25 até 8h40, então a gente volta, beleza?
+
+Já.
+
+A gente já volta.
+
+Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Filipe, Filipe Cabral e Kiyoshi.
+
+Vocês não conseguiram entrar na sessão?
+
+Tem que aceitar para entrar no breakout, pessoal.
+
+Filipe Cabral, tá ouvindo?
+
+Filipe Cabral, tá ouvindo?
+
+Filipe?
+
+Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org E aí, pessoal?
+
+Todo mundo de volta?
+
+E sim, né?
+
+Beleza.
+
+Pessoal, conseguiram fazer?
+
+Foi fácil, baba, foi difícil, algum enrosco?
+
+Só a gente resolver junto isso aqui.
+
+Alguém se prontifica?
+
+Porque tem... não se preocupem, viu?
+
+Tem elementinhos chatos aqui que pode dar enroscada, viu?
+
+Ou não.
+
+Aliás, vocês estão me ouvindo?
+
+Sim.
+
+Por ser a primeira vez, vai dando aquelas travadinhas e tudo, mas...
+
+Chegamos a um resultado aqui, não sei se é o certo.
+
+Legal, maravilha, Thales.
+
+Mais alguém?
+
+Algum grupo aí?
+
+Quer destacar algum elemento?
+
+Onde vocês sentiram mais dificuldade?
+
+Fora a mecânica, né?
+
+Ir no lugar, pegar, tirar, não sei o quê.
+
+Teve alguma coisa específica ou não?
+
+Primeira coisa que a gente achou difícil foi descobrir qual grupo que era.
+
+A quatro, a dois, a um.
+
+Mas aí, depois que achou isso, foi relativamente tranquilo.
+
+Nossa, verdade.
+
+Foi difícil mesmo porque eu não falei qual que era, né?
+
+Esse é o ponto, né?
+
+Eu não falei qual que era, falha minha.
+
+Vamos fazer para a quatro, tá?
+
+Falha do professor.
+
+Falei tudo menos o subgrupo.
+
+Quer dizer, acabei com o exercício aí de vocês, né?
+
+Bom, mas é o seguinte.
+
+Assim, isso não impediria de vocês fazerem, né?
+
+Era só vocês escolherem um subgrupo e fazer para aquele subgrupo, né?
+
+Fazer para a quatro, ok, faz para a quatro.
+
+Mas eu também não falei qual que era, né?
+
+Mas vamos fazer...
+
+Oi?
+
+A dois não tem tarifa verde, né?
+
+Acabou de adotar a quatro.
+
+Ah, sim, verdade, verdade.
+
+Mas aí poderia ser a três A, né?
+
+Poderia ser a três A. A gente vai ver.
+
+A S, parece A S, professor.
+
+Oi?
+
+No caso específico da Light, a tabela deles é A2, A4 e A S. Aí só tem A4 e A S. Teriam o verde e a gente acabou adotando a quatro.
+
+Tá bom.
+
+É que eu não olhei a Light.
+
+Tá ótimo.
+
+Melhor.
+
+Melhor ainda, porque as opções foram reduzidas e a quatro realmente era única, né?
+
+Mas show de bola.
+
+Então vamos fazer rapidinho aqui?
+
+Aí a gente faz aqui, tenta matar esse exercício rapidinho.
+
+E aí a gente...
+
+Vou dar para vocês uns dez minutinhos de intervalo, de break.
+
+E depois a gente volta sem rodeios até as dez e meia, tá?
+
+Hoje vai ser punk, como eu falei.
+
+Então vamos fazer aqui rapidinho, né?
+
+Então, caminho das pedras, gente.
+
+Vocês já conhecem, né?
+
+Opa!
+
+Vocês já conhecem.
+
+É pegar aqui...
+
+Cadê o negócio?
+
+Deixa eu ver aqui.
+
+Processo tarifário.
+
+Processo tarifário, né?
+
+Tarifas aqui de energia elétrica.
+
+Vocês me ouvem?
+
+Recusou aqui que eu estava com algum problema de...
+
+Sinal.
+
+Vamos lá. e aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí o pessoal você está me ouvindo Oi sim a beleza é maravilha que eu perdi aqui eu tive um uma mensagem aqui que minha internet estava um problema Oi mas agora eu voltei aqui pronto a beleza vamos lá pessoal então todos aqui vamos para a gente a gente vai escolher a light o tipo de processo todo se o ano 2020 legal auto-regulatório é maravilha então vamos lá para quatro né vocês falaram a 2 a 4 então não tem segredo né Oi e aí a gente vai fazer o seguinte você parar que minha tela em duas é mais fácil trabalhar e aí vamos lá verde é tarifa o consumo ponta tarifa o sumo fora ponta tarifa demanda e na verde então como que a gente faz né nesse caso aqui vamos lá ó a 4 a 4 verde na quatro verde a gente tem uma demanda que na não se aplica porque porque essa demanda na verde a 4 ela não é ponta nem fora a ponta concorda então tá aqui 22,03 reais por quilowatt tá aqui a tarifa de demanda 22,03 beleza e na azul por sua vez tarifa demanda eu vou ter uma demanda a ponta uma tarifa demanda fora a ponta que já a gente vai preencher Oi e aí vamos lá verde a tarifa de demanda verde o consumo tude tem o tude ponta te ponta e tude fora ponta e tude e te fora a ponta qual que é a minha tarifa de consumo ponta a tarifa de consumo ponta na verde vai ser a soma né do ponto desse valor e mais esse valor eu tô somando a tude encargo em reais por megawatt hora e até encargo por megawatt hora na ponta o ponto sim tá aqui bom esse valor aqui em reais por megawatt hora e esse valor em reais por quilowatt é a mesma coisa para o consumo fora a ponta tá aqui fora a ponta na verde 147 é a encargo é certo tão seguindo e 290 é até fora a ponta na verde da 4 e pronto reais por megawatt hora eu montei as tarifas de consumo e montei a tarifa de demanda na verde a beleza gente chegar até aqui deu certo bom vou acreditar que deu certo bom é deixa eu já fazer aqui a tarifa do azul tá então a tarifa do azul e tá aqui em cima olha só qualquer semelhança não é mera coincidência a tarifa de demanda fora da ponta vocês percebem que é exatamente a tarifa de demanda da verde e é assim mesmo viu e é assim mesmo e a regra acontece isso aí e porque os custos associados são os mesmos tá onde a gente vai sentir isso aqui a tarifa de demanda porém opa tá embaixo aqui tarifa de demanda porém na ponta da azul vai ficar mais caro olha só azul na ponta vai para 38,04 então vejam que interessante a tarifa de demanda na ponta a e é 72% maior do que a tarifa de demanda fora da ponta é quase o dobro nesse caso né a gente viu no exercício porque isso pode ser muito maior inclusive né essas relações de tarifas elas vão ficando importantes a medida que a gente vai aprofundando viu gente e olha que coisa interessante tá vendo atos de encargo aqui olha só atos de encargo do azul é igual tanto na ponta quanto fora ponta sempre vai ser assim atos de encargo sempre vai ser igual inclusive atos de encargo da verde fora ponta é o mesmo valor ó tão vendo sempre vai ser assim olha o que acontece na verde na ponta é que os custos da ponta relativos a transporte não são repassados ou não são cobrados por ocasião da tarifa só tem uma demanda na verde percebe então essa precificação da ponta na verde ela vem por encargo por isso que a tarifa de consumo na verde na ponta é tão mais alta do que a tarifa verde fora da ponta e por isso que é encargo na azul é exatamente igual a fora da ponta tanto ponta quanto fora ponta e perceberam e por outro lado a relação de tarifa de energia mesma e perceberam ó tanto ponta quanto fora a ponta então que a gente faz aqui ó na tarifa de consumo ponta só vou colocar aqui a tarifa de consumo ponta vai ser o que vai ser o 147 e mais 460 Oi e a tarifa de consumo fora da ponta vai ser os mesmos 147 é mais o 290 será que vai acontecer que a gente tá pensando aconteceu perceberam ó vejam só o consumo fora de ponta para ambas é igual você não vai pagar mais fora da ponta por estar na verde ou na azul o que vai acontecer aqui na azul você vai pagar mais caro pela demanda da ponta até mudar de lugar esses dois aqui para ficar mais intuitivo ó e você vai pagar mais caro pela demanda fora de ponta é melhor pela demanda de ponta na azul você vai pagar mais caro e em contrapartida na esquerda você vai pagar mais caro no consumo de ponto certo beleza gente aqui é aqui sem segredo né mas vocês veem que existe uma relação de tarifas né existe uma lógica econômica por trás dessas tarifas né não elas não são de tudo diferente elas têm uma base econômica e elas realmente depois só tem uma distribuição lógica nos horários né entre horários e entre o que você tá considerando se a demanda ou se é consumo tá e aí a gente vem para os cálculos né então por exemplo o que que vai ser a nossa ó vamos lá o que que vai ser a nossa fatura de energia né a nossa fatura de energia tem que ser igual a o consumo na ponta vezes a tarifa de consumo na ponta mas o consumo fora da ponta vezes a tarifa de consumo fora da ponta e mais a demanda na ponta vezes e só que dá azul tá demanda na ponta vezes a tarifa de demanda na ponta mais a demanda na ponta vezes a tarifa de demanda fora da ponta é certo então essa aqui a fatura o azul e pronto a atura azul essa aqui e a fatura verde e vai ser exatamente a mesma coisa só que com um ajuste né a altura verde vai ser a mesma coisa só que aqui vai ser uma demanda única vezes uma tarifa de consumo única pronto temos aqui as duas formulinhas de cálculo tá é pessoal então como que a gente calcula esses valores no final né porque no final eu vou ter um custo relativo à demanda e vou ter um custo relativo ao consumo então vamos fazer essa mágica agora então vamos lá é fatura de demanda ou melhor fatura de consumo ponta fatura de consumo fora da ponta e o meu consumo vai ser na ponta 25 megawatt-hora vezes 1530 reais por megawatt hora na verde pronto tá aqui já colocar até em moeda 38 mil reais o consumo fora da ponta vai ser o volume de consumo fora da ponta vezes a fatura de consumo fora da ponta pronto 157 mil reais e a minha fatura de demanda na verde vai ser a minha demanda contratada 700 vezes a minha tarifa de demanda tenho aqui a minha fatura sem custos quanto esse cara que deve 211 mil reais tudo bem pessoal a gente vai fazer absolutamente o mesmo exercício aqui para o azul o consumo ponta tarifa consumo ponta vezes consumo ponta é o consumo fora da ponta vezes tarifa consumo fora da ponta e aí aqui a gente vai ter a fatura demanda ponta e a fatura demanda fora da ponta é melhor me inverter é mais fácil bom então vai ser a tarifa de demanda fora da ponta vezes a fatura fora da ponta e a demanda na ponta vezes a tarifa de demanda ponto aqui e a gente faz a mesma soma e olha só a coisa interessante e a tarifa ou melhor a fatura ainda sem postos na configuração azul desse cliente esse consumidor tá um pouco mais barata do que na configuração verde é então a conclusão natural imediata e óbvia é e vamos contratar energia na modalidade tarifária azul certo perfeito certíssimo o que vale a pena a gente destacar é uma métrica que é o fator de carga eu falei que a gente ia olhar mais para ele na semana que vem mas vamos já olhar agora para ele rapidinho o que diz o fator de carga né ele diz que o seu consumo em um dado período dividido pelo número de horas desse período multiplicado pela sua demanda é o seu fator de carga essa é a lógica do fator de carga tá pessoal então se eu pegar o consumo né dos e os períodos associados eu vou ter um fator de carga para cada para cada consumidor desse ou para cada configuração dessa né então olha só se eu pegar aqui a soma do consumo ó qual que é a soma do consumo desse cliente é o consumo ponta mas o consumo fora da ponta certo eu divido pelo número de horas quantas horas a gente tem no mês convenciona-se 730 horas tá vamos chegar nesse número pega o número total de horas do ano divide por 12 a deixa eu te mostrar aqui o número de horas totais no ano 365 vezes 24 8.760 dividi por 12 730 horas por mês beleza então ó soma do consumo dividido por 630 aí eu multiplico pela demanda contratada na verde aqui ó 700 o fator de carga é e aí que tá em megawatt hora tá gente tem megawatt hora eu vou transformar em quilowatt hora vou multiplicar por mil tá megawatt 1 megawatt hora são mil quilowatt hora eu vou multiplicando por mil o fator de carga a gente desse cara aqui 75% tá e que significa isso que é ele tá consumindo ou a a o volume de consumo dele ou a proporção do consumo dele em média é 75% da demanda contratada e o bem e aqueles que trabalham com geração aqui que acho que a carolina e o ano é mais que o que é seu Adriano Valter enfim não volta não Felipe eu tô na dúvida é qual que é o equivalente de fator de carga para geração é o fator de capacidade ao invés de consumo se considera geração em vez de demanda é potência instalada da usina e aí você tem uma ótica voltada para geração fator de carga quando a gente pensa em consumo porque o calculeio fator de carga tá pessoal porque a gente percebe empiricamente e consumidores que tem um fator de carga maior ou igual a mais ou menos 60% via de regra são consumidores que ficam melhor na tarifa aqueles que tem um fator de carga menor que 60% e a de regra ficam melhor para verde porque a característica do consumo e da demanda desse consumidor é favorecem a utilização de uma tarifa em detrimento de outro percebem por isso isso justifica porque nesse caso por causa de um fator de carga esse consumidor aqui ele tem uma fatura melhor na azul se comparado com a verde então se você quiser fazer uma aproximação o cálculo rápido para dizer será que esse cara é melhor na verde no azul calcula o fator de carga dele se o fator de carga dele é maior que 60% já é um indicativo que provavelmente aquele cara ele vai vai ficar melhor na azul tá beleza gente até aqui isso aqui eu isso aqui não está previsto na aula eu só já coloquei para explicar um pouco do porquê que essa tarifa que porque esse custo na azul para esse caso ficou melhor que na verde e beleza bom avançando aqui o que a gente calcula os impostos agora é começar pelo pisco fins e o ICMS a gente os impostos no setor elétrico são calculados internos que a gente chama né então vamos a gente vir aqui e aplicar o percentual de 32% ou 6% eles são a lógica interna que que a lógica interna diz né a lógica interna diz que você tem que pegar o valor que você quer o valor que você tem aqui e dividir por um menos a alíquota tá ou as alíquotas né se você quiser fazer já a alíquota totalizada você tá dividindo por um valor menor que um que é o valor já descontado dessas alíquotas que vai aumentar esse valor de cima então esse valor de cima vai ser adicionado a ele o valor referente alíquota que você tá calculando tudo bem então como que seria a conta eu quero saber exatamente o pisco fins dessa fatura que ainda sem impostos olha o pisco fins seria esse valor certo dividido por um menos a alíquota de pisco fins menos a alíquota de ICMS porque eu vou ter os dois na fatura final certo então se eu multiplico a fatura e divido por um menos pisco fins menos ICMS esse valor aqui sozinho gente é o valor da fatura final já seria o valor da fatura final só que eu quero saber só do pisco fins então multiplico pela alíquota de pisco fins e tudo bem e travou aí ou não e ICMS é a mesma lógica tá então eu venho pego aqui divido por um menos pisco fins menos ICMS e dessa vez multiplico pelo ICMS 109 mil reais ICMS a nossa jonas que absurdo é mesmo e somente lá no rio que essa alíquota é enorme e qual seria a fatura final e neste caso é a fatura final sem contribuição no municipal né sem cosípio e seria a fatura sem impostos mais os impostos e olha só eu posso calcular daquela forma que eu vinha calculando o que é um menos seis menos 22 e uma coisa também é que aqui eu só calculei para vocês o caminho beleza pessoal alguma dúvida até aqui a mesma coisa para cá ó vou só arrastar vejam só vou só arrastar não que eu vou ter que fazer ajuste né e não é só vim para cá ó a mesma lógica é só para a gente ter os números aqui finais comparáveis o pronto eu vendo a fatura final sem cosípio jonatas como que a gente faz só saber o cosípio a gente coloca aqui ó o zip light rio de janeiro e apareceu a primeira aqui ó é uma tabelinha no próprio site da light município do rio de janeiro o valor da cosípio qual que é o consumo mensal total o consumo mensal total desse cara é a soma do consumo mensal total dele é 25 megawatt hora mais 360 megawatt hora só que o megawatt hora só que eu quero saber em quilowatt hora é só multiplicar o megawatt hora por mil porque um quilowatt hora tem mil quilowatt hora 375 mil é o consumo total soma do ponto fora ponto então ele é superior a 200 mil quilowatt hora ó bom então o cosípio dele é só que dois mil 282 reais o cosípio dele e aí sim a gente tem uma boa aproximação a fatura final total dele e vai ser isso daqui fatura com impostos mais a taxa de contribuição de iluminação pública é certo tudo bem pessoal e nesse caso aqui a a fatura verde ou melhor azul é 0.38 por cento mais barato eu comprei isso um pouquinho só você ele ficar na azul mas compensa e tudo bem pessoal foi muito corrida explicação muito corrido o exercício deu para entender e eu vou compartilhar essa planilhinha com vocês tá eu vou ocupar ela no no mudo e depois vocês podem usar ela como uma referência tudo bem Jonathan fiquei com uma dúvida que teria razões econômicas da tarifa o consumo de pontas tem um custo maior do que é os dois casos que você pagou em algum é isso depende de alguma coisa e sim é isso é bom vamos lá tarifa na ponta é mais cara né deixa eu voltar aqui para te mostrar rapidinho ó ó ó ó ó o seguir por lá e direto o que eu já vou colocar para você foi o Felipe né Felipe perguntou isso legal então vamos lá essa separação de ponta e fora a ponta é o que a gente falou é mais um sinal econômico tá dos custos que o consumidor e que o sistema elétrico tem como um tudo como um todo desculpa é de que os custos realmente para você entregar gerar e entregar energia na ponta são mais altos do que fora da ponta do que a gente quer dizer por ponta né gente que quer dizer ponta ponta significa que existe uma maior demanda de energia é a ponta tem um tempo atrás é efetiva do sistema sempre foi entre as cinco e oito horas da noite hoje em São Paulo a horário de ponta oficial é das cinco e meia até as oito horas oito e meia da noite né a gente sabe que essa ponta tá mudando as pessoas estão começando a demandar mais no meio do dia ali no começo da tarde mas independentemente disso o Felipe quer dizer com isso que você precisa entregar mais energia e consequentemente o sistema precisa produzir entregar mais energia porque neste horário de ponta as pessoas vão consumir mais energia as pessoas as indústrias tá então consequentemente o custo para se fornecer o bem energia se eleva tá e quando a distribuidora vai fazer o cálculo tarifário ela não só já repassa um custo mais alto do transporte repassa o custo de geração né nesses períodos que é mais alto como ela também repassa ela cobra na sua proporção que é devida um custo mais alto para atender é uma demanda maior naquele horário específico isso se reflete na tarifa tá então quando a gente vem para tarifa aqui na verdade isso é um reflexo da estrutura tarifária é sempre o exemplo do Uber né o exemplo do Uber é interessante que a gente já sabe se a gente ser determinado horário ele vai ser cobrado mais mais barato num outro horário no horário de ponta mesmo do rush vai ser cobrado um valor mais caro porque por uma série de fatores econômicos aqui no caso do Uber é uma realidade econômica um pouco mais objetiva direta né você tem uma demanda maior é de Uber pela população da oferta por Uber é menor né e eventualmente ele pode até compartilhar de custos maiores naqueles horários né em razão do trabalho dele que não é muito caso mas poderia ser no caso da energia mesma coisa você tem uma demanda maior por energia naquele horário para garantir o atendimento essa totalidade você cobra mais caro por isso entendeu mas isso relembro né é uma realidade da média tensão nem todos os consumidores tem a percepção disso por exemplo o consumidor aqui é da tarifa do grupo B convencional que a maioria ele não tem essa percepção esse risco a distribuidora precifica e coloca numa tarifa única né eu não tenho um sinal ali evidente né de ó é mais caro e tal horário então maneira ou enfim né se programe para usar nos horários que não são difíceis a beleza Felipe foi respondido sim sim a gente tá claro esse exercício de tarifa pior a gente a gente se ninguém tiver dúvida a gente vai para 10 minutinhos de 10 minutinhos de intervalo rápido para gente respirar e a gente volta ali entre 9 e 25 9 e meia né para gente entrar na reta final da aula e vai ter um ritmo forte gente fica forte claro que se não der tempo a coisa fica muito espremida a gente continua na aula 3 tá mas agora a gente tem uma base sólida para começar a falar de precificação no mercado livre de energia tá bom seria bom a gente realmente ter só esses 10 minutinhos para a gente voltar e arrepiar até o fim da aula é é para conseguir entrar na semana que vem na prática mesmo tá bom e beleza gente ninguém tem dúvida eu posso seguir ou melhor podemos ir para o intervalo é certo beleza então é o seguinte eu vou pausar aqui vou parar o compartilhamento e voltamos agora são no meu celular aqui 915 a gente volta 925 é bom pessoal 10 minutos no banheiro aí verificar alguma coisa e a gente tá de volta tá bom pessoal e já Até a próxima!
+
+Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org E aí, pessoal?
+
+Voltando.
+
+Dez minutinhos não dá pra nada, né?
+
+Vamos lá.
+
+Porque se for mais dez minutos, ninguém volta, né?
+
+Beleza?
+
+Todo mundo aí?
+
+Sim, né?
+
+Tá bom.
+
+Bom, bora lá, então.
+
+Valeu, Rafael.
+
+Vamos lá.
+
+Gente, vamos agora pra reta final da aula.
+
+A gente tem uma horinha pela frente.
+
+Eu vou tentar ser o máximo objetivo, né?
+
+Mas eu não quero também extrapolar aqui na correria do tempo, porque a gente tem que entender bem os conceitos.
+
+Mas eu imagino que tenha uma chance de ficar algum conteúdo pra próxima aula, tá?
+
+Não tem problema.
+
+Lembrem que na quarta aula a gente tem uma agenda mais leve.
+
+Então, o máximo que pode acontecer é ficar um pouquinho pra terceira aula.
+
+Se algo da terceira aula ficar pra quarta aula, a aula de quatro já tem um espaço.
+
+Então, é isso, tá?
+
+O máximo que pode acontecer é na aula que vem, vocês terem que consultar parte desse material de hoje e o material da aula que vem, tá bom?
+
+Mas vamos lá.
+
+Então, continuando, gente.
+
+Preciso compartilhar a tela aqui com vocês.
+
+Compartilhar o conteúdo.
+
+Compartilhar.
+
+Pronto.
+
+Tá aparecendo pra vocês aí.
+
+Aparece aí, né?
+
+Maravilha.
+
+Então, a gente viu aqui, pessoal, as tarifas, né?
+
+E só um último detalhe, respondendo aí a alguém, que eu já esqueci quem foi, que questionou sobre geração distribuída na semana passada.
+
+O que tá acontecendo hoje em geração distribuída?
+
+Repito, aqui não é um curso sobre IGD, né?
+
+Mas como a gente tá fazendo praticamente um curso sobre tarifas, sobre tarifação, então vale a pena a gente fazer uma observação rápida sobre IGD.
+
+Não tem nada a ver com taxar sol, não tem nada a ver com cobrar mais pela geração solar, não tem nada a ver com isso.
+
+A questão é, hoje, em geração distribuída, todas as componentes tarifárias são abatidas.
+
+Lembra que a geração distribuída, você gera energia.
+
+Caso o seu consumo seja superior, ou melhor, caso sua geração seja superior ao teu consumo, você tem um excedente.
+
+Caso seja inferior, você paga essa diferença para a distribuidora.
+
+Acontece que hoje, esse benefício da geração distribuída, essa energia gerada pelo consumidor, com a plaquinha no telhado, enfim, seja onde for, hoje esse benefício, ele é abatido de forma integral.
+
+Todas as componentes dos de fio B, fio A, encargos, perdas, TA encargos, TA energia, que a gente viu, que estão na estrutura tarifária, hoje são compensados quando você tem geração distribuída.
+
+E a discussão que está acontecendo no setor, que agora caminha por uma definição, por conta do marco legal, que foi aprovado na Câmara no mês passado, agora eu já nem lembro se foi mês passado ou retrasado, porque a coisa está andando tão rápido, mas foi aprovado nesses últimos dois meses, e agora está no Senado, ele já prevê uma dinâmica de redução, vamos dizer assim, dessa compensação integral.
+
+O que se dizia era justamente isso, olha, quem gera energia solar em casa, quem tem micro ou mini GD, não está pagando por algumas componentes tarifárias que devia pagar, esse é o argumento da distribuidora.
+
+Por outro lado, o argumento da comunidade da GD era, olha, na verdade não, na verdade a gente contribui com vários aspectos dos serviços prestados pela distribuidora, então a gente deveria ser beneficiado.
+
+E aí o que chegou agora é um texto de consenso no marco legal, e aí o que vai acontecer ao longo dos próximos 20, 25 anos é a redução paulatina da compensação integral da energia compensada.
+
+Não que vão acontecer todas essas alternativas, isso aqui é só para vocês verem as alternativas que tinham, mas a ênfase nesse processo vai ser, se não me engano, a alternativa 1, 2 e 4 ou 5, a depender da modalidade de geração distribuída.
+
+Então, só como eu tinha prometido, não lembro para quem que foi, mas a discussão de GD na verdade não passa por taxar energia, por tributar energia solar, taxação, nada disso.
+
+É uma questão de composição tarifária e de quais componentes realmente poderiam ou deveriam ser compensadas para quem tem geração própria distribuída.
+
+Gente, isso aqui é só uma observação mesmo, se vocês quiserem num segundo momento a gente pode discutir isso aqui mais.
+
+Bom, a gente falou muito aí, bastante, sobre a tarifação de energia no mercado regulado.
+
+A gente já viu como que o mercado de energia faz regulamento das distribuidoras responsáveis por repassar custo de transporte da transmissão, cobrar o custo de distribuição próprio delas, repassar o custo da energia dos geradores.
+
+E a gente entendeu que no mercado livre a distribuidora continua repassando o custo de transporte da transmissora e cobrando pelo custo de distribuição.
+
+O que a distribuidora para de fazer no ACL, no mercado livre, é justamente cobrar pela energia gerada que ela adquiriu.
+
+Isso, a responsabilidade por adquirir a energia passa a ser do consumidor.
+
+E aí o consumidor passa a ter a responsabilidade de adquirir essa energia em preços que não são os preços de leilão, são os preços praticados no ACL, no mercado livre.
+
+Preços esses que são praticados por agentes vendedores que são compostos basicamente por agentes de regulação e agentes de comercialização.
+
+Vale dizer que quando um consumidor passa a ser um consumidor livre de energia, ele, por definição, não só está autorizado a comprar energia, mas, e aí é um mas aqui que eu quero deixar pra gente falar mais pra frente, dado o determinado contexto, ele também vende energia.
+
+Dependendo se aquele volume que ele contratou foi maior ou menor do que o volume que de fato ele consumiu num determinado período.
+
+Isso a gente vai falar mais pra frente.
+
+Então, gente, ele deixa de ter um cenário em que a distribuidora compra energia dele e repassa esse custo pra ele pra um cenário em que ele precisa comprar energia de forma livre.
+
+E como que os preços de energia se comportam no mercado livre?
+
+Gente, é o que a gente falou já.
+
+A energia elétrica, do ponto de vista da energia mesmo, bem, energia elétrica, esquece a realidade física da coisa, o consumo, ou melhor, o transporte.
+
+A energia elétrica, em última análise, é uma commodity.
+
+Ela tem um tratamento ali, em última análise, semelhante ao que é com a soja, com o aço, com o trigo, com o arroz, etc.
+
+Então, ela é uma commodity.
+
+Só que uma commodity com características bem peculiares, especialmente quando a gente fala em termos de Brasil.
+
+Então, veja só.
+
+A gente já percebeu que, dependendo das condições de chuva, consequentemente, os níveis de armazenamento pelo Brasil, se tratar de um sistema majoritariamente hidrelétrico, a energia pode ter um preço, a sua percepção de valor alterada.
+
+Então, por exemplo, espera-se intuitivamente que, caso eu tenha falta de chuva, o mercado livre de energia, os comercializadores, os geradores, cobrem mais por essa energia do que em momentos de escassez, do que em momentos de volume grande de chuvas, certo?
+
+E, por se tratar de um mercado livre, de uma commodity, a gente tem toda uma questão relativa à política e regulação.
+
+Então, qualquer movimento regulatório, ainda que não interfira diretamente nos preços, pode interferir na percepção de risco do mercado, de quem está precificando a energia, o gerador, o comercializador.
+
+Então, isso aí tem um impacto.
+
+Isso quando não foram as questões diretas, porque, por mais que o mercado livre seja livre, propriamente dito, ele tem um regramento, ele tem ali uma questão regulatória envolvida.
+
+Olha, para você participar do mercado livre, existem alguns pré-requisitos, existem algumas regrinhas básicas.
+
+Se alguma regrinha básica dessa muda, consequentemente, os preços de energia podem mudar.
+
+Quando a gente fala de mercado livre, a gente está falando de oferta e demanda.
+
+Então, essas relações de oferta e demanda acontecem.
+
+Então, se eu tenho maior demanda por um determinado tipo de energia, a gente vai ver isso já, já, esse balanço acontece.
+
+Se eu tenho mais demanda por algo do que oferta, o preço aumenta e vice-versa.
+
+E, quanto mais perto você estiver da contratação, no sentido de, olha, eu preciso contratar energia, para eu consumir só no que vem.
+
+Consumir em 2022.
+
+Você está fazendo contratos futuros.
+
+É o que eu falei, você pode contratar para o mês exigente?
+
+Pode.
+
+Mas o mercado livre trabalha, essencialmente, em termos de contratos futuros.
+
+Então, eu estou contratando energia para consumir, ou para performar, para 2022, 2023 e 2024.
+
+Então, até o final de 2024, eu estou contratado de energia.
+
+Quanto mais próxima essa data de entrega, e aqui é uma entrega comercial que a gente está falando, eu tendo a pagar mais caro por aquela energia, do que a energia que eu negociei para mais longe.
+
+Então, todos esses aspectos interferem nos preços do mercado de energia.
+
+Como eu mencionei, pessoal, eu tinha que falar ainda disso, mas um conceito importante é que, como a gente viu na aula passada, existem alguns tipos de energia.
+
+Não só do ponto de vista físico, você tem tipos de energia, você tem energia eólica, solar, etc.
+
+Mas existem tratamentos especiais para esses tipos de energia.
+
+Lembram que a gente falou do consumidor especial e do consumidor livre?
+
+Consumidor especial, ele tem que ter no mínimo 500 kW de demanda, e o consumidor livre mesmo, ele tem a partir de 1.500 kW de demanda contratada.
+
+O consumidor especial, ele obrigatoriamente tem que contratar um tipo de energia chamada incentivada.
+
+O que é energia incentivada?
+
+É uma energia que é proveniente de usinas renováveis, como pequenas centrais hidrelétricas, biomassa, eólica, solar.
+
+Aí entra tudo, bagaço de cana, resíduo sólido urbano e por aí vai.
+
+Essa energia é incentivada.
+
+Por que ela é chamada incentivada?
+
+Pelo fato de elas serem renováveis, elas carregam consigo um incentivo para que elas não só sejam produzidas, como consumidas.
+
+Esse incentivo se materializa como?
+
+Numa redução ou num desconto nas tarifas de uso de sistemas de distribuição, na TUSD.
+
+Aquela TUSD que a gente acabou de ver, tanto a TUSD demanda quanto a outra TUSD, a TUSD, de modo geral, ela tem um benefício, ela tem um desconto, que pode ser 50%, 80%, 100%.
+
+O que tem mais no mercado é energia incentivada de 50%, que a gente chama de I5 ou I50, e energia incentivada de 100%.
+
+Ou seja, existe um incentivo de 100% sobre a TUSD.
+
+E a gente vai ver na próxima aula como isso se materializa.
+
+De fato, se o consumidor, por exemplo, compra uma energia incentivada de 100%, uma I100 ou I1, ele não paga por demanda, por exemplo.
+
+Mas é claro que esse tipo de benefício, ele traz consigo também outros tipos de custos.
+
+A gente vai ver isso depois.
+
+Agora, a energia convencional, ela já é o que é.
+
+Ela ou é proveniente de usinas térmicas, ou de grandes hidroelétricas.
+
+Mas a hidroelétrica não é renovável?
+
+É renovável.
+
+Mas o porte dela se caracteriza como sendo uma fonte convencional, de grande porte, então não é incentivada.
+
+Existe uma expectativa regulatória?
+
+A expectativa não.
+
+Vai se materializar isso em um dado prazo?
+
+De retirar-se esse benefício da energia incentivada.
+
+Mas nós vamos tratar isso no curso.
+
+Mas fiquem atentos, porque isso inclusive passou nessa reforma na portaria do COVID, do setor elétrico.
+
+E esses incentivos vão cair.
+
+Existe um cronograma para isso?
+
+Não vou falar o cronograma exato aqui, mas para elas caírem regulatoriamente falando.
+
+Mas até isso acontecer, a expectativa é de meses, é de anos, um, dois, três anos, a gente ainda vai ver bastante energia incentivada pela frente.
+
+E como a gente enxerga isso, pessoal?
+
+Isso aqui é um dos slides mais importantes do curso.
+
+Então atenção aqui.
+
+Se você não prestou atenção, olha agora.
+
+Curva forward, ou curva futura de preço.
+
+Então, o que acontece?
+
+Você tem ali um universo de agentes no setor elétrico vendendo energia.
+
+Tem comercializadores, geradores, etc.
+
+Os geradores que não venderam energia no leilão, ou que venderam só parte da energia que eles vão gerar no leilão, vão vender a outra parte no mercado livre.
+
+Os comercializadores só fazem isso.
+
+Compram energia no momento que ela está barata e vendem no momento que ela está cara.
+
+A gente vai falar mais sobre isso.
+
+Mas essas curvas, curvas forward, elas mostram exatamente o movimento dos preços de energia no mercado livre.
+
+Então, o que essa curva aqui está mostrando?
+
+Olha só, vamos olhar para a curva da energia convencional, olha só.
+
+Vem um zoom aqui.
+
+Olha a energia convencional, gente.
+
+Então, o que isso quer dizer?
+
+Essa curva azul escura, ela é o quê?
+
+A cotação do valor da energia convencional para o ano de 2021.
+
+Para ser entregue comercialmente em 2021.
+
+A primeira cotação desse gráfico aqui para essa energia para ser entregue em 2021 foi feita em janeiro de 2017.
+
+Estão vendo?
+
+Então, em janeiro de 2017, em janeiro de 2017, a energia convencional para ser entregue em 2021 valia mais ou menos 160 reais, 150 e poucos reais aqui.
+
+Em 2018, no mês de maio, por exemplo, maio de 2018, a mesma energia para ser entregue em 2021, ela já não valia mais 150 e poucos, ela estava valendo 170 e tantos.
+
+Está vendo?
+
+Percebem que à medida que se aproxima o momento da entrega, você tem um aumento?
+
+Já já a gente vai falar disso aqui, viu?
+
+Alguém imagina o que foi isso aqui?
+
+Nesse mês de 2020?
+
+Os preços ficaram desse jeito?
+
+Alguém quer chutar?
+
+Isso aqui é muito legal de ver.
+
+Chuva?
+
+Nada.
+
+Não é chuva, não.
+
+O que aconteceu em 2020?
+
+Pandemia, isso aí.
+
+Pandemia.
+
+Mas por que a pandemia reduziu o preço, pessoal?
+
+A indústria, o comércio, todo mundo parou de consumir energia.
+
+Quando você tem redução grande, abrupta de consumo de energia, você passa a ter o quê?
+
+Uma redução abrupta na demanda.
+
+Você passa a ter excesso na oferta.
+
+Quando você tem excesso na oferta, os preços caem.
+
+Foi o que aconteceu.
+
+Então mesmo em pleno 2020 aqui, olha o que aconteceu com o preço de 2021.
+
+Olha que absurdo em agosto.
+
+Ficou abaixo de 140 reais.
+
+O que isso significa para a gente?
+
+Isso aqui é uma baita de uma oportunidade, uma janela de contratação.
+
+Porque o objetivo do consumidor...
+
+Já vamos falar da ótica do consumidor.
+
+O objetivo do consumidor de energia é comprar energia no melhor momento, quando ela estiver mais baixa.
+
+Porque quanto mais baixa tiver a energia do mercado livre, maior vai ser a sua redução de custo percebida quando comparado com o custo lucrativo.
+
+Perceberam?
+
+Então olha o movimento normal do preço e olha só o impacto de uma crise, de uma pandemia.
+
+Não sei quem que falou aí.
+
+Ah, foi chuva?
+
+Isso aqui poderia ser.
+
+Poderia ser um excesso absurdo de chuva.
+
+Mas está transbordando a rua de casa aqui.
+
+Poderia ser um excesso absurdo de chuva.
+
+Ou um movimento econômico muito positivo para o país.
+
+Alguma coisa absurdamente positiva para o país.
+
+Poderia ter causado isso aqui.
+
+Agora vocês percebem que...
+
+Olha só quando começa a cotação de 2025.
+
+Ela começa em 2020.
+
+Comecei em 2020 e você começa a ter as cotações para 2025.
+
+Dia de regra, o mercado trabalha nesse horizonte.
+
+A cotação, a atividade de venda, geralmente é A menos 5.
+
+O pessoal geralmente está comprando dia de regra entre 3, 4, 5 anos de antecedência.
+
+Mais comum ainda, 3 anos.
+
+Então esse aqui é uma curva característica de convencional.
+
+Só para vocês terem uma noção também.
+
+Olha só a diferença de patamar de preço para a incentivada, de 50%.
+
+Você vê que ela estarta em janeiro, já estarta de 200.
+
+No estarta de 150 e pouco.
+
+Isso aqui é o que a gente chama de spread.
+
+Esse spread que existe entre a energia incentivada e a energia convencional é o prêmio que o consumidor paga ou é o prêmio que o vendedor exige para fornecer para você uma energia que tenha esse incentivo.
+
+Entendeu?
+
+Então é uma precificação essencialmente econômica que o mercado sai praticando.
+
+É claro, você pode calcular diversas formas como você chega a isso.
+
+Mas em última análise, é o prêmio econômico cobrado para se entregar uma energia que tem um benefício adicional.
+
+Jonathan, significa que é mais viável você comprar uma energia incentivada do que uma convencional?
+
+Depende.
+
+A resposta para tudo em setor elétrico é depende.
+
+Porque vai depender do quê?
+
+A gente acabou de ver.
+
+Dependendo do perfil de uso de energia do consumidor, ele pode ficar melhor para a tarifa azul ou para a tarifa verde.
+
+Mesma coisa para o mercado livre.
+
+Dependendo do perfil de uso de energia dele, pode ser mais razoável ele comprar uma energia convencional ou uma incentivada.
+
+No caso de um consumidor especial que só pode comprar a incentivada, mesmo assim, às vezes ele pode ser mais viável para a incentivada de 50% do que para a de 100%.
+
+Apesar da de 100% dar benefício full na TUSD.
+
+Então vejam, gente, que essa curva forward, ela é extremamente importante para a compreensão de como o mercado se movimenta.
+
+E são essas curvas, ou é esse movimento de preços, que o gerador, o comercializador e o consumidor livre, livre especial, eles têm que observar.
+
+Porque quando o consumidor de energia for contratar energia para ir para o mercado livre, ele vai contratar energias que vão se movimentar dessa forma.
+
+Se ele, por exemplo, deixa eu dar um zoom de novo aqui.
+
+Se ele, por exemplo, tivesse contratado energia para 2021, em junho de 2018.
+
+Vamos supor que em junho de 2018, ele contratou energia para 2021, 2022 e 2023.
+
+Quanto mais ou menos ele teria pagado?
+
+Porque dependendo de quem ele comprasse, ele poderia ter negociado um pouco a mais, um pouco a menos.
+
+Mas isso aqui dá uma ideia do patamar de preços da época para a gente.
+
+Então ele teria contratado provavelmente essa energia em junho de 2018, ele ia pagar mais ou menos R$170 ao longo do ano de 2021.
+
+Esse preço aqui para o ano inteiro de 2021, por exemplo.
+
+Ele ia pagar uns R$150 e tanto para 2022 e os mesmos R$150 e tanto para 2023.
+
+Se ele tivesse demorado um pouquinho mais para contratar, ele poderia contratar mais caro.
+
+Se ele tivesse demorado mais seis meses para comprar energia para 2021 e 2023, ele teria pagado já, olha que absurdo, quase R$221, quase R$180 a 2022 e R$160 e pouco mais ou menos em 2023.
+
+Olha o que a espera de seis meses ou sete por aí, pode significar para a estratégia e orçamento desse consumidor.
+
+Olha que coisa maluca.
+
+Mesma coisa para esse gráfico aqui.
+
+Então vocês vejam que é uma dinâmica pessoal de pura estratégia de contratação.
+
+Outra ótica para a gente pensar.
+
+Vamos pensar agora da ótica de um comercializador.
+
+Gente, o comercializador, ele é um operador financeiro.
+
+Tem gente que às vezes confunde.
+
+Ah, o comercializador compra energia de um gerador, bota uma margem e revende.
+
+Não, não é isso.
+
+O comercializador não faz isso.
+
+O comercializador, ele é um operador de mercado.
+
+Então como que você faz quando você compra lá ações da Magazine Luiza, por exemplo?
+
+O que você faz?
+
+Você aposta na valorização da ação da Magazine Luiza.
+
+Se você, é claro, se você entrar numa operação long, assim que o setor financeiro chama, long, você está long, você está comprado.
+
+Então o que você fala?
+
+Bom, vou comprar a ação da Magazine Luiza a 100 reais e vou monitorar o mercado.
+
+A hora que eu bater 120, eu vendo, porque eu vou ter performado um ganho aí, vou realizar um ganho de 20%.
+
+O comercializador segue a mesma lógica.
+
+Então, por exemplo, o comercializador ele monta um portfólio, por exemplo.
+
+Ele compra aqui o 21 de setembro.
+
+Ele comprou a 190.
+
+Ele começa a monitorar.
+
+A hora que ele atingir, aí tem todo um trabalho pesado de estratégia, gestão de riscos, etc.
+
+Ele vende, por exemplo, aqui.
+
+Vendi no dezembro ou no janeiro, na verdade, a 230.
+
+O ganho do comercializador está nisso.
+
+Está em operar, comprar de alguém, qualquer um, outro comercializador ou gerador, seja quem for, e vender no momento em que o preço se movimentou de forma positiva.
+
+Vocês ouviram falar de algumas comercializadoras que quebraram aí recentemente?
+
+Não sei se vocês viram.
+
+Quebraram aí.
+
+Teve gente que quebrou em janeiro de 19.
+
+Teve gente que quebrou em janeiro de 20. 19, não. 20 e 21.
+
+Mas quebraram bem em janeiro, sempre.
+
+O que acontece?
+
+Estratégia pobre de comercialização.
+
+Falta de gestão de riscos.
+
+O que os caras fizeram?
+
+Ah, comprei aqui, por exemplo.
+
+E estou apostando...
+
+Ou melhor, estou vendido.
+
+Vendi energia aqui.
+
+Porque você pode fazer isso.
+
+Você pode vender antes de comprar.
+
+É uma operação vendida que a gente chama.
+
+Ah, eu vou vender energia para você.
+
+Eu posso criar um papel aqui.
+
+Vender energia.
+
+Vendi para você x megawatt-hora.
+
+Te vendi nesse preço, para entregar em 2021.
+
+Te vendi aqui em outubro a 205 reais o megawatt-hora.
+
+Vendi, vendi.
+
+Vendi para entregar em 2021.
+
+Só que se eu vendi a esse preço, o que eu quero?
+
+Eu quero comprar ele barato, concordam?
+
+Se eu comprei e quero vender alto, se eu comecei vendendo aqui, eu quero depois comprar barato.
+
+O que aconteceu?
+
+Para essas comercializadoras?
+
+Não chovia, não chovia.
+
+Problema, problema.
+
+Não chovia, não chovia.
+
+Preço aumentava, aumentava.
+
+Chegou lá no prazo de entrega dele, ele não conseguiu honrar.
+
+Porque ele vendeu num preço mais baixo e se ele tivesse comprado, ele teria que comprar muito alto.
+
+Isso é uma perda financeira para ele.
+
+Essa perda aqui foi tão estratosférica que os caras quebraram, literalmente.
+
+Quebraram, não conseguiram honrar os contratos.
+
+Porque essa perda aqui, se ele não...
+
+Ele tem garantia.
+
+Se ele comprou barato, se ele vendeu caro e compra barato lá na frente, ele performa um resultado positivo.
+
+Se ele compra...
+
+Se ele vende barato para comprar caro depois, ele performa um resultado negativo.
+
+Ele sai do caixa dele.
+
+Então, é tudo uma questão de ir com muito ou pouca sede ao pote.
+
+Você fazer a devida gestão de risco.
+
+Certo?
+
+Então, muita atenção, viu?
+
+Você vai se aventurar no universo da comercialização.
+
+E se você estiver pesquisando ou procurando uma comercializadora para trabalhar, dá uma olhadinha se o pessoal tem uma gestão razoável de riscos.
+
+Beleza, pessoal?
+
+Então, vocês veem o quanto a Curva Forward fala para a gente?
+
+Isso aí é vírgula no setor de energia.
+
+Isso aí é dia a dia.
+
+É o que mais acontece e é o que vai pautar na aula que vem a nossa análise de viabilidade de migração.
+
+Tem um bate-papo aqui?
+
+Deixa eu ver se alguém...
+
+Não.
+
+Beleza.
+
+Então, tá bom.
+
+Vamos lá.
+
+Gente, rapidinho.
+
+A gente falou aqui de os preços que eles clutuam de forma livre, etc.
+
+Existe algum balizador, alguma referência para esses preços?
+
+Sim.
+
+Quem é esse cara?
+
+É o tal do PLD.
+
+Talvez você já tenha ouvido falar do PLD.
+
+Não assuste.
+
+O que significa o PLD?
+
+O que é o preço de liquidação das diferenças?
+
+Isso vai ficar mais claro ainda para a gente lá na aula 4.
+
+O que é o PLD?
+
+O PLD é o seguinte, pessoal.
+
+No mercado livre, quando você compra energia, você está comprando a um dado volume e a um dado preço.
+
+Então, você tem lá uma relação de compra e venda direta, totalmente bilateral, com um agente comercializador, um gerador, você está comprando.
+
+Então, vamos supor.
+
+Estou comprando 1 megawatt.
+
+Estou comprando 1 megawatt médio, 1 megawatt hora a um dado preço.
+
+Só que é o seguinte.
+
+Você não vai consumir exatamente 1 megawatt hora todo mês.
+
+Não vai.
+
+Você vai oscilar um pouquinho para cima ou um pouquinho para baixo.
+
+Você não vai ficar sem consumo, concorda?
+
+A gente já entendeu que a realidade física é outra coisa.
+
+Você vai receber, você vai consumir.
+
+Só que contratualmente existe uma exposição.
+
+Por exemplo, você contratou 1 megawatt hora.
+
+Se no mês seguinte, se no mês lá que você contratou, você consumir 1.5, você tem 1 megawatt hora que está coberto em contrato, só que o outro meio, que completa 1.5, esse outro meio está descoberto.
+
+Você não comprou essa metade.
+
+Então, existe um tratamento para liquidar essa diferença.
+
+Percebeu?
+
+Para liquidar essa diferença com relação ao quê?
+
+Com relação ao que você contratou.
+
+O mesmo pode ser para baixo.
+
+Vamos supor que você consumiu 1.5, mas contratou 1.
+
+Então, essa diferença foi uma sobra.
+
+Você teve uma sobra contratual.
+
+Da mesma forma que você pode ter um déficit contratual.
+
+Contratual, percebe?
+
+A energia foi entregue fisicamente, mas contratualmente existe uma diferença para o que foi contratado.
+
+Quem que baliza o valor que precisa ser pago nessa diferença é o Paulo do PLD.
+
+O PLD é um preço regulado, que é calculado e publicado pela CCE.
+
+E o PLD, além de ser um balizador para essas liquidações, ele é um referencial para essas liquidações, ele é um preço que sinaliza o custo que o sistema está tendo para gerar energia também.
+
+É um custo operacional.
+
+Ele tem relação com o CMO, que é o Custo Marginal de Operação do ANS.
+
+O que isso quer dizer?
+
+Gente, o Brasil é composto de várias unidades de geração.
+
+Várias, de vários tipos.
+
+Para cada momento ou para cada horizonte de operação, um dia, uma semana, um mês, existe uma combinação ótima de usinas para gerar energia naquele período ao custo mínimo.
+
+Tudo bem até aqui?
+
+Existe um problema de otimização no setor elétrico que precisa ser resolvido.
+
+E é responsabilidade do ANS e da CCE de fazer o tratamento econômico disso.
+
+Porque, pensa, se eu tenho para um horizonte uma expectativa de ter mais ou menos geração hídrica, eu talvez não precise despachar a usina térmica.
+
+Isso significa que no meu horizonte, a otimização dos recursos pode ficar mais barato o preço para operar o sistema nesse horizonte.
+
+E aí o cálculo desse preço otimizado é o tal do PLD.
+
+E o PLD, então, ele é um balizador para se liquidar essas diferenças, o PLD ao mesmo tempo.
+
+Ele sinaliza esse custo otimizado que o sistema tem e ele é utilizado como um balizador, um preço para liquidação das operações no mercado livre.
+
+Jonathan, sou obrigado, se eu tiver sobra ou déficit, a vender a minha sobra ou a comprar a minha falta?
+
+Sou obrigado?
+
+Sim.
+
+O que acontece se eu não fizer isso?
+
+Resultado, eventualmente vai ser suspenso da CCR.
+
+Vai ver mais sobre isso na frente.
+
+Sou obrigado a liquidar essas minhas diferenças ao preço do PLD?
+
+Não.
+
+Você pode bilateralmente também comprar, adquirir o que faltou, vender o que sobrou, não tem problema, é o que eu falei.
+
+O preço, ele serve para valorar essas diferenças aí.
+
+E ele tem limites.
+
+Então, existem limites inferiores e superiores para o PLD.
+
+Ainda falando sobre o PLD, pessoal, até o começo de 2021, até o final de 2020, quer dizer, o PLD sempre foi calculado e publicado pela CCR em bases semanais.
+
+No final de cada semana, eles publicavam o PLD da próxima semana.
+
+A partir do começo desse ano, o PLD passou a ser trabalhado em base horária.
+
+Então, para cada hora do dia, existe um PLD.
+
+E lá na frente, quando vai fazer a liquidação, eles fazem o tratamento horário e diário dos consumos ou desse movimento dos excedentes e dos déficits e tudo mais.
+
+Vai ficar mais claro isso aí na próxima aula.
+
+O que vale dizer é que existe um PLD mínimo de R$49,00, um PLD máximo estrutural que ele chama, que é R$583,00, e tem também um PLD horário máximo.
+
+Ou seja, o PLD horário pode ser ainda mais alto.
+
+Vocês veem aí, pelo menos, mais ou menos o dobro do PLD estrutural que é chamado.
+
+Aqui é um gráfico só para vocês verem esse movimento.
+
+Aqui é o histórico do PLD.
+
+Esse PLD em base semanal, estão vendo?
+
+Então, de agosto de 18 a setembro de 21, esses foram os PLDs estruturais, os PLDs semanais.
+
+Porque no fim do dia, eles são a principal referência para as operações de liquidação, percebem?
+
+Olha só aqui nas últimas semanas, a gente com essa crise hídrica, olha a elevação do custo do PLD, do valor, ficou no teto aqui nas últimas semanas.
+
+Isso aqui eu peguei até setembro.
+
+Então, meados de setembro, o PLD estourando, o teto aqui e tudo mais.
+
+Se a gente olhar para o horário, a gente começa a ver alguma variação mínima.
+
+Então, isso aqui é fevereiro de 21.
+
+Então, dentro da hora deste dia, olha o PLD variando.
+
+Tudo isso aqui para quê?
+
+Para sinalizar para os consumidores o custo da energia, o custo operacional de energia no Brasil naquele determinado horário.
+
+Isso aqui, gente, dá vazão a um monte de discussão.
+
+Discussão prática de estratégia de compra e venda de energia, do que fazer, como se apropriar disso.
+
+Infelizmente, a gente não tem tempo de entrar nessa dinâmica de preços, especialmente o PLD.
+
+Mas é imprescindível que vocês conheçam, porque para a realidade prática do dia a dia, de um consumidor que está no mercado livre, de um comercializador que vende energia, de um gerador, enfim, o PLD é realmente fundamental para as operações rotineiras do setor de energia no mercado livre.
+
+Agora, do ponto de vista de estratégia de contratação e tudo mais, a gente está falando de um movimento livre de mercado, de precificação da energia.
+
+Claro, até aqui, pessoal.
+
+Tudo bem até aqui?
+
+Alguma dúvida?
+
+Olha lá, senão eu vou avançar.
+
+Tudo bem que a gente vai ver algum detalhezinho ou outro ainda mais para frente, mas é imprescindível a compreensão disso aqui.
+
+Bom, bora lá.
+
+É...
+
+Opa, boa pergunta do Felipe.
+
+A liquidez é alta entre as comercializadoras?
+
+Olha, Felipe, é melhor do que já foi.
+
+Em 2019, assim, como que funciona o mercado de energia ali?
+
+Ele hoje é um mercado de balcão.
+
+O mercado de balcão é um mercado que antecede a realidade de uma bolsa.
+
+Então, por exemplo, a energia hoje você não compra em bolsa.
+
+A realidade do Brasil hoje é um mercado de balcão.
+
+Então, o mercado de balcão, você não tem um agente intermediário, a clearing house que a gente chama.
+
+Você não tem a bolsa ali, uma B3 e tal.
+
+Então, essa relação é direta com a outra parte.
+
+Então, existe uma política de gestão de riscos muito particular.
+
+Por que eu estou falando isso?
+
+Porque isso, por um lado, reduz a liquidez, mas, por outro, você já exige uma parcimônia por parte do... deveria exigir, pelo menos, uma parcimônia por parte das comercializadoras para fazer a devida comercialização de uma forma mais segura.
+
+Veja que a BBC, que é o Balcão Brasileiro de Comercialização de Energia, ele não é tão novo, ele não é tão velho assim.
+
+Ele faz 2019 agora.
+
+Até lá era o que, gente?
+
+Até lá era telefone puro e tal, contrato.
+
+O BBC veio para digitalizar muita coisa e facilitar essa operação e ajudar nessa gestão de riscos.
+
+Mas a liquidez ainda é baixa.
+
+Porque, realmente, você tem poucos players.
+
+Essa questão de estruturação de garantia, se você mitigar o risco da contraparte.
+
+Então, é uma liquidez razoavelmente boa, já é melhor do que já foi, mas ela poderia ser melhor caso fosse uma estrutura de bolsa, por exemplo.
+
+Mas existe uma liquidez razoável.
+
+Mas, no limite, é uma liquidez baixa se comparada com o mercado de bolsa.
+
+Beleza, Filipe?
+
+Espero que tenha respondido aí, viu?
+
+Senão, você me fala aqui.
+
+Beleza.
+
+Então, pessoal, seguindo aqui, o que nós temos?
+
+Estudado, então...
+
+Com isso, pessoal, a gente tem um entendimento já bem abrangente da dinâmica de preços no setor elétrico.
+
+Não vai fugir disso.
+
+A estrutura tarifária é a base para a gente compreender toda essa dinâmica em relação de custos, especialmente o que o consumidor vai ter.
+
+Em algum momento, o preço de energia que ele vai ter vai ser ou regulado ou vai ser livre.
+
+Então, todas essas componentes que a gente trouxe até aqui nos permitem compreender a estrutura tarifária, compreender a dinâmica de preços do mercado livre e nos dão base para fazer o que a gente vai fazer semana que vem, que é avaliar ou analisar a viabilidade de imigração de um consumidor.
+
+Com isso em mãos, a gente tem.
+
+Só que o que a gente vai ver é que essa análise de viabilidade, para a gente fazê-la bem feita, eu não só preciso compreender a dinâmica de preços, eu preciso ter essa visão holística, esse sistema do setor elétrico, como que ela é, e ter uma visão de como que é esse processo de migração.
+
+Porque esse processo de migração, que vai acontecer, quando ele acontecer, que vai sinalizar para a gente qual que é a melhor estratégia de compra de energia, quais volumes contratar, como contratar, de quem contratar, para quando contratar, para a gente planejar de fato a migração do consumidor para o mercado livre e, posteriormente, fazer a devida gestão dos contratos de energia no mercado livre.
+
+Então, o grande desafio primordial que a gente tem é viabilizar a migração, de um ponto de vista técnico-econômico.
+
+Uma vez viabilizada, a gente vai para um processo de gestão e monitoramento.
+
+E quando a gente chega num processo de gestão e monitoramento, aí já vira dia a dia.
+
+Então, por exemplo, é muito comum, e eu falo em nome, vocês já sabem, eu falo em nome do grupo Prime Energy, do qual eu faço parte, que muitas comercializadoras têm também empresas de gestão.
+
+Então, você tem uma empresa que faz a comercialização, atividade de compra e venda de energia, faz o trading no mercado, um foco ou não no consumidor, pouco importa, mas o consumo de energia hoje no mercado livre, você estar no mercado livre, acaba sendo uma atividade, ao mesmo tempo que exige domínio técnico-econômico do setor elétrico, mas também de uma série de burocracias envolvidas.
+
+Burocracias que vão desde lidar com os agentes envolvidos, a própria CCI, etc., até você fazer o processinho de liquidação todo bem, entendeu?
+
+Você definir ali como foi a liquidação, operacionalizar aquilo, e a gente vai ver na aula 3 ou 4, como que isso é feito, nem que seja só o mínimo, só o essencial a gente vai mostrar, que não é trivial.
+
+Então, você estar no mercado livre, você participar, e isso que eu estou falando para o consumidor, vale também para o gerador, tá?
+
+Você participar do mercado livre, exige não só essa viabilização, como uma gestão contínua, porque você passa a ser livre, você passa a ser autônomo da contratação da energia.
+
+Tá bom?
+
+E aí, a essa altura, pessoal, é importante, aí a gente está chegando na reta final da aula de hoje, e acho que vai dar tempo certinho, vale a pena a gente falar da CCE, porque a gente citou lá atrás, no começo, a CCE, mas a gente não deu a devida ênfase, né?
+
+E a CCE, gente, essa frase está muito boa, do que que é o objetivo da CCE?
+
+Essencialmente, a CCE viabiliza a compra e a venda de energia no país inteiro, tá?
+
+E quem faz parte, basicamente, da GGE?
+
+O mercado de energia praticamente inteiro, geradores, comercializadores, distribuidores e consumidores livres, pô, o consumidor cativo não está na CCE?
+
+Não.
+
+Quem está?
+
+O distribuidor.
+
+O distribuidor está no mercado livre, ou melhor, está na CCE, e, de certa forma, os consumidores cativos, então, estão de forma indireta na CCE, mas não estão.
+
+A CCE não enxerga você e eu enquanto consumidores cativos, ela enxerga o compromisso do distribuidor em comprar a energia dos geradores, mas ela não enxerga você, consumidor cativo, ela vai até o consumidor livre.
+
+Por quê?
+
+Porque a atribuição dela, a principal, é isso, viabilizar essa atividade de compra e venda de energia, e nós, em última análise, não compramos, nós pagamos o repasse dessa energia, tá certo?
+
+Nós pagamos pela distribuição, mas o repasse da energia nós pagamos, no fim do dia, quem paga a compra e venda é a distribuidora, por isso que a distribuidora está na CCE, e você e eu não estamos, tá?
+
+E, além disso, ou melhor, como que ela viabiliza essa atividade toda?
+
+E aí tem as atribuições principais, ela contabiliza e liquida no mercado de curto prazo, mercado de curto prazo é essa atividade que acontece no início de cada mês, para se liquidar essas diferenças, é o curto prazo que a gente chama, ela faz o cálculo do PLD, gerencia os contratos entre os agentes, ela não regula preço de modo algum, o preço é livre, como a gente falou, mas ela gerencia os contratos, o regramento desses contratos, ela mantém o registro de geração e consumo, ela ajuda no balanceamento do que é gerado e consumido, de um ponto de vista comercial, pessoal, não tem nada a ver aqui com realidade física, comercial, e ela é quem faz os leilões de compra e venda no ACR, como a gente viu na aula passada, os resultados de leilões estão lá, porque, de fato, a CCR é quem operacionaliza isso.
+
+Tudo bem?
+
+E, para a gente ver, para vocês terem uma noção do quanto está crescendo o mercado livre, esse gráfico é muito legal, porque, quando você vai ao mercado livre, você tem que aderir à CCR, você vira um agente da CCR, que eu acabei de falar, o consumidor cativo não está no mercado livre.
+
+Então, vejam que interessante, olhe o crescimento, você mede um pouquinho do crescimento do mercado livre pelo número de agentes que estão na CCR.
+
+Olha só, então, a curvinha laranja é o distribuidor, distribuidores na CCR.
+
+Por que 2004?
+
+Porque foi em 2004 que a CCR, de fato, passou a existir.
+
+De 2000 até 2004, não era a CCR, tinha outro nome, mas, 2004 para frente, a CCR passou a existir.
+
+Então, olha só, os distribuidores foram lá aderindo.
+
+Por que reduz o distribuidor, gente?
+
+Porque tem um comprando o outro.
+
+Quem era distribuidor estatal, vira parte de outro, etc.
+
+Uma concessão aumenta, diminui, não sei o quê.
+
+Agora, a gente está numa curva mais crescente, realmente, porque está bem estabelecido, agora, essa questão dos monopólios.
+
+Geraldores independentes aqui.
+
+Olha os comercializadores crescendo.
+
+Quem perguntou da liquidez aí, Felipe?
+
+O número de comercializadores crescendo já está aqui.
+
+Não bateu 500 ainda no final de 2020, mas já é alguma coisa, está vendo?
+
+Mas, gente, olha que absurdo a evolução do consumidor especial, gente.
+
+Olha isso.
+
+Porque o consumidor livre, ele é muito grande.
+
+O consumidor livre, que é o laranjinha aqui, eu estava olhando errado.
+
+O distribuidor é o laranja claro.
+
+Ele nem aparece de verdade, o distribuidor laranja claro.
+
+Esse que eu estava passando o mouse em cima, que não é o distribuidor, é o consumidor livre.
+
+Olha a minha de novo.
+
+Olha o consumidor livre, como ele vai evoluindo.
+
+Olha isso.
+
+Assim, não é o distribuidor, mas aquilo que eu falei para o distribuidor é válido, gente.
+
+Aquilo, de fato, acontece, aconteceu.
+
+Mas o consumidor livre, você vê que é um volume menor, porque, realmente, o consumidor livre é muito grande.
+
+Os pré-requisitos para migrar são pesados.
+
+O cara, realmente, tem que ser grande.
+
+Agora, olha o boom de migrações aqui em 2016.
+
+Olha isso.
+
+Gente, em 2016, a gente teve um cenário de preços baixos de energia, que foi um incentivo absurdo para o pessoal migrar.
+
+Uma janela de contratação sensacional aqui.
+
+E olha o boom que teve.
+
+E olha essa assíntota aqui.
+
+Olha o crescimento do consumidor especial.
+
+Lembrando, o consumidor especial é aquele que tem 500 kW de demanda.
+
+Até 1.500 hoje, até 1.500.
+
+Então, é uma faixa que pega shopping, grandes supermercados, redes de supermercados, indústrias de médio a grande porte.
+
+As enormes já estão livres.
+
+Já são livres, não são especiais.
+
+Mas pega toda uma cadeia, gente, de consumidores que dão volume.
+
+Olha isso.
+
+A gente sai de um patamar de pouco mais de 1.000 em 2015.
+
+Em cinco anos, isso aí, gente, é multiplicado por 7, 8 quase.
+
+Olha o crescimento desse mercado.
+
+Que absurdo.
+
+Se não é o momento mais que oportuno de vocês estarem estudando esse assunto.
+
+Olha isso.
+
+Então, isso mostra para a gente o movimento que o mercado de energia de modo geral está tendo em direção ao mercado livre.
+
+E aí, a gente chega à parte final da nossa aula de hoje. 10, 15 minutinhos, a gente mata isso aqui e termina.
+
+Mas aqui é um geral.
+
+Pessoal, são essas seis etapas fundamentais para um consumidor sair do mercado cativo e ir para o mercado livre.
+
+Cumpridas essas seis etapas fundamentais, vira um trabalho rotineiro de gestão de contratos e de liquidação do mês a mês para permanecer no mercado livre honrando as obrigações.
+
+Então, o que é o primeiro passo fundamental?
+
+Estudar a viabilidade de migração.
+
+Esse estudo de viabilidade vai desde um aspecto de requisitos que a gente viu, os pré-requisitos, verificar de fato se economicamente faz sentido, que é o que a gente vai estudar na semana que vem.
+
+Mas isso passa por outros elementos.
+
+Quando termina o contrato com a distribuidora?
+
+Você não pode simplesmente rescindir o contrato.
+
+Se rescindir o contrato com a distribuidora que você tem hoje, você pode pagar uma multa enorme.
+
+Então, você tem que verificar quando vai acabar o contrato com a distribuidora para eu denunciar esse contrato e falar distribuidora, não compra mais energia para mim porque eu vou para o livre.
+
+E aí você percebe que começa aqui já um planejamento porque às vezes ele pode falar, eu quero migrar no ano que vem, mas o contrato dele vai até 2022.
+
+Ele pode já contratar energia para 2022?
+
+Pode.
+
+Pode já preparar tudo para migrar?
+
+Pode, mas ele só vai poder migrar quando acabar o contrato com a distribuidora.
+
+Então, a primeira etapa fundamental, essa análise da viabilidade.
+
+Feita a análise da viabilidade, fez sentido, tudo foi mapeado bonitinho, certinho, contrato de energia.
+
+Porque você já sabe tudo que vai acontecer, quais prazos você vai ter que seguir, com quem você vai ter que falar.
+
+Repito, gente, observação.
+
+Aqui o ideal é já contratar, se você for consumidor, você contratar um gestor, uma empresa de gestão para fazer esse processo, te assessorar nesse processo.
+
+Então é imprescindível, porque você já vai ter tudo mapeado e você consegue planejar e montar o cronograma de migração.
+
+Primeira etapa fundamental, contrato de energia.
+
+E aí vai vir tudo aquilo que você usou na viabilização, você vai agora aprofundar para definir qual volume vai contratar, como que você vai contratar, porque aí a gente vai ver isso aí na aula que vem, que você tem elementos do contrato, flexibilidade, sazonalidade, qual tipo de energia, de quem você vai comprar, de um gerador, de um comercializador, enfim, muda alguma coisa, a gente vai ver.
+
+Então é a segunda etapa fundamental.
+
+Feita essas duas etapas iniciais, denuncia o contrato, notifica a distribuidora que você não vai, estou lá, viável, contratei a energia, garanti que essa viabilidade vai se performar no futuro.
+
+Então agora, denuncio para a distribuidora, não compra mais energia para mim, não vou renovar porque eu vou migrar.
+
+Aí você inicia os processos subsequentes.
+
+Só lembrando que o prazo para você denunciar o contrato é de até 180 dias antes do término.
+
+Então assim, se passar de seis meses antes do término do contrato com a distribuidora, perdeu.
+
+Tem uma renovação aí automática.
+
+Então toma cuidado com isso.
+
+Adequação do sistema de medição e faturamento.
+
+O sistema de medição que o cara tem lá, quando ele é cativo original, ele não está preparado para fornecer os dados necessários para a CCE para fazer o faturamento de energia no mercado livre.
+
+Lembra que quando você vai para o mercado livre, você passa a ter duas faturas, uma fatura da distribuidora e uma fatura de energia de quem te vendeu a energia.
+
+Os dados que são utilizados para se liquidar, fazer todos os processos com a CCE, eles vêm de uma outra estrutura de medição que é essa adequação que a gente está falando.
+
+Então esse processo já é um processo mais físico, ele já acontece ou ele é programado via de regra para acontecer depois se você já denuncia o contrato com a distribuidora.
+
+Feita essa adequação física da medição, você faz o processo de adesão na CCE, adere à CCE, bonitinho ali, certinho, tem uma taxa de adesão que você paga, tem um monte de formulário, documentação.
+
+Se der tempo, a gente passa por isso, mas entendo que não é objeto do curso.
+
+A gente entrar em tantos detalhes assim desse processo de migração.
+
+E por fim, abertura na conta do agente de liquidação.
+
+O que é isso?
+
+Onde que acontecem todas as operações de compra e venda de energia no Brasil hoje no mercado livre?
+
+No Bradesco.
+
+Qual Bradesco?
+
+A agência Trianon.
+
+Então você tem que ter uma conta lá no Bradesco da Trianon, que fica na Avenida Paulista em São Paulo.
+
+Para poder participar do mercado livre de energia.
+
+Tá bom?
+
+Feito isso, a princípio você está...
+
+O processo de migração aconteceu, claro que não é só isso, tem um monte de detalhe, mas aconteceu você oficialmente, um cliente no mercado livre.
+
+Pergunta.
+
+Seria fácil alguém...
+
+Pergunta retórica.
+
+Seria fácil alguém hoje, consumidor residencial, migrar com tamanha burocracia?
+
+Dessa forma que está na tela não, né?
+
+Eu não imagino a minha família aqui, tio, tia, etc., tendo a mínima paciência ou até mesmo a instrução devida para fazer um processo desse.
+
+Por isso que recentemente, não tão recentemente assim, mas existem esforços e mecanismos já previstos para permitir que esse processo aconteça de forma simplificada aos olhos do consumidor residencial, por exemplo.
+
+Isso vem por meio principalmente do comercializador varejista.
+
+E se der tempo nessa...
+
+Nesse curso a gente comenta alguma coisa sobre ele.
+
+Tá bom, pessoal?
+
+Pessoal, tudo bem?
+
+Alguma dúvida?
+
+Em termos de conteúdo, esse é o último slide do dia.
+
+Aula super densa, eu sei.
+
+Mas a gente vai voltar na próxima aula.
+
+A aula que vem, eu prometo, vai ser bem menos conteúdo assim, de apresentação, slide.
+
+Mas a gente vai usar absolutamente tudo o que a gente estudou hoje na última aula na aula que vem.
+
+Zero dúvidas?
+
+Ninguém no bate-papo também aqui.
+
+Tudo bem, pessoal?
+
+Se aparecer dúvida, gente, no...
+
+Oi?
+
+Oi, Filipe.
+
+Qual a curiosidade?
+
+Manda aí.
+
+Eu ia falar que tá tudo certo, sim.
+
+Beleza.
+
+Aqui, o Filipe Quioche falou que tinha uma curiosidade.
+
+Não sei se ele tá escrevendo.
+
+Ele tá escrevendo.
+
+Enquanto ele escreve aí, o Filipe Quioche...
+
+E valeu, Filipe Cabral, também, pelo comentário.
+
+Gente, se vocês tiverem qualquer dúvida...
+
+Boa pergunta, Filipe, já respondo.
+
+Se vocês tiverem qualquer dúvida, gente, entre em contato com a gente, tá bom?
+
+Tem lá o mural, o fórum no Google.
+
+Manda pergunta, observação.
+
+Se quiser só falar qualquer coisa, o setor fala.
+
+Coloca lá, tá bom, gente?
+
+Lembrando que é um curso bastante interativo, tá?
+
+Não deixe as dúvidas.
+
+Pensa, a gente tem mais duas aulas.
+
+E vão ser duas aulas, também, corridas densas, né?
+
+E é difícil a gente matar tanto conteúdo assim, assimilar tanta coisa.
+
+Então, mastiguem esse conteúdo ao longo dos próximos dias, tá?
+
+E não deixem de questionar.
+
+Tanto na aula, quanto depois.
+
+E é isso mesmo, Filipe Quioche.
+
+Vai ter derivativo, sim, né?
+
+Tem vários estudos acontecendo.
+
+Confesso que esse tema, em particular, eu tô um pouco longe, até um pouco distante.
+
+Até porque o universo do trading não é o meu universo cotidiano, né?
+
+Isso aí tem sido um interesse maior por quem faz gestão de contratos e quem faz trading, né?
+
+Mas, de fato, é um caminho comum.
+
+Se você parar para analisar, esses contratos futuros não deixam de ser derivativos.
+
+Quando a gente fala de derivativo ali pesado, a gente tá falando de opção, né?
+
+Esses derivativos aí mais parrudos.
+
+É porque isso aí, necessariamente, passa por uma gestão de risco muito mais apurada, né?
+
+E eles acabam sendo, em realidade, mais para o mercado de bolsa.
+
+É o que acontece na bolsa.
+
+Mas tem, sim.
+
+Eu sei que tem um movimento muito forte, muita coisa acontecendo para derivativo já na própria BBC.
+
+E acho que tem alguma coisa, se não tá em implantação, já em vias de implantação, tá?
+
+Com relação a derivativos.
+
+E comprometo a dar uma pesquisadinha mais a fundo, consultar o pessoal aqui, pra ver que ponto tá isso aí.
+
+Quem sabe a gente aumenta alguma coisa nas próximas aulas, tá?
+
+Dá mais informação sobre isso.
+
+Tá bom?
+
+Beleza, pessoal?
+
+Espero que tenham respondido aí, viu, Felipe?
+
+Show.
+
+Pessoal.
+
+Último slide.
+
+Pra próxima aula, pra gente refletir.
+
+Quais critérios qualificam um consumidor para migrar?
+
+O que será que qualifica esse consumidor?
+
+Não tô falando de pré-requisitos, demanda, CNPJ.
+
+O que será que qualifica um consumidor, de fato, para migrar para o mercado livre?
+
+Tanto de um ponto de vista técnico, econômico ou até administrativo.
+
+Segunda pergunta pra próxima aula.
+
+Como, de que forma que a gente, de fato, analisa se a migração para o OCL de um consumidor é viável ou não?
+
+Especialmente do ponto de vista econômico.
+
+Como que eu faço isso?
+
+Complementarmente, qual seria a viabilidade mínima que justificaria a migração?
+
+Será que é um item subjetivo ou objetivo isso?
+
+Por fim, quais elementos que precisam ser definidos para contratar energia no OCL?
+
+Já tem uma pista aí que são alguns elementos, né, gente?
+
+Então, eu deixo essas perguntas pra vocês refletirem.
+
+Se der tempo, dêem uma pesquisadinha nisso.
+
+Recomendo fortemente o blog mercadolivredienergia.com.br Qualquer coisa eu vou colocar lá no Moodle também, tá?
+
+Um blog super completo, fiel, sabe?
+
+Linguagem muito fácil de entendimento, tá?
+
+E vou colocar pra vocês também um vídeo lá no Moodle muito, muito lúdico, muito didático da própria CCE sobre as operações.
+
+Eu acho que é um momento razoável pra vocês darem uma olhadinha lá pra juntar com o que a gente viu até aqui.
+
+Beleza, pessoal?
+
+Terminamos então aqui.
+
+Praticamente 10 e meio em ponto.
+
+Ah, sim, Felipe, o canal Energia, é.
+
+O canal Energia é muito bom também.
+
+É uma fonte de informação legal ali.
+
+Se você quer um jornal ali, um meio de comunicação diário, né?
+
+Com bastante informação focada em energia, o canal Energia é muito bom mesmo.
+
+Também gosto muito da área de energia do Valor Econômico.
+
+Recomendo, bem legal.
+
+Tá bom?
+
+Apesar que se você assina o canal Energia, você tem o clipping de notícias, né?
+
+Que aí pega um monte de coisa, né?
+
+Então, recomendo aí a sugestão que o Felipe deu mesmo.
+
+Assine o canal Energia, bem legal.
+
+Tá bom?
+
+Beleza, pessoal?
+
+Então, é isso.
+
+Fico à disposição de vocês.
+
+Um grande abraço, bom descanso a todos e, não tendo mais dúvida, por hoje é só.
+
+Valeu, Rafael.
+
+Boa noite a todos.
+
+Boa noite, Adriano.
+
+Obrigado, Jonatas.
+
+Valeu pela aula dessa semana.
+
+Obrigado.
+
+Valeu, Thales.
+
+Valeu, Walter.
+
+Jonato, deixa eu só te perguntar uma coisa.
+
+Semana que vem, que é feriado, vai ter aula?
+
+Na segunda?
+
+Segunda é feriado?
+
+Não, acho que é terça, é dia dois, né?
+
+É dia dois.
+
+A princípio é pra ter aula dia primeiro, viu?
+
+Beleza.
+
+A princípio tá tudo certo pra aula dia primeiro.
+
+Tá bom?
+
+Mas aí eu vou...
+
+A princípio é tudo certo, aula dia primeiro e tal.
+
+Se houver alguma mudança nesse sentido, vocês vão ser avisados, tá?
+
+Mas é dia primeiro, beleza?
+
+Beleza, então.
+
+Maravilha, gente.
+
+Obrigado, então.
+
+Boa noite a todos.
+
+Tchau, boa noite.
+
+Tchau, boa noite.
+
+Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org

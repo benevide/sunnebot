@@ -1,0 +1,534 @@
+### Na aula anterior...
+
+##### 1. Aprendemos a modelar o custo energético final no ACR e ACL.
+
+##### 2. Simulamos cenários de viabilidade econômica para migração ao ACL.
+
+##### 3. Estudamos a rentabilidade de um projeto de migração ao ACL.
+
+
+### ACL: benefícios e desafios
+
+**BENEFÍCIOS**
+
+- Negociação bilateral de preços
+- Negociação de condições contratuais (prazo, índice
+
+de reajuste)
+
+- Ausência de cobrança de bandeira
+- Como os índices de reajustes são previamente
+
+negociados, o consumidor não fica sujeito a
+
+volatidade dos reajustes anuais dos custos de
+
+energia das distribuidoras
+
+- Possibilidade de economia
+- Possibilidade de contratar energias renováveis
+- Baixo investimento para migração
+
+**DESAFIOS**
+
+- Necessidade da contratação de um volume de
+
+energia (no mercado cativo paga-se a energia
+
+consumida)
+
+- Necessidade de uma gestão mensal e de
+
+conhecimentos específicos de mercado
+
+- Necessidade de adequação de processos internos
+
+às exigências mercado
+
+- Devido ao comportamento de preços da energia no
+
+Mercado livre, é necessário um gerenciamento dos
+
+prazos de contrato e preços de mercado para
+
+definição do melhor momento de contratação.
+
+
+### Contratação de energia
+
+###### Parâmetros dos contratos
+
+- **Sazonalidade** : Permite que os valores contratados por mês sejam alterados até o
+
+###### limite da sazonalidade do contrato. No entanto o valor contratado anual não
+
+###### pode mudar.
+
+- **Flexibilidade** : Limites máximos e mínimos aplicados aos volumes mensais
+
+###### sazonalidades. Dentre dessa faixa de flexibilidade fornecedor garante
+
+###### fornecimento do volume ao preço contratado.
+
+- **Modulação** : Permite que os valores horários do contrato sejam registrados de
+
+###### acordo com a curva de consumo apresentada
+
+
+### Flexibilidade
+
+**Flexibilidade**
+
+
+### Sazonalidade
+
+**Contrato Flat**
+
+```
+Contrato
+Sazonalizado
+```
+**Flexibilidade**
+
+
+### Modulação
+
+```
+Contrato com
+Modulação Flat
+```
+**Contrato Modulado**
+
+
+### Medição
+
+```
+Perdas Gerador
+Perdas Consumidor
+```
+```
+Contabilização
+```
+```
+Consumo com perdas
+```
+```
+Medição contábil
+```
+```
+Geração SIN
+Geração com perdas
+```
+```
+Consumo SIN
+```
+```
+Medição Física
+```
+- Agente de medição dos consumidores especiais:
+    Distribuidora local
+- CCEE recebe diariamente os dados de medição pelo
+    sistema de comunicação do SMF (medição física)
+- No processo de contabilização é levantado toda a
+    geração e todo o consumo do SIN
+- Diferença da energia gerada e a energia consumida
+    = perdas do sistema (dividido igualmente entre
+    geração e consumo)
+- CCEE aplica o fator de perdas na geração e no
+    consumo (medição contábil)
+- Fator de perdas aproximado: ~2,5%
+- Mercado costuma trabalhar com valor de 3%
+    (geralmente usado nos estudos de viabilidade)
+
+
+### Fechamentos contratuais
+
+```
+Medição Física+ Perdas -Proinfa*
+= Necessidade de compra de
+energia
+```
+```
+OK
+```
+```
+Contratar no mercado de
+curto prazo
+ou
+Liquidar na CCEE
+```
+```
+Vender no mercado de
+curto prazo
+ou
+Liquidar na CCEE
+```
+```
+Sujeito a penalidadepor
+falta de lastro de
+consumo e redução do
+```
+```
+Seliquidar na CCEE
+```
+```
+Dentro dos limites
+contratuais
+```
+```
+*Proinfa: Contrato registrado para todos os consumidores livres e especiais com um pequeno volume de
+energia referente ao Programa de Incentivo de Fontes Alternativas
+```
+
+### Contabilização
+
+Falta de energia
+
+Sobra de energia
+
+- Sobras e faltas de energia são
+    valoradaspelo PLD horário e
+    integralizados mensalmente
+- Contabilizaçãoé a soma do mês
+    de todas as exposições em R$
+
+
+### Gestão de riscos: prazos
+
+**_Curto Prazo (ex: 1 ano)_**
+
+- Maior volatilidade de preços
+- Preços menores em cenários de hidrologia favorável e preços maiores em cenários de hidrologias ruins
+- Necessita monitoramento contínuo de mercado para capturar melhores oportunidades e mitigar riscos
+- Maior oferta entre comercializadores e menor de geradores
+
+**_Longo Prazo (ex: 5 anos)_**
+
+- Sofrem do efeito indexação (preços são reajustados anualmente) podendo chegar no fim do contrato a
+    preços não tão atrativos (reajustes da distribuidora possuem dinâmica diferente)
+- Se capturada em uma boa janela de contratação, pode garantir bom período de economia
+- Maior oferta entre geradores e menor de comercializadores
+
+**_Médio Prazo (ex: 3 anos)_**
+
+- Garante economia por um bom período com os efeitos indexação e incerteza tarifária reduzidos
+- Espera-se que durante e período haja ao menos uma janela de contratação para recontratações
+
+
+### Gestão de riscos: volume
+
+**_Contratação Parcial_**
+
+- Modelo de gestão onde se contrata um volume parcial da necessidade de carga a um prazo maior, e
+    contrata-se o restante em contratos de prazos menor
+- Maior volatilidade do custo médio da energia (atrelada ao cenário hidrológico)
+- Quanto maior a parcela da carga contratada em contratos de prazo menor, maior o risco
+- Quanto menor os prazos do contrato da parcela restante, maior o risco
+- Exige monitoramento contínuo de mercado
+- Períodos recentes de PLD muito alto por muito tempo (2013 a 2015), deixou consumidores receosos
+    com esse modelo de gestão
+
+**_Contratação Integral_**
+
+- Modelo de gestão onde se contrata 100% da necessidade de consumo
+- Conhecimento do custo da energia por todo o período do contrato
+- Pode-se perder oportunidades em cenários de reduções grandes de preço
+
+
+### Gestão de riscos: lastro de energia
+
+```
+A Câmara de Comercialização de Energia Elétrica
+(CCEE) mensalmente apura o total dos contratos
+das empresas (recursos) e o consumo de energia
+(requisitos). E, com base no somatório dos últimos
+12 meses, consolida o que é considerado lastro de
+energia.
+```
+```
+A insuficiência por lastro de energia caracteriza-se
+quando o total de energia consumido nos últimos
+12 meses for maior que o total de contratos no
+mesmo período, o que configura um déficit de
+lastro de energia.
+```
+
+### Gestão de riscos: lastro de energia
+
+```
+O montante de energia obtido será utilizado para calcular a penalidade financeira, seja ela especial ou não especial.
+```
+```
+O Preço de Referência utilizado para penalizar os
+consumidores que possuem lastro de energia não
+especialé determinado pelo maior valor entre o preço
+médio de liquidação das diferenças para penalização e
+o valor de referência.
+```
+```
+No caso dos agentes especiais, ele será o maior valor
+entre o preço médio de liquidação das diferenças para
+penalização e o preço de lastro de energia especial
+determinado pela ANEEL.
+```
+
+### Gestão de riscos: lastro de energia
+
+```
+jan fev mar abr mai jun jul ago set out nov dez Total Lastro
+Consumo (MWh) 950 980 1.050 1.000 1.030 970 1.020 1.000 940 1.080 970 1.050 12.
+Contrato (MWh) 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 12.
+```
+**-**
+
+```
+850
+```
+```
+900
+```
+```
+950
+```
+```
+1.
+```
+```
+1.
+```
+```
+1.
+```
+```
+jan fev mar abr mai jun jul ago set out nov dez
+```
+Consumo X Contrato
+
+```
+Consumo (MWh) Contrato (MWh)
+```
+```
+Insuf. de
+Lastro
+```
+#### PENALIDADE = 40 * 125/12 = R$ 416,
+
+**Penalidade por insuficiência de lastro de consumo de energia**
+_Ex: Cenário: PLD = 100,00 R$/MWh e VR = 125,00 R$/MWh_
+
+
+```
+jan fev mar abr mai jun jul ago set out nov dez Total Lastro
+Consumo (MWh) 950 980 1.050 1.000 1.030 970 1.020 1.000 940 1.080 970 950 11.
+Contrato (MWh) 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 12.
+```
+```
+60
+```
+```
+850
+```
+```
+900
+```
+```
+950
+```
+```
+1.
+```
+```
+1.
+```
+```
+1.
+```
+```
+jan fev mar abr mai jun jul ago set out nov dez
+```
+Consumo X Contrato
+
+```
+Consumo (MWh) Contrato (MWh)
+```
+### Gestão de riscos: lastro de energia
+
+```
+Lastro
+OK
+```
+#### SEM PENALIDADE
+
+**Penalidade por insuficiência de lastro de consumo de energia**
+_Ex: Cenário: PLD = 100,00 R$/MWh e VR = 125,00 R$/MWh_
+
+
+### Trabalhando no setor de energia
+
+#### Regulação
+
+#### Mercado Tecnologia
+
+- Legislação
+- Base setorial
+- Planejamento
+- Expansão
+- Operação
+- Tarifação
+- Monitoramento
+- Fiscalização
+    - Engenharia
+    - Projetos
+    - Inovação
+    - GTD
+    - Demanda
+    - Gestão da energia
+    - Consumo
+- Economia
+- Negócios
+- Contratos
+- Competição
+- Precificação
+- Risco
+- Financeiro
+
+
+### A comercialização de energia
+
+A comercialização de energia elétrica pode acontecer de
+
+forma livre ou com preços e quantidades definidos ou
+
+limitados pelo Poder Público. No âmbito do Sistema
+
+interligado Nacional –SIN, as duas formas são
+
+operacionalizadas pela Câmara de Comercialização de
+
+Energia Elétrica –CCEE que deve seguir os regulamentos
+
+estabelecidos pela ANEEL.
+
+```
+Documentação de referência
+```
+```
+1) Convenção de Comercialização de Energia Elétrica -
+```
+```
+Resolução Normativa nº 109/2004;
+2) Regras de Comercialização(CCEE);
+```
+```
+3) Procedimentos de Comercialização(CCEE);
+4) Liquidação das operações de compra e venda -Resolução nº
+```
+```
+552/2002;
+```
+```
+5) Garantias financeiras e a efetivação de registros de contratos
+de compra e venda de energia elétrica -Resolução
+```
+```
+Normativanº 622/2014;
+6) Desligamento de agentes e impugnação de atos praticados
+```
+```
+na CCEE -Resolução Normativa nº 545/2013;
+```
+```
+7) Controle dos contratos de comercialização de energia
+elétrica -Resolução Normativa nº 783/2017.
+```
+
+### Comercializadora: estrutura
+
+```
+Middle Office Trading
+(Mesa)
+```
+**Jurídico Gestão Comercial**
+
+**Adm**
+
+- Compra e venda de energia
+- Cotações diárias
+- “Boletagem”
+- Precificação
+- Gestão de portfolio
+- Projeção de tarifas
+- Projeções de preços
+- Modelagem de cenários
+- Newave, Decomp, Dessem
+- Regulação
+- Vendas para consumidores
+- Preparação de estudos e
+propostas
+- Negociação de energia e
+consultoria (gestão)
+- Gestão de contas
+- Curto prazo & CCEE
+- Estratégia de contratação
+- Suporte ao cliente
+- Fidelização
+- Contratos
+- Resolução de conflitos
+- Suporte interno
+- RH
+- Financeiro
+- Contabilidade
+
+
+### Capacita CCEE
+
+```
+Em 2021, a CCEE lançou uma nova
+plataforma para proporcionar a
+capacitação à distância de pessoas
+interessadas no mercado de energia.
+Cursos gravados, aulas ao vivo e um
+acervo repleto de conteúdos disponíveis
+em um único lugar. Você pode utilizar o
+material no horário que lhe for mais
+conveniente, obtendo certificados, mas
+principalmente, conhecimento.
+```
+
+### Conclusões
+
+- O SEB têm desafios diários que precisam de soluções imediatas e de longo prazo.
+- Aatividadedecompraevenda de energia é extremamente estruturada e requer a compreensão
+    adequada da regulação vigente e dos riscos associados.
+- O Mercado Livre de Energia é um ambiente competitivo em que agentes de geração,
+    comercialização e consumo (sob certos requisitos) podem auferir ganhos econômicos.
+- O SEB está em evolução e a expectativa é que haja mudanças significativas ao longo da próxima
+    década.
+- OSEBécarentedepessoalcapacitadoparatrabalharem um contexto interdisciplinareem
+    constantemudança.
+
+
+### O que achou do curso?
+
+## Não deixe de fazer a avaliação do
+
+## curso!
+
+## É muito importante para nós e para
+
+## nossos futuros alunos!
+
+
+# Obrigado!
+
+```
+Prof. Jônatas Duarte Lima
+```
+```
+jdl.eng@hotmail.com
+```
+```
+jonatas.lima@ativaenergia.com.br
+(11) 98428 - 2139
+```
+

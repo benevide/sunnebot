@@ -1,0 +1,794 @@
+# Na aula anterior...
+
+## 1. Compreendemos a evolução do SEB e seu desenvolvimento.
+
+## 2. Entendemos que há duas visões de mercado: física e comercial.
+
+## 3. Há dois ambientes de contratação de energia: ACR e ACL.
+
+## 4. O mercado livre de energia ainda é restrito a consumidores específicos.
+
+
+# ACR vs. ACL (ótica do consumidor)
+
+## ACR
+
+## ACL
+
+
+# Regulação tarifária
+
+#### Os Procedimentos de Regulação
+
+#### Tarifária (PRORET) têm caráter
+
+#### normativo e consolidam a
+
+#### regulamentação acerca dos
+
+#### processos tarifários.
+
+#### Osubmódulo7.1estabelece os procedimentos gerais a serem
+
+#### aplicados ao processo de definição da Estrutura Tarifária para as
+
+#### concessionárias de serviço público de distribuição de energia
+
+#### elétrica.
+
+
+# Composição das tarifas de energia
+
+```
+A TUSD (Tarifa de Uso do Sistema de Distribuição)é paga pelos
+```
+```
+consumidores Cativos e Livres em faturas mensais emitidas pelas
+```
+```
+concessionárias. Sua tarifa é regulada pela Aneel. Contempla os custos
+de capital, custos de operação e manutenção da rede, custos do
+```
+```
+sistema de transmissão (TUSD Demanda) e encargos setoriais (TUSD
+```
+```
+Encargo).
+```
+```
+A TE (Tarifa de Energia)é paga pelos consumidores cativos em faturas
+mensais emitidas pelas concessionárias. Sua tarifa é regulada pela
+```
+```
+Aneel. Contempla os custos de aquisição de energia da distribuidora.
+```
+```
+São integralmente repassados ao consumidor. A aquisição de energia
+pelas distribuidoras é feita através de leilões regulados.
+```
+
+# Estrutura tarifária
+
+
+# Subgrupos tarifários
+
+```
+Subgrupos
+tarifários
+```
+```
+Grupo A
+(média e alta
+tensão)
+```
+```
+Tarifa Azul
+```
+```
+Demanda de
+Ponta
+(R$/kW)
+```
+```
+Demanda Fora
+de Ponta
+(R$/kW)
+```
+```
+Consumo
+Ponta
+(R$/kWh)
+```
+```
+Consumo Fora
+Ponta
+(R$/kWh)
+```
+```
+Tarifa Verde
+```
+```
+Demanda
+(R$/kW)
+```
+```
+Consumo
+Ponta
+(R$/kWh)
+```
+```
+Consumo Fora
+Ponta
+(R$/kWh)
+```
+```
+Tarifa
+Convencional
+```
+```
+Demanda
+(R$/kW)
+Consumo
+(R$/kWh)
+```
+```
+Grupo B
+(baixa tensão)
+```
+```
+Tarifa
+convencional
+```
+```
+Consumo
+(R$/kWh)
+```
+```
+Tarifa Branca
+```
+```
+Consumo Fora
+Ponta
+(R$/kWh)
+```
+```
+Consumo
+Intermediário
+(R$/kWh)
+```
+```
+Consumo
+Ponta
+(R$/kWh)
+```
+**Tarifação binômia Tarifação monômia**
+
+```
+Subgrupo Classe de consumidor Tensão
+A1 Indústria e comércio Maior ou igual a 230 kV
+A2 Indústria e comércio De 88 kV até 138 kV
+A3 Indústria e comércio 69 kV
+A3A Indústria e comércio De 30 kV até 44 kV
+A4 Indústria e comércio De 2,3 kV até 25 kV
+AS Indústria e comércio Menor que 2,3 kV com sistema subterrâneo.
+```
+```
+Subgrupo Classes de consumidor Tensão
+```
+```
+B
+```
+```
+Residencial e residencial de baixa renda.
+Para os de baixa renda, existe subsídio de
+até 65% da tarifa, em função do consumo
+mensal em kWh.
+```
+```
+< 2,3 kV
+```
+```
+B
+Classe rural e cooperativas de eletrificação
+rural e serviço público de irrigação.
+Também possuem tarifa diferenciada.
+< 2,3 kV
+```
+```
+B
+Outras classes (industrial, comercial,
+serviços, poder público, serviço público
+etc.)
+< 2,3 kV
+B4 Iluminação pública < 2,3 kV
+```
+
+# Processos tarifários
+
+```
+Cada concessionária de distribuição possui seu próprio aniversário tarifário, ou seja, a data em que suas tarifas são revisadas para
+garantir o equilíbrio econômico-financeiro de sua concessão. Há 3 tipos de processos tarifários garantidos por contrato, sendo eles:
+```
+```
+Realizada a cada 3 / 4 / 5 anos com o
+objetivo de assegurar o equilíbrio
+econômico-financeiro da concessão.
+Nesse momento, a parcela B é
+recalculada por inteiro, assim como a
+BRR e os 3 componentes do Fator X. A
+duração do ciclo tarifário é definida no
+contrato de concessão. O rito das
+revisões tarifárias anuais é disciplinado
+pelo módulo 2 dos Procedimentos de
+Regulação Tarifária (PRORET).
+```
+### Revisão Tarifária
+
+### Periódica
+
+```
+Realizado anualmente com o objetivo
+de preservar o equilíbrio econômico-
+financeiro da concessão estabelecido
+na Revisão Tarifária. Nesse momento, a
+parcela B é ajustada pela inflação (IGP-
+M) e pelo Fator X. Adicionalmente, a
+cada reajuste, o componente Q do fator
+X também é revisado. O rito dos
+reajustes tarifários anuais é
+disciplinado pelo módulo 3 do PRORET.
+```
+### Reajuste Tarifário
+
+### Anual
+
+```
+Pode ser solicitada por uma
+distribuidora quando o equilíbrio
+econômico-financeiro de sua
+concessão é afetado por fatores fora
+de seu controle. A distribuidora entra
+com pedido na Aneel, que analisa o
+pleito e pode decidir de maneira
+favorável ou não. O que é garantido
+por contrato é a possibilidade de
+requisitar tal revisão, e não sua
+aceitação. O rito de admissibilidade
+das revisões tarifárias extraordinárias
+é disciplinado pelo submódulo 2.9 do
+PRORET.
+```
+### Revisão Tarifária
+
+### Extraordinária
+
+
+# Exemplo de uma tarifa regulada
+
+### TUSD
+
+### Demanda
+
+### TUSD
+
+### Encargo
+
+### Tarifade
+
+### Energia
+
+
+# Bandeiras tarifárias
+
+```
+Desde o ano de 2015, as contas de energia passaram
+a trazer uma novidade: o Sistema de Bandeiras
+Tarifárias, que indicam se haverá ou não acréscimo
+no valor da energia a ser repassada ao consumidor
+final, em função das condições de geração de
+eletricidade.
+```
+```
+Todos os consumidores cativos das distribuidoras
+serão faturados pelo Sistema de Bandeiras
+Tarifárias, com exceção daqueles localizados em
+sistemas isolados.
+```
+
+# Faturamento regulado
+
+```
+Consumo Ponta
+(com TUSD
+Encargos + TE)
+```
+```
+Consumo Fora
+Ponta (com TUSD
+Encargos + TE)
+```
+```
+Demanda Ponta
+(com TUSD
+Demanda)
+```
+```
+Demanda Ponta
+(com TUSD
+Demanda)
+```
+```
+Tributos
+contemplam
+ICMS (estadual),
+PIS e COFINS
+(federais)
+Convênio com
+prefeituras
+(arrecadação pela
+distribuidora)
+```
+```
+Vamos treinar?
+```
+
+# Obs.: Geração Distribuída (GD)
+
+A micro e mini geração distribuída é
+regulamentada pela RN 482/2012, que permite
+que qualquer consumidor cativo instale pequenas
+usinas de geração de energia para abatimento do
+seu consumo. O excedente é compensado
+posteriormente.
+
+Em 2018, a ANEEL iniciou um processo de revisão
+econômica da RN 482, que estudava alternativas
+para a alocação adequada dos custos da GD, com
+vistas à modicidade tarifária.
+
+O Marco Legal da GD –PL 5829/19, aprovado pela
+Câmara dos Deputados e quetramitanoSenado,
+determina um cronograma de aplicação de
+alternativas no horizonte 2023-2045.
+
+
+# Preços de energia no ACL
+
+```
+Diferentemente das tarifas reguladas, os preços
+de energia praticados no mercado livre sofrem
+alterações estruturais e conjunturais,
+considerando as características de oferta e
+demanda inerentes à commodity energia
+elétrica.
+```
+```
+Principais fatores que afetam os preços de
+energia comercializados no ACL:
+```
+- Condições de chuvas (níveis de
+    armazenamento);
+- Questõespolítico-regulatórias;
+- Balançoestruturaldeoferta e demanda;
+- Proximidadedomomentodacontratação.
+
+```
+Hidrologia
+```
+- **Curto prazo**
+- Alto nível de risco, devido à
+    Volatilidade do PLD e efeitos da
+    hidrologia.
+- **Principais riscos:**
+- Condições de chuvas e,
+    principalmente, qualidade do
+    período úmido.
+
+```
+Balanço Estrutural
+```
+- **Médio prazo**
+- Redução na volatilidade com
+    aumento da influência do balanço
+    do sistema. Não há mais tempo
+    hábil para construção de novas
+    usinas
+- **Principais riscos:**
+- Atrasos na oferta e
+    retração/elevação da demanda.
+
+```
+Expansão e Tarifas
+```
+- **Longo prazo**
+- Dependente das condições de
+    expansão do sistema
+- **Principais riscos:**
+- Mudanças na matriz de expansão
+    do sistema com alteração do
+    custo marginal de expansão.
+- Mudanças nas tarifas do cativo
+
+```
+Até 12 meses 12 a 48 meses Mais de 48 meses
+```
+
+# Tipos de energia
+
+## No Mercado Livre, a energia contratada pode ser convencionalou incentivada.
+
+## A energia incentivada foi estabelecida pelo Governo para estimular a expansão de
+
+## geradores de fontes renováveis limitados a 30 MW de potência, como PCH (Pequenas
+
+## Centrais Hidroelétricas), Biomassa, Eólica e Solar. Para esses geradores serem mais
+
+## competitivos, o comprador da energia proveniente deles, chamada de energia incentivada,
+
+## recebe descontos (de 50%, 80% ou 100%) na tarifa de uso do sistema de distribuição).
+
+## A energia convencional é proveniente dos outros tipos de geradores, como usinas
+
+## térmicas a gás ou grandes hidroelétricas.
+
+
+# Curva forward
+
+```
+A curva Forward é um preço de referência de energia para determinado produto, em cada momento no tempo, que serve como base
+para precificação de operações ou valoração de ativos e está relacionado com o conceito de “marcação ao mercado”.
+```
+
+# Preço de Liquidação das Diferenças – PLD
+
+O Preço de Liquidação das Diferenças é
+utilizado para valorar os volumes de energia
+liquidados na CCEE (diferença entre energia
+contratada e consumida ou gerada).
+
+O PLD tem como base o CMO (custo marginal de
+operação), calculado pelo ONS (Operador
+Nacional do Sistema). Ele é calculado de forma
+a otimizar o custo de energia visando a
+segurança no fornecimento. São utilizados
+modelos matemáticos e estatísticos: o Newave
+e o Decompe o Dessem.
+
+Atualmente os valores limite do PLD são:
+
+- PLD mínimo = R$ 49,77/MWh;
+- PLDmáximo estrutural = R$ 583,88/MWh;
+- PLDhoráriomáx. = R$ 1.141,85/MWh.
+
+
+# Histórico do PLD
+
+
+# PLD horário
+
+```
+Até 2020 o PLD (Preço de Liquidação das
+Diferenças) era determinado em base semanal,
+considerando três patamares de carga, para cada
+submercadodo sistema elétrico brasileiro.
+```
+```
+A partir de 2021 o PLD passou a ter base horária, e
+é divulgado diariamente pela CCEE (todo dia a
+CCEE divulga o PLD do dia seguinte).
+```
+```
+A definição dos submercadosé responsabilidade
+do ONS e contempla a seguinte divisão do sistema
+elétrico brasileiro: Norte, Nordeste,
+Sudeste/Centro-Oeste e Sul.
+```
+```
+O PLD é calculado em base ex-ante(considerando
+informações previstas de disponibilidade e carga).
+Os preços servem para a liquidação de toda a
+energia não contratada entre os agentes.
+```
+
+# Câmara de Comercialização de Energia
+
+# Elétrica – CCEE
+
+- A CCEE –Câmarade Comercializaçãode Energia Elétrica–foi
+
+#### autorizadapela lei nº 10.848/2004 e regulamentadapelodecretonº
+
+#### 5.177/2004 comoassociaçãocivil de direitoprivado, semfins
+
+#### lucrativossob regulaçãoe fiscalizaçãoda ANEEL
+
+- Objetivo: viabilizaras atividadesde comprae vendade energiaem
+
+#### todoo país
+
+- Quemfazparte: todososagentesdo mercado de energia(Geradores,
+
+#### Comercializadores, Distribuidorese ConsumidoresLivres)
+
+#### Principais atribuições:
+
+- Contabilização e Liquidação Financeira do mercado de curto prazo
+- Cálculo do PLD (Preço de Liquidação de Diferenças)
+- Gestão dos contratos do Ambiente de Contratação Regulada (ACR) e
+
+#### Ambiente de Contratação Livre (ACL)
+
+- Manter registro dos dados de geração e consumo de energia elétrica
+- Realizar leilões de compra e venda de energia do ACR
+
+
+# Agentes da CCEE
+
+#### Só entre 2019-2020, houve um
+
+#### aumento de 1.522 (21,5%)
+
+#### consumidores livres ou especiais,
+
+#### totalizando 8.579 ao final de 2020.
+
+#### A curva acentuada de crescimento
+
+#### dos consumidores especiais
+
+#### sinaliza o avanço do mercado livre
+
+#### de energia, especialmente à
+
+#### medida em que há flexibilizações.
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Estudo de Viabilidade
+```
+- **Análise dos requisitos mínimos para migração**
+- **Análise da data de vencimento do contrato de fornecimento**
+    **de energia no mercado cativo**
+- **Estudo de viabilidade para antecipação da data da migração**
+    **com pagamento de multa de rescisão contratual**
+- **Cálculo comparativo de economia: Cativo x Livre**
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Contratação de Energia
+```
+- **Negociação da compra de energia com gerador / comercializador**
+- **Necessário definição de volume**
+- **Necessário definição das características dos contratos (prazo,**
+    **flexibilidade, sazonalidade, tipo de energia)**
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Denúncia de contratos
+```
+- **Notificar a distribuidora da decisão de não renovação**
+    **do contrato de fornecimento de energia para migração**
+    **ao mercado livre**
+- **Início dos processos de adequação do SMF**
+- **Prazo para denúncia é de 180 dias antes do término do**
+    **contrato**
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Adequação SMF
+```
+- **Adequar o sistema de medição ao padrão do Mercado**
+    **Livre**
+- **Diretrizes dada pela distribuidora (pode ser necessário**
+    **troca do medidor, painel, cabos, transformadores)**
+- **Necessário instalar sistema de comunicação remoto**
+    **com a distribuidora e CCEE**
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Adesão CCEE
+```
+- **Processo de adesão a CCEE**
+- **Necessário pagamento de taxa de adesão**
+- **Envio de formulários e documentações conforme**
+    **manual de adesão da CCEE**
+
+
+# Processo de migração ao Mercado Livre
+
+### Estudo de
+
+### Viabilidade
+
+### Contratação
+
+### de Energia
+
+### Denúncia de
+
+### Contratos
+
+### Adequação
+
+### SMF
+
+### Adesão à
+
+### CCEE
+
+### Abertura de
+
+### Conta no
+
+### agente de
+
+### liquidação
+
+```
+Abertura de conta no agente de liquidação
+```
+- **Processo de abertura de conta corrente no banco**
+    **Bradesco agência Trianon**
+
+
+# Próxima aula
+
+## 1. Quais critérios qualificam um consumidor para migrar ao ACL?
+
+## 2. Como se analisa a viabilidade econômica para migração ao ACL?
+
+## 3. Qual a viabilidade mínima que justifica a migração?
+
+## 4. Quais elementos devem ser definidos para contratação de energia no ACL?
+
+

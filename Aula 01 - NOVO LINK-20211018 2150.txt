@@ -1,0 +1,4275 @@
+E aí pessoal?
+
+Então aí, já estamos gravando, tudo certinho.
+
+Deixa eu já começar a compartilhar minha tela com vocês.
+
+Deixa eu só jogar para o lado de cá, beleza.
+
+Essa outra apresentação também.
+
+Pronto, deixou.
+
+Compartilhar, compartilha o conteúdo.
+
+Quero compartilhar a tela 2.
+
+Aparece para vocês aí?
+
+Tudo certo?
+
+Meu navegador?
+
+Tudo certo, tudo.
+
+Estou ampliando aqui embaixo para poder não perder o visual de todo mundo aqui.
+
+Então aparece a minha segunda tela para vocês.
+
+Está no navegador, né?
+
+E aqui no mudo.
+
+Como eu estou em uma segunda tela grande, fica muito pequena a tela para vocês ou não?
+
+Está o tamanho razoável para enxergar as coisas?
+
+Aqui para mim está ok.
+
+Está ok, porque eu não projetei ainda.
+
+Vamos lá, projetei aqui.
+
+Está razoável ainda ou não?
+
+Ficou bom, muito bom.
+
+Então está jóia.
+
+Então deixa eu só me organizar.
+
+Isso aqui prometo que semana que vem vai estar tranquilaço.
+
+Mas vamos lá pessoal, então mais uma vez sejam todos muito bem-vindos ao AFEI em primeiro lugar.
+
+Eu não sei quem aqui é FEIano, se formou na FEI ou está estudando na FEI ainda.
+
+Já a gente vai descobrir isso, né?
+
+Mas sejam muito bem-vindos à FEI em primeiro lugar.
+
+Tenho um orgulho e um prazer muito grande de ter uma história nessa instituição, na FEI, pelo menos seis anos da minha vida ali estudando.
+
+É um prazer muito grande de vez em quando voltar a FEI para participar de alguma forma.
+
+Essa é a primeira turma desse curso de Energy Market.
+
+É uma iniciativa recente da FEI, mas não menos bem construída como todos os outros cursos da FEI.
+
+Repito, não sei quais de vocês tiveram já a oportunidade de participar de alguma coisa da FEI, alguma iniciativa, algum curso, mas foi preparado, esse curso já vem sendo preparado há algum tempo, vem sendo matutado há algum tempo e finalmente a gente conseguiu desenvolver o curso e aplicá-lo e realizá-lo ainda esse ano.
+
+Então, sejam realmente todos muito bem-vindos ao curso.
+
+Deixa eu começar, vou começar usando a referência aqui do material.
+
+Bem-vindos e deixa eu começar me apresentando.
+
+Bom, eu sou o Jonatas, sou engenho eletricista FEIano, sou formado aqui na FEI.
+
+Atualmente eu sou pós-graduando em estratégias empresariais lá na São Paulo, não sei quem conhece, eu trabalho de escola, recomendo muito que vocês, especialmente quem tiver aqui um interesse mais pelo universo das finanças, das estratégias, do empreendedorismo, sugiro bastante.
+
+Eu sou CMVP, não sei se alguém aí que já está no setor de energia conhece esse termo, mas é uma certificação bastante importante na área de eficiência energética.
+
+Sou técnico formado com muito orgulho, o técnico em eletroeletrônica lá em São Paulo deu muita base para a minha vida toda.
+
+Imagino que tem alguém aqui que provavelmente tenha feito técnico, se não no Senai tenha feito técnico em outro lugar, mas curso técnico me carregou muito tempo da minha vida, sou muito feliz por isso, muito grato a isso.
+
+E entrei no setor de energia há um pouco mais de 10 anos.
+
+Entrei lá em 2011 numa empresa chamada Energia Zesco.
+
+Pode depois falar um pouquinho mais sobre o que é uma Zesco, etc, mas não vem muito ao caso do nosso curso hoje, mas resumidamente a Zesco são as empresas que tem como propósito trabalhar com energia energética, reduzir os níveis de eficiência, ou melhor, otimizar os níveis de eficiência energética de qualquer consumidor de energia, especialmente as indústrias.
+
+Então, tive uma passagem lá pela Energia Zesco entre 2011 e 2017, meu foco foi muito no desenvolvimento de projetos de eficiência energética.
+
+Trabalhei também naquela oportunidade nesses seis, quase sete anos.
+
+No desenvolvimento de projetos também de geração distribuída.
+
+Então, foi uma grande escola ali do ponto de vista de engenharia, propriamente dito, esse período lá na Energia.
+
+Em 2017, entrei no grupo Prime Energy, já uma mudança gigantesca de perspectiva, porque lá na Zesco o meu foco era muito técnico, desenvolver projeto, participar do dia a dia dos projetos e tal.
+
+Já na Prime Energy, que é uma comercializadora de energia, eu fui para o universo do mercado livre lá em 2017.
+
+A gente já conhecia, antes de você entrar no mercado livre de fato, para trabalhar no mercado de energia, você conhece as coisas de modo muito superficial.
+
+Quem dera eu tivesse tido um curso desse à minha instituição, que a gente está começando hoje, para me dar a devida introdução do que são os mercados de energia, do que é o mercado livre etc.
+
+Naquela época eu não tive isso e fui para a Prime Energy trabalhar com o mercado livre de energia, mas também fazia muita coisa voltada para geração distribuída.
+
+Em dado momento, a grande parte do meu trabalho era focado em geração distribuída, mas com um foco muito grande no que a gente chama de mercado de energia, que a gente vai entender ao longo do curso o que eu quero dizer quando eu falo mercado de energia.
+
+Eu sempre tive o desejo de empreender.
+
+Eu imagino que possa ter alguns empreendedores aqui na sala.
+
+Eu sempre tive esse desejo muito grande de empreender e quando eu estava lá ainda na Prime, eu trouxe uma ideia de um projeto de uma empresa para o grupo e a gente chegou num consenso que a gente poderia fundar uma outra iniciativa dentro do grupo focado em inovação, que é a Ativa Energia.
+
+Foi fundada oficialmente no começo de 2020, um pouquinho antes da pandemia, e desde então ali eu estou à frente da Ativa Energia, que é o braço de inovação e desenvolvimento de projetos do grupo Prime Energia.
+
+Com isso, a gente teve oportunidade de passar por várias perspectivas do setor elétrico e essa passagem principalmente pela Prime Energy é o que deu base para a gente poder falar um pouquinho sobre mercado.
+
+Antes da gente seguir indo, eu queria fazer dois comentários muito simples.
+
+Se você quiser, de alguma forma, puxar assunto comigo, eu vou dar duas dicas para você.
+
+Fala de churrasco, certo?
+
+Quem gosta de churrasco, essa foto aqui não dá, né?
+
+Vamos falar a verdade, chorizo é maravilhoso, sete horas da noite, se eu der um chorizo desse, é brincadeira, né?
+
+É um hobby churrasco sensacional e Fórmula 1.
+
+Desde moleque, nove anos de idade, dez anos de idade, 98, 99, por ali, acompanhando Fórmula 1.
+
+Então, gente, a hora que vocês quiserem parar a aula para falar de churrasco, para falar de Fórmula 1, fiquem à vontade, porque tem hora que esse negócio fica falando de energia e enche o saco, né?
+
+Desculpe o termo, mas tá aí os hobbies e espero que por meio desses hobbies a gente se conecte de alguma forma, viu?
+
+Eu queria aproveitar agora, eu sei que a gente tá sempre ouvindo aula, é um negócio meio chato, mas eu queria, brevemente, que a gente fizesse uma integração aqui.
+
+Quem puder, abre o microfone rapidinho aí, só fala nome, que seria legal, né?
+
+Fala nome, fala se já já tá graduado ou não, se já tá no mercado de trabalho, se já tá no setor de energia, se tiver há quanto tempo, faz o quê.
+
+Vamos lá, pessoal, gasta ali 30 segundos, quem puder começar.
+
+Deixa eu falar aqui, só para a gente se conhecer.
+
+Pode ser?
+
+Eu vou na ordem que tá na minha tela aqui, vamos lá.
+
+Thales.
+
+Boa noite.
+
+Eu sou o Thales, eu sou formado em Engenharia Elétrica pela FEI, me formei agora na metade do ano.
+
+Como você, eu também tenho um curso técnico pelo SENAI, só que em automação industrial, e antes disso eu fiz um CAE, que é o curso de Engenharia Industrial em Elétrica.
+
+Atualmente eu trabalho na CPTM, na parte de distribuição de energia para o trem, então eu trabalho com 3.000 contínuos e 6.6 alternados, 6.6 KV, e é essa experiência que eu tenho aí.
+
+Show de bola, faz tempo que você tá na CPTM?
+
+Já tô lá há sete anos, vou completar oito já em abril.
+
+Show de bola, próxima vez que der pau no trem eu volto lá, viu cara?
+
+Foi hoje já, nem brinca.
+
+Foi hoje já.
+
+Já foi a conta, né?
+
+Show de bola.
+
+Já foi a conta do mês, já foi.
+
+Já foi.
+
+Legal, Thales.
+
+Obrigado, hein, cara.
+
+Seja muito bem-vindo.
+
+E só uma dúvida, por que você decidiu fazer o curso?
+
+Porque é uma área que eu prospecto entrar, quero fazer uma pós já no começo do ano que vem, quero ver se eu já começo um curso de energias.
+
+Essa é uma especialização que eu queria fazer dentro da FEI, mas como a FEI não abriu, só como pós-graduação, então é um curso que eu quero ir.
+
+Então é uma introdução já aqui, né?
+
+Uma ideia do que eu posso haver nessa pós aí.
+
+Legal, show de bola, Thales.
+
+Obrigado, hein.
+
+Seja bem-vindo.
+
+Valeu, obrigado.
+
+Valeu.
+
+Diogo.
+
+Olá, boa noite, tudo bom?
+
+Meu nome é Diogo, minha formação, eu sou tecnólogo em eletrônica industrial pelo SENAI, também sou formado pelo SENAI, curso técnico em eletrônica, e eu não auto na área do setor energético.
+
+Eu já estou há mais ou menos uns 17 anos no setor gráfico, eu trabalhei na Canon, uma empresa japonesa, hoje eu trabalho na Minaki, que também trabalha no setor gráfico.
+
+Então, depois que eu me formei como tecnólogo, eu tive interesse pela área de elétrica, só que devido às minhas viagens, eu não conseguia, por exemplo, finalizar meu curso de engenharia.
+
+Então houve uma opção, no caso, de fazer o curso de pós-graduação.
+
+E aí eu realizei o curso de pós-graduação no SENAI também de eficiência energética.
+
+Então teve coisas relacionadas à hidráulica, motores elétricos, ar comprimido, então a gente estudou vários cases para a gente conseguir reduzir, por exemplo, o consumo de energia de um determinado cliente.
+
+Então a gente é uma pós-graduação voltada para formar consultores, no caso.
+
+Eu acabei me interessando e aí eu vi o prospecto do curso e aí eu resolvi realizar para poder obter mais conhecimento e futuramente também entrar no setor elétrico.
+
+Show de bola, Diogo!
+
+Maravilha, seja bem-vindo!
+
+O SENAI está no sangue a essa altura já, né, cara?
+
+Legal, cara!
+
+Eu tenho um carinho muito grande pelo SENAI.
+
+Fiz técnico lá em eletroeletrônica, como eu falei, e deu a base da minha vida, assim, cara.
+
+Muito legal, seja bem-vindo, hein?
+
+Adriano, eu não lembro mais quem foi que falou que estava com a limitação da câmera, mas...
+
+Oi, professor.
+
+Eu também não estou funcionando, estou pelo laptop aqui.
+
+Eu estou graduando agora no final do ano em Engenharia Mecânica pela FEI.
+
+Minha oportunidade de trabalho na parte de elétrica estive por quatro anos na Weidmüller Conexão, a parte de desenvolvimento de conectores elétricos lá com eles.
+
+Atualmente, nessa última fase aqui da FEI, eu trabalho como autônomo, né, junto com o meu primo, e em paralelo ele também desenvolve, por sinal, até não sei se o Thales conhece, mas ele fornece as baterias, né, faz um retrofit de baterias na CPTM, né, então eu acompanho a atividade com ele lá, né, pela Power Service.
+
+E na hora vaga, como autônomo, eu estou treinando com ele também no desenvolvimento de placas fotovoltáricas, sistemas de fototérmico, e essa está sendo a atividade minha atualmente, professor.
+
+Legal, maravilhoso.
+
+No fim da graduação em mecânica, né.
+
+E a minha intenção de participar do curso é me preparar para novas opções de geração de energia no mercado livre também, poder atuar nesse segmento aí como uma parte de empreendedor, né.
+
+Você tem interesse em empreender.
+
+Exatamente.
+
+Isso também aí, antes do curso com vocês aqui, a parte também, o curso de células e pilhas de hidrogênio, né, voltado também para opções de energia renováveis, né, para o futuro.
+
+Pretendo, depois de formado, poder também me especializar nessa área, professor.
+
+Entendeu?
+
+Isso aí.
+
+Legal, Adriano.
+
+Obrigado e seja muito bem-vindo.
+
+Obrigado.
+
+Rafael.
+
+Opa, vamos lá.
+
+Boa noite, Jonatas.
+
+Boa noite aos colegas também.
+
+Boa noite.
+
+Sou formado em engenharia elétrica pela FEI também, me formei na turma de 2014.
+
+Também fiz técnico, minha carreira passou por algumas diferentes indústrias, né, normalmente como gerente de projetos.
+
+Cheguei a trabalhar em área financeira, num banco, trabalhei na GE, trabalhei na Globo.
+
+E nesse ano eu mudei de indústria, trabalho numa empresa que constrói data center para grandes clientes.
+
+E o meu interesse pelo curso, não porque eu sempre me interessei pelo mercado de energia, eu tenho uma curiosidade natural.
+
+Acho que é um campo que tem muita oportunidade, é pouco explorado, pelo menos é a minha visão de quem está de fora.
+
+E hoje ela é uma das principais matérias-primas para a indústria que eu estou, né.
+
+A gente constrói data center, principal insumo que a gente tem é telecomunicações e energia.
+
+Então acho que tem tudo a ver com o que eu faço hoje, com a minha área aqui de trabalho.
+
+Perfeito.
+
+Maravilha, Rafael, legal, hein.
+
+Seja muito bem-vindo, cara.
+
+Obrigado.
+
+Vai ver que energia, cara, é um negócio assim que é, ao mesmo tempo, absurdamente interdisciplinar, né, e extremamente universal o negócio, cara.
+
+Parece ser exagero, mas eu imagino que você já tenha percebido isso, né.
+
+Então, muito legal aí a sua participação também, Rafael.
+
+Obrigado, hein, cara.
+
+Agradeço.
+
+Felipe, só que é o Felipe Kiyoshi.
+
+Tudo bem, Felipe, você pode fazer uma apresentaçãozinha breve sua?
+
+Boa noite, pessoal.
+
+Eu sou engenheiro mecânico, me formei na FEI em 2019.
+
+Hoje eu atualmente estou trabalhando na construção civil, mas eu tenho interesse na área de energia, uma migração para essa área de negócio de energia.
+
+Porque quando era estagiário, eu fui estagiário na Volkswagen e tive pouco contato com essa área.
+
+Trabalhava na área de utilidades e eu estou buscando mais conhecimento, né, para poder fazer essa migração.
+
+Aí eu inscrevi no curso para dar esse up.
+
+Excelente, Felipe.
+
+Maravilha.
+
+Obrigado, hein, cara, pela participação.
+
+Beleza.
+
+Bem-vindo.
+
+Obrigado.
+
+Agora...
+
+Maravilha.
+
+Agora o Yuri.
+
+Boa noite, pessoal.
+
+Boa noite.
+
+Eu sou eletricista também, sou formado aqui na Federal do Ceará.
+
+Eu tenho uma empresa na área de geração distribuída, né, a gente atua como modelo de locação de cozinhas solares.
+
+E o interesse é porque a gente está pensando em montar um produto agora para o mercado livre.
+
+Começar a entrar um pouquinho aí nas particularidades.
+
+Legal.
+
+Qual que é o nome da tua empresa?
+
+Sunning Energias Renováveis.
+
+Rapaz, acho que eu já ouvi falar de vocês, hein.
+
+Vocês estão aonde mesmo?
+
+A gente está no Ceará, mas a gente já está operando em Minas, Maranhão e a gente entrou agora no Pará também.
+
+Legal.
+
+Gente, olha que a gente tem aí o...
+
+Você já ouviu falar da Prime?
+
+A Prime eu não tinha escutado ainda.
+
+Prime Energy não?
+
+Legal.
+
+O site não sei.
+
+Primeenergy.com.br.
+
+Depois dá uma visitadinha lá.
+
+Legal.
+
+Bom saber que você está dentro do contexto do IGD e nos projetos com locação.
+
+Legal.
+
+A gente tem uma filial aí no Ceará.
+
+É... baita... baita local.
+
+Muito potencial mesmo, cara.
+
+Depois a gente vai...
+
+Vamos conversar depois mais sobre o IGD, viu?
+
+Legal.
+
+Você já ouviu, viu?
+
+Próximo da lista aqui acho que é o Felipe Cabral.
+
+Tá na escuta, Felipe?
+
+Boa noite a todos.
+
+Eu ainda estou cursando Engenharia de Produção.
+
+Estou estagiando numa locadora de automóveis na área de Ciência de Dados.
+
+E eu tive interesse pelo curso, mas por interesse pessoal mesmo.
+
+Quando eu vi lá a opção de fazer o curso sobre o tema, me gerou a curiosidade que eu quis saber um pouco mais sobre ele.
+
+Também agregar um pouco à carreira ainda.
+
+Legal.
+
+Foi de bola, Felipe.
+
+Seja muito bem-vindo, hein?
+
+Obrigadão.
+
+Próximo aqui pra mim é o Francisco.
+
+Boa noite, pessoal.
+
+Tudo bem?
+
+Boa noite.
+
+Então, eu estou cursando Engenharia Elétrica na FEI.
+
+Estou no sétimo semestre ainda.
+
+Ainda não estou no setor...
+
+Ainda não estou trabalhando, ainda não estou no mercado de trabalho.
+
+Mas atualmente eu faço parte da equipe...
+
+Um projeto, né?
+
+De robô-FEI, da própria faculdade.
+
+Estou na equipe elétrica e...
+
+A questão do curso é que eu tive interesse mesmo.
+
+Eu tenho interesse pela essa parte de energia.
+
+E é isso.
+
+Show de bola.
+
+Maravilha, Francisco.
+
+Seja muito bem-vindo.
+
+Está no sétimo semestre da Engenharia Elétrica, é isso?
+
+Isso.
+
+Show de bola.
+
+Sétimo semestre...
+
+É o ó, hein, cara?
+
+Nossa...
+
+A grade mudou, né?
+
+A grade mudou.
+
+Faz aí, o quê?
+
+Uns dois, três anos a grade da FEI mudou.
+
+Eu sei que o meu sétimo semestre, cara, da elétrica, era o seguinte...
+
+Eletromagnetismo...
+
+Eletrônica 2, Digital 2...
+
+Cara, tinha uns negócios azedos, cara.
+
+Era o olho do furacão.
+
+Era o divisor de águas.
+
+Se você ficava, você ia.
+
+Boa sorte, cara.
+
+Valeu.
+
+Deixa eu ver o que mais está aqui.
+
+Apareceu o Antônio pra mim.
+
+Antônio, você me ouve?
+
+Antônio Interno.
+
+Não sei se aparece só pra mim o Antônio.
+
+Enfim...
+
+Bom, vamos seguir aqui, porque o Antônio...
+
+Pelo menos não aparece aqui o ponto dele pra falar.
+
+Deixa eu continuar.
+
+Agora, gente, eu tenho um desafio.
+
+Porque tem um nome que eu tenho certeza que é um nome asiático.
+
+Boa noite, professor.
+
+Pode me chamar de Carolina.
+
+Oi, Carolina.
+
+Tudo bem?
+
+Desculpa a brincadeira, viu?
+
+Imagina, boa noite.
+
+Eu me formei agora, na metade do ano, engenharia de produção pela FEI.
+
+E eu estou trabalhando agora na SunGrow, que é uma empresa de negócio lá.
+
+Show de bola.
+
+Que legal.
+
+Você já foi na InterSolar essa semana?
+
+Eu fui hoje.
+
+Foi hoje?
+
+Tá legal a feira?
+
+É, tá legal.
+
+Eu achei um pouquinho pequena, né?
+
+É.
+
+Se eu fui na InterSolar foi em 2019.
+
+É óbvio, né?
+
+2020, né?
+
+Foi em 2019 e ela sempre foi grande, assim, né?
+
+Mas legal.
+
+Seu objetivo pra fazer o curso é qual?
+
+Por mais que você já esteja no setor, o que você almeja com o curso?
+
+Ah, então, eu entrei recentemente na empresa e eu tô ajudando na parte de projeto.
+
+E como a gente tá em home office, o povo fala bastante, né?
+
+DGD, CG, Mercado Livre, e eu tô um pouquinho perdida na conversa.
+
+Muito bom.
+
+Eu já vou apresentar pra vocês o cronograma de aula e perceber que a ideia é ser muito interativo, sabe assim?
+
+Mas não vou queimar a etapa, não.
+
+Seja muito bem-vinda, viu, Carolina?
+
+Obrigada.
+
+Bom, pra mim aqui só falta o Walter.
+
+Não sei se tem mais alguém.
+
+Walter tá na escuta.
+
+Opa, boa noite, pessoal.
+
+Tudo bom?
+
+Tá bem o áudio aí?
+
+Eu tô no trabalho aqui, desculpa aí o ruído aqui, tá?
+
+Tá ótimo, Walter.
+
+Manda bala.
+
+Eu já trabalho na área, não na área de energia diretamente.
+
+Eu tenho formação em elétrica.
+
+Eu tenho especialização na área de projetos, com formação no USP.
+
+Tô fechando minha graduação agora em sistemas, engenharia de climatização e também na SACO, a graduação de podre em liderança.
+
+Tenho um tempinho já com elétrica.
+
+Trabalho uns 10, quase 12 anos.
+
+E tô fazendo o curso mais pra aprimorar mesmo.
+
+Já fiz algumas atuações no mercado livre de transferência, de migração.
+
+Conheço um pouquinho disso.
+
+É mais pra aprimorar mesmo essa questão aí do mercado livre.
+
+Que legal, Walter.
+
+Seja bem-vindo, hein?
+
+Legal.
+
+Rapaz, acabou de aparecer pra mim aqui o Marcel.
+
+Marcel, você ouve a gente?
+
+Lógico, tudo bom?
+
+Ô, Marcel, tudo bem e você?
+
+Tudo bem, graças a Deus.
+
+Consegui entrar agora no link aqui.
+
+Pois é, rapaz.
+
+Desculpa, eu não sei se você viu a confusão no início.
+
+A gente teve um probleminha técnico ali, tive que disponibilizar um novo link, viu?
+
+Que bom que você conseguiu.
+
+Mas fica tranquilo que a gente ainda tá nas apresentações iniciais.
+
+Se você puder falar aí 30 segundinhos sobre você, se apresentar.
+
+Legal.
+
+Bom, eu trabalho mais no mercado de telecomunicações, ITI.
+
+Sou diretor comercial de uma startup aqui de São Paulo.
+
+Temos uma filial lá em Orlando.
+
+Trabalhamos mais com projetos de redução de custo, renegociação de contratos, governança de ITI, telecom.
+
+E também implementações de licenças relacionadas à gestão de telecom, custom experience, migração para serviços em nuvem, PABX na nuvem.
+
+E também no começo da minha carreira, trabalhei mais na parte de implementação de rádio PDH, SDH.
+
+Depois fui para a área mais comercial e fiquei por lá.
+
+Estou até hoje.
+
+Me interessa muito essa parte de redução de custo e energia, legislação.
+
+Saber como é que funciona esse mercado, logicamente para incorporar nosso portfólio na empresa.
+
+Legal, Marcel.
+
+Show de bola.
+
+Obrigado pela participação.
+
+Seja muito bem-vindo.
+
+Ok. Muito obrigado.
+
+Maravilha.
+
+Então, senhores e senhoras.
+
+Senhores e senhoras ou senhorita.
+
+Eu creio que todos já falaram.
+
+Apareceu para mim aqui o Diogo, mas o Diogo já falou, né?
+
+Se você não falou, Diogo, você, por favor, me corrija.
+
+Mas a princípio eu creio que todos já se apresentaram.
+
+Se não, vamos seguir.
+
+Pode seguir, pessoal?
+
+Todo mundo já falou?
+
+Certo.
+
+Se ninguém falar, vou mandar bala aqui.
+
+Então, tá bom.
+
+Então, pessoal, obrigado por se apresentarem.
+
+Vamos seguindo aqui, então.
+
+Vou ajustar a minha tela.
+
+Algumas considerações iniciais, né?
+
+Pessoal, foi muito legal aqui vocês falando.
+
+E eu quero deixar muito claro que esse curso...
+
+Antes de eu dar umas informações gerais para vocês, é que é assim.
+
+Esse curso, pessoal, é um curso hands-on.
+
+É um curso prático.
+
+Nosso objetivo com esse curso não é a gente...
+
+Simplesmente se apropriar de conteúdo.
+
+O objetivo do curso é a gente trazer para cá uma visão prática do setor de energia.
+
+Porque o conteúdo, vocês vão perceber, ele não só está disponível, mas ele é um conteúdo extremamente dinâmico, no sentido de que toda hora ele muda.
+
+O setor elétrico, de modo geral, ele depende de regulação, ele depende de uma série de coisas que mudam.
+
+Não é igual você estudar a mecânica dos fluidos, sabe?
+
+Não é igual você estudar eletromagnetismo, que são leis, né?
+
+Você está estudando leis físicas, você está estudando coisas que basicamente não vão mudar.
+
+Então o setor elétrico ele é muito dinâmico.
+
+E o que a gente está falando aqui hoje, pode ser que existe uma grande chance de, daqui a um ano, caducar.
+
+Não tudo, é óbvio, né?
+
+Mas existe uma chance de muita gente falar que, sei lá, 5% se perder porque mudou alguma coisa, ou avançou algum projeto de lei, alguma coisa assim, sabe?
+
+Então a primeira coisa que eu digo para vocês é isso, tá?
+
+É um curso dinâmico, tá?
+
+É um curso que, assim, principalmente, porque o que eu percebi aqui de comum que tem aqui na turma, é que todos, todos, com exceção aí talvez do pessoal que já está no setor de energia, né?
+
+Mas todos almejam conhecer o setor de energia, né?
+
+Quem aí já está no setor de energia, é claro, já está alguns passos adiante, né?
+
+E vai sentir menos dificuldade com alguns termos, com algumas coisas, algumas contextualizações que a gente vai fazer.
+
+Mas, de modo geral, quando a gente está entrante, né?
+
+Num setor, num dado assunto, via de regra a gente acaba tendo, às vezes, receio de perguntar as coisas, de interagir.
+
+E, gente, essa não é a regra da aula, tá?
+
+A gente tem aí quatro dias, né?
+
+Para se conhecer, para explorar um conteúdo que é extremamente grande, sabe?
+
+Um conteúdo que, ao mesmo tempo, vai aparecer vários termos, assim, que a gente, às vezes, pode aparecer alguns termos que são complexos, algumas coisas que a gente não está acostumado, né?
+
+E o setor de energia, ele é baseado no dia a dia, tá?
+
+Ele é um setor que exige muito treino, né?
+
+Para você, de fato, conseguir se situar, sabe?
+
+É mais ou menos quando você estuda...
+
+Aqui tem alguns que se formaram em Engenharia Elétrica, né?
+
+É mais ou menos quando você estuda sistemas digitais, sabe?
+
+Para fazer uma comparação, assim, até injusto, porque tem gente aqui que não é da Engenharia Elétrica.
+
+Mas quando você estuda a primeira vez na sua vida a eletrônica digital, você precisa se acostumar com uma nova linguagem, a linguagem do zero e um, né?
+
+A linguagem binária.
+
+Até o momento que você se acostumar com aquilo e pegar aquilo lá, você vai ter dificuldade e tal, e vai ter que voltar, treinar, voltar, até aquilo passar a ser parte de você.
+
+É a mesma coisa com o setor de energia, com o setor elétrico, tá?
+
+Então, isso aqui é uma introdução da introdução, mas o que eu quero deixar claro, isso é para vocês, gente, tá?
+
+Entendam que esse curso é um curso interativo.
+
+Não tenham medo, receio ou vergonha de abrir o microfone, interromper, sabe?
+
+É uma sala de aula.
+
+Para, interrompe, levanta a mão, pergunta, sabe?
+
+É para ser um curso interativo.
+
+Abre a câmera, olha, abre aqui o microfone, fala, manda mensagem no bate-papo, enfim.
+
+É para participar de fato, tá bom, pessoal?
+
+Manda bala.
+
+Bom, pessoal, um pouquinho sobre o curso, então.
+
+Em primeiro lugar, gente, isso aqui é um curso de fundamentos do setor elétrico.
+
+Fundamentos, tá?
+
+Portanto, é uma introdução para os interessados no setor, ou para aqueles que são entrantes, tá?
+
+Óbvio que a gente vai trazer aqui uma perspectiva específica do curso.
+
+Então, a gente não vai tratar de tudo, absolutamente tudo, do setor elétrico, do setor de energia.
+
+Mas, sim, o essencial para vocês aqui, a maioria, que é entrar no setor elétrico, que acabou de entrar no setor elétrico, e precisa dos principais conceitos, tá?
+
+Portanto, é um curso de conceituação.
+
+Adianta a gente, vai chegar um momento que a gente vai muito além, ou que não vai dar para a gente ir muito além do que a gente está apresentando.
+
+Mas vocês vão receber todas as referências, todos os recursos, tá?
+
+E se faltar alguma coisa, vocês me falem.
+
+Quantas?
+
+Você falou toda hora sobre tal assunto, não sei o que e tal, mas você não falou disso de fato.
+
+Onde é que eu consigo saber mais sobre isso?
+
+Me falem, que a gente vai te dar...
+
+O nosso objetivo aqui é dar para vocês os conceitos e o caminho das pedras, tá?
+
+Para vocês depois terem condições e se desenvolverem sozinhos no ambiente de trabalho de vocês, seja onde for, tá?
+
+Portanto, como eu já falei, é um curso muito dinâmico, e o foco nosso vai ser a prática, vocês vão perceber, principalmente lá na aula 2 e 3.
+
+Aula 3, então, hands-on total.
+
+Opa!
+
+É um curso com visão holística do setor.
+
+A gente vai trazer para vocês aqui uma visão global do setor de energia.
+
+A gente vai depois entrar nos detalhes, a gente vai explorar várias coisas, né?
+
+De uma forma um pouquinho mais focada.
+
+Mas, de modo geral, é um curso abrangente, é um curso generalista.
+
+Não é um curso, para você sair daqui, especialista nas coisas.
+
+Mas, antes, um curso generalista.
+
+Vocês vão perceber isso, especialmente quando a gente começar a tratar os elementos do mercado livre de energia, tá?
+
+Já vale a pena eu citar algumas coisas.
+
+Daqui para frente, pode ser que eu fale algumas coisas que vocês não saibam do que se trata, tá?
+
+Mas, por exemplo, esse aqui não é um curso de trading, tá?
+
+Não é um curso de comercialização de energia, né?
+
+Vocês vão ver que o mercado livre de energia lida com uma atividade de compra e venda de energia de forma livre, né?
+
+Da mesma forma que você compra soja, vende soja, você tem commodities.
+
+Dentro do universo do mercado de energia elétrica, especialmente do mercado livre de energia, você tem a atividade de comercialização que, pessoal, funciona basicamente como um balcão, um mercado de bolsa.
+
+Não é bolsa ainda, estou falando isso aqui só para exemplificar, mas você está tradando, comercializando uma commodity, essa commodity de energia elétrica.
+
+Portanto, esse aqui não é um curso de comercialização, tá?
+
+Então, se você já ouviu falar, ou você tem expectativas de sair daqui para trabalhar diretamente comercialização de energia, cuidado, porque o objetivo do curso não é esse.
+
+Por consequência, também não é um curso de gestão de portfólio, não é um curso de gestão de contratos de clientes que estejam no mercado livre, bom?
+
+Não é um curso, é o que eu já imagino, estou falando um pouquinho de grego para alguns, não tem problema, fiquem tranquilos, tá?
+
+Vocês vão entender tudo isso lá para frente.
+
+Mas o que eu já adianto.
+
+Lá na frente, se alguém me perguntar, eu vou falar, ó, lembra o que eu falei?
+
+Estamos falando de liquidação, estamos falando de curto prazo, estamos falando de operações com a CCE, o curso não é disso.
+
+Não vamos ter tempo de explorar detalhes disso.
+
+E também não é um curso de leilão de energia, tá bom?
+
+Enfim, espero que seja claro para vocês, tá, pessoal?
+
+Alguma dúvida até aqui sobre o objetivo central do curso?
+
+Tudo jóia?
+
+Seguindo.
+
+Regras do curso, pessoal, preste atenção, tá?
+
+Preste atenção no curso.
+
+Eu sei que às vezes é um desafio, especialmente porque a aula é online, é a distância, às vezes você está no trabalho aí como o Thales está, né?
+
+Ele está no trabalho, enfim, acho que é o Thales que falou que está no trabalho.
+
+Agora eu já confundi tudo.
+
+Agora é o Walter, acho que é o Walter.
+
+O Walter está no trabalho, desculpa.
+
+Ou às vezes você está em casa, tem filho, tem cachorro, tem esposa, tem marido e tal.
+
+Pessoal, reserva para prestar atenção.
+
+Esse vai ser o nosso único...
+
+A gente vai ter só um encontro por semana, depois você vai ter tempo tranquilo para acessar todos os recursos que a gente vai passar, mas preste atenção, tá?
+
+Reserva esse momento.
+
+São quatro horas direto, né?
+
+A gente começou seis e meia...
+
+Na verdade, a gente começou era seis e cinquenta, seis e quarenta e cinco.
+
+Já são sete e vinte e sete, mas fiquem tranquilos.
+
+A gente vai combinar...
+
+Toda aula, quando for oito e meia, mais ou menos, oito e pouco, a gente faz um intervalo de uns dez minutinhos ali, dez, quinze minutinhos.
+
+Você vai lá tomar água, vai no banheiro, come alguma coisa.
+
+Mas, gente, preste atenção, porque...
+
+Se perder o fio da meada, pode dar uma complicada, tá?
+
+Segundo, pergunte.
+
+Gente, pergunta, pergunta, pergunta.
+
+Não deixa a aula acabar sem perguntar.
+
+Pergunta mesmo.
+
+Ah, mas estou com uma dúvida que é besta.
+
+Estou com uma dúvida que não faz sentido.
+
+Não existe dúvida besta, gente.
+
+Besta é você se você não perguntar.
+
+É uma brincadeira, né?
+
+Mas pergunta, tá bom, pessoal?
+
+E setor de energia, gente?
+
+Não é porque eu trabalho na área.
+
+Mas setor de energia, às vezes, é um pouco complicado você achar a resposta para as coisas.
+
+Principalmente quando o assunto é regulação.
+
+A gente vai falar muito de regulação, tá?
+
+Então, às vezes, o setor de energia, você tem uma dúvida.
+
+Não é igual você pegar o livro aqui de circuitos elétricos, que está do meu lado aqui.
+
+Abrir lá, ah, eu já sei o que é transformar de Laplace.
+
+Ou você pega aqui o livro de mecânicas dos fluidos.
+
+Ah, eu sei o que é a equação de Bernoulli.
+
+Não é assim, setor de energia.
+
+Às vezes, você tem uma dúvida que, para você achar a resposta, meu amigo, você vai ter que cavar, tá?
+
+Por mais que ele esteja disponível, você vai ter que cavar.
+
+Então, pergunta.
+
+Mas esse cara é chato.
+
+Esse cara já falou isso.
+
+Esse cara já falou...
+
+Mas eu estou falando porque é importante, tá, gente?
+
+Pergunte.
+
+E terceiro, estude, tá?
+
+Parece redundante, né?
+
+Pô, mas eu estou aqui fazendo o curso.
+
+Mas, gente, estuda.
+
+Sabe?
+
+Estuda mesmo.
+
+Pega o material que a gente mandou, destrincha ele.
+
+Vocês vão ver que eu vou passar várias referências para vocês ao longo do curso.
+
+Só nesse material eu já tenho algumas referências.
+
+Então, vai atrás, estuda.
+
+Tem muito do que a gente vai falar aqui, você vai acessar depois e vai clarear.
+
+Aliás, a propósito, o ideal é que você consulte o material antes da aula, tá?
+
+A gente tem essa cultura de ter a aula, receber a informação e depois processar.
+
+Não faz isso não.
+
+Se você puder, tiver um pouquinho de tempo, pega o material, dá uma lida antes da aula, no domingo, na segunda-feira mesmo.
+
+Dá uma lida ali e vem para a aula pelo menos brifado.
+
+Nem que você não entenda o que está ali, mas vem, estude.
+
+Beleza, pessoal?
+
+Joia?
+
+Seguindo.
+
+Está aí o nosso conteúdo programático, tá?
+
+Tudo isso aqui, pessoal, além de estar aqui nessa tela, eu vou trocar aqui e vou mostrar para vocês o plano de aula.
+
+Apareceu para vocês o plano de aula, né?
+
+Na tela aí.
+
+Se alguém puder dar um feedback, porque eu não sei se trocou a tela aí.
+
+Apareceu sim.
+
+Apareceu sim.
+
+Joia.
+
+Então, esse plano de aula é o resumo dos próximos dois slides.
+
+Então, aqui, gente, vocês têm o resumo.
+
+O objetivo do curso, o conteúdo programático, o que a gente vai ver em cada aula.
+
+Então, hoje, por exemplo, nós vamos ter a introdução do curso.
+
+Isso aqui, agora, é a introdução do curso.
+
+Mas, ainda hoje, a gente vai estudar o Sistema Elétrico Brasileiro, o que ele é composto, como ele funciona, o porquê que ele foi concebido.
+
+E a gente vai estudar, vai ter a introdução aos mercados de eletricidade, o ACR e o ACL.
+
+Pô, já sabemos o que vai ter na aula 2, 3 e 4.
+
+Já está tudo aqui.
+
+E aqui tem a bibliografia básica.
+
+Então, voltando aqui para o...
+
+Então, você tem isso aí lá no Moodle.
+
+Tá bom, pessoal?
+
+A ideia é que eu, depois, coloque outros recursos para vocês.
+
+Mas isso aí já está no Moodle disponível.
+
+Voltando para a apresentação.
+
+Então, o conteúdo programático.
+
+Aula 1 é isso daí hoje.
+
+SEB e mercados.
+
+Depois, na aula 2, a gente vai focar em fundamentação sobre tarifa de energia elétrica e precificação de energia.
+
+E tudo que contempla o processo de migração ao mercado livre.
+
+Vocês vão perceber, e aí vale o comentário para o...
+
+Agora eu esqueci quem é que trabalha na Sunning, né?
+
+Agora eu esqueci quem que é.
+
+Rafael, Yuri, já esqueci já.
+
+Desculpa, gente.
+
+É o Yuri.
+
+É o Yuri, né, Yuri?
+
+Você vai perceber, Yuri, que o curso vai estar muito focado na ótica do consumidor de energia.
+
+Mas, basicamente, a ótica do consumidor de energia, se a gente reverte ela até que intuitivamente, ela se aplica à realidade do investidor, do gerador.
+
+Isso vale também para a Carolina, que está ali na SunGrow.
+
+Talvez vocês dois sejam um pouco mais interessados na visão do investidor, na visão do gerador.
+
+Então, eu diria que, muito do que a gente vai falar, facilmente você consegue replicar para a realidade inversa.
+
+Só que o curso foi muito pensado na realidade do consumidor.
+
+Então, vocês vão ver que essa base que a gente vai precisar desenvolver na próxima aula, entender de fato o que é uma tarifa de energia, o que a compõe, entender o que significa preço de energia, é o fundamento para você trabalhar no mercado de eletricidade, no mercado de energia elétrica.
+
+A gente vai perceber que esse curso aqui, até em função dessa aula 2, ele é um curso que tem um DNA muito econômico.
+
+Vocês vão perceber isso.
+
+A gente tem uma mente muito de engenheiro.
+
+Todo mundo aqui tem essa raiz na engenharia.
+
+Então, a mente de engenheiro é muito pautada no lado técnico, só que o lado técnico da realidade física das coisas.
+
+Estão seguindo o raciocínio.
+
+Então, essa realidade física das coisas é o projeto, é o motor, é a usina, é a linha de transmissão.
+
+Vocês vão perceber que, quando a gente fala de mercado de eletricidade, essa atividade de você comprar e vender energia, ela não está pautada somente nessa realidade física, mas muito pelo contrário.
+
+Ela é pautada pela realidade econômica, pela realidade regulatória, que permite que você, de fato, comercialize a energia elétrica.
+
+Da mesma forma que você vende livro, você vende televisão, a mesma coisa.
+
+Só que existe toda uma regulação por trás disso, toda uma dinâmica, todo um desenho para que esse mercado aconteça.
+
+Então, é bom vocês guardarem esse ponto aí do curso.
+
+E aí vem a aula 3.
+
+Gente, essa aula 3 aqui, a gente vai largar um pouco esse PPP e a gente vai gastar fácil metade dessa aula trabalhando em Excel.
+
+Porque aí, depois da aula 2, a gente vai entender o mínimo para poder falar de mercado livre.
+
+O que é o mínimo?
+
+Tarifa, preço e o processo de migração.
+
+O que significa, o que é necessário para se migrar ao mercado livre.
+
+Com essa base da aula 2 pronta, e, claro, também levando em consideração os conceitos da aula de hoje, na aula 3, a gente vai aprender a analisar a viabilidade técnica econômica para a migração de um mercado livre de energia elétrica.
+
+Vamos fazer alguns exercícios simulando vários cenários.
+
+Consumidor, tipos de consumidores.
+
+A gente vai construir praticamente juntos aqui uma ferramenta de se analisar a viabilidade técnica econômica de um cliente que possa comprar energia livremente no mercado.
+
+E aí, eventualmente, se tivermos tempo, Yuri e Carolina, me lembrem, porque se nós tivermos tempo, a gente pode fazer um lampejo de como seria essa conta da ótica do gerador, da ótica do investidor.
+
+Aí a gente faz esse exercício.
+
+Se houver tempo, é claro.
+
+Eu estou sendo otimista presumindo que essa aula 2 vai ter tempo suficiente.
+
+Não se surpreendam, e eu peço a compreensão de vocês, se ficar faltando algum elemento de alguma aula que vai precisar ser explorado na aula seguinte.
+
+Então existe essa possibilidade, é claro, mas o conteúdo todo, garanto a vocês, vai ser coberto do início ao fim.
+
+E por fim, na nossa última aula, a gente vai explorar um pouquinho.
+
+Aí a primeira hora ou a primeira metade da aula, a gente vai explorar um pouquinho sobre gestão de contratos de energia no mercado livre.
+
+E um ponto aí, gente, que é o seguinte.
+
+Riscos no mercado livre de energia.
+
+A gente vai explorar aí vários elementos de risco.
+
+Isso aí, gente, é um tópico que vocês vão ver, com exceção desse curso, só em cursos muito avançados.
+
+Mas eu fiz questão de trabalhar esse conteúdo de alguma forma para trazer para essa turma aqui.
+
+Porque essa questão de gestão de riscos é muito importante, e vale a pena a gente fazer um on-pass, nem que seja, sabe?
+
+Gastar uns 25, 30 minutinhos falando disso, porque vai ser um diferencial para vocês.
+
+E aí, se você olhar no plano de aula, a gente até fala um pouco mais do que é esse Q&A aqui, né?
+
+Esse Q&A aqui que está...
+
+Meu mouse aparece para vocês quando eu mexo assim.
+
+Imagino que apareça.
+
+Então, esse Q&A aqui é para ser, de fato, um Q&A. O objetivo é trazer para vocês elementos atuais do mercado de energia, sabe?
+
+Modernização do setor elétrico, o que está passando nessa discussão, os projetos de lei que estão tramitando no Congresso, o que pode acontecer no futuro do setor de energia ao longo dos próximos cinco, dez anos.
+
+É para ser um momento, essa segunda metade da aula quatro, para a gente interagir, para vocês perguntarem, tirarem dúvidas.
+
+E não só dúvidas técnicas da aula, do conteúdo, mas dúvidas pessoais, sabe?
+
+Eu queria saber mais sobre como é esse mercado de energia, o mercado de trabalho, não o mercado de energia e de eletricidade, o mercado propriamente dito, econômico.
+
+Mas, às vezes, vocês podem trazer perguntas assim, como é trabalhar no setor elétrico?
+
+Como é isso?
+
+Como são as empresas?
+
+Como é trabalhar em uma empresa assim, assado?
+
+Eu posso trazer para vocês a experiência de trabalhar em uma empresa de projeto, uma empresa de inovação, uma empresa de eficiência e uma comercializadora de energia.
+
+Eu não vou saber falar para você como é trabalhar em uma distribuidora, gerador, eu vou saber também.
+
+Só não vou saber distribuidor e transmissor, mas conheço pessoas que trabalham nessas empresas.
+
+Então, o objetivo da aula quatro, na sua segunda metade principalmente, é a gente fazer isso, fazer um fechamento do curso, mas de forma muito interativa, discutir mesmo.
+
+E até ir além, até dar uma viajada.
+
+Pô, a gente está falando de carro elétrico, a gente está falando de geração distribuída, estamos falando...
+
+E racionamento?
+
+Como é que chega nesse negócio?
+
+Então, gente, a aula quatro, principalmente a sua segunda metade, considerem assim como uma mesa de bar, está entendendo?
+
+Uma mesa de bar que só tem pessoas interessadas, qualificadas, pessoas que querem ter um papo de altíssimo nível sobre o setor de energia e com muito conteúdo.
+
+Então, já saibam que lá na aula quatro a gente vai ter um momento assim para discutir que está na crista da onda do setor de energia do Brasil.
+
+Beleza, pessoal?
+
+Avançando ainda aqui, deixa eu acelerar a agenda.
+
+Bibliografia, tá?
+
+Aqui tem dois livros.
+
+É complicado de falar de livro do setor de energia porque é o que eu falei, né?
+
+Esse negócio aí do dia para a noite pode ficar obsoleto, principalmente esse primeiro aqui, tá?
+
+Mas, por outro lado, esse primeiro livro, se fosse para você perguntar, Jhonatas, qual livro eu compro?
+
+Comprei esse aqui, do Tom Askin, o Novo Modelo do Setor Elétrico Brasileiro.
+
+É o livro que melhor explica e melhor resume realmente como que é o modelo do setor elétrico brasileiro, como que o setor elétrico no Brasil funciona.
+
+Então, eu recomendo que vocês comprem esse livro.
+
+A segunda edição é de 2015, então ela já tem algumas coisinhas desatualizadas porque a regulação vai mudando, mas é um livro muito bom.
+
+Tem um certo viés político no livro, né?
+
+Porque o Maurício Tom Askin, ele foi...
+
+Agora eu me esqueci do que ele foi.
+
+Ele chegou a ser ministro de Minas e Energia da Dilma.
+
+Aqui eu não estou fazendo apologia a nada político, viu, gente?
+
+Só estou fazendo um comentário.
+
+Eu acho que ele foi ministro de Minas e Energia, ou foi secretário do ministério.
+
+Então, é natural, né, que dentro de um contexto desse, às vezes o autor faça alguns comentários que nas entrelinhas eles têm algum viés político, tá?
+
+Mas isso não fere a qualidade do trabalho.
+
+É um livro muito bom.
+
+Repito, não estou fazendo apologia e nem reclamando de nenhum partido político.
+
+Mas é um livro muito bom.
+
+Recomendo a compra, não é caro.
+
+Aliás, visitem depois essa editora.
+
+Não sou pago para falar, não, mas é uma editora bem legal para quem tem interesse em literatura do setor de energia.
+
+Esse outro livro aqui é para você que está interessado em se aprofundar em mercado de eletricidade mesmo.
+
+Vocês vão ver que isso aqui é um universo.
+
+Ele não é um livro tão grande assim.
+
+Está atrás de mim aqui, depois eu pego e mostro.
+
+Mas é um livro um pouquinho mais teórico do que esse nos conceitos de mercado de energia, mercado de eletricidade.
+
+Vocês vão ver que é diferente falar energia e eletricidade.
+
+Vocês vão perceber isso e eu vou explicar porquê.
+
+Mas é um livro muito bom e eu recomendo.
+
+Esse aqui vai ficar datado mais devagar do que esse daqui, tá?
+
+Agora, o que eu garanto para vocês é que as principais referências do seu dia a dia não vão ser esses livros.
+
+Elas vão estar aqui, nesses quatro sites.
+
+Meu amigo, se você virar um desbravador desses sites, você está feito.
+
+Site da ANEL, site da CCE, site do ONS e site da EPE.
+
+Absolutamente tudo, tudo que você precisa saber para desbravar o setor elétrico vai estar nesses quatro sites.
+
+Põe a mão no fogo porque eu estou falando, porque é isso mesmo que é.
+
+ANEL, você vai ter toda a regulação no site da ANEL.
+
+CCE, você vai ter tudo, tudo sobre atividade de comercialização e de migração.
+
+Tudo que você precisa saber de mercado livre está na CCE.
+
+Ah, quer saber as coisas sobre leilão de energia?
+
+Também está no site da CCE.
+
+Está tudo lá.
+
+Sites do ONS, eu diria que dos quatro é o que você vai menos visitar se você se enveredar pelo caminho do mercado de energia elétrica.
+
+Atividade mais comercial do mercado de energia.
+
+Mas ONS tem coisa para caramba também.
+
+E a EPE, você que quer investir em geração, Carolina, Yuri, você que está preocupado, quer olhar mais do ponto de vista do planejamento do setor de energia, meu amigo, a EPE vai ter coisa para caramba.
+
+Então, se você não quiser comprar os livros, uma pena, porque eu sou um leitor assíduo, viciado, amo minha biblioteca, mas se você não quer, não tem problema.
+
+Vira um fera, um craque, um viciado nesses sites aí que estão na tela, tá bom, gente?
+
+E vai ficar mais claro ainda ao longo do caminho o porquê.
+
+Tá bom?
+
+Por fim, comecem os jogos, certo?
+
+Bora lá para o conteúdo agora.
+
+São 15 para as 8, show de bola.
+
+Vamos arrepiar agora.
+
+Vem até aqui, pessoal, alguma dúvida?
+
+Podem mandar, se quiserem, texto no bate-papo também, porque vira e mexe eu dou uma olhadinha aqui, viu?
+
+Para, se não quiser esperar que eu olhe, só abrir o microfone e falar, tá?
+
+Vamos seguir então.
+
+Pessoal, setor elétrico brasileiro, tá?
+
+Brevemente sobre o setor elétrico.
+
+Pessoal, o setor elétrico brasileiro, vamos admitir que o setor elétrico do Brasil tem 80 anos de vida, tá?
+
+Isso não é verdade, óbvio, mas para efeitos práticos, a década de 30 marcou o setor elétrico em razão do chamado Código de Águas.
+
+Foi ali, em 1930, que o governo ou as instituições públicas começaram a dar um tratamento adequado à importância do setor elétrico do ponto de vista de suprir a população com energia elétrica, de universalizar o acesso à energia elétrica da população brasileira.
+
+Eu não preciso, é redundante falar, que de 1930 para cá, a gente passou por inúmeras mudanças.
+
+O mundo mudou.
+
+Se a gente pensar de um ponto de vista de uso de energia, essas reflexões são importantes, meu amigo, a casa de 1930 é totalmente diferente da casa de 2021.
+
+Em 1930, eu nem sei dizer o que tinha dentro de uma casa do ponto de vista de consumo de energia.
+
+O que eu posso afirmar é que lá pela década de 70, a pessoa tinha o quê dentro da casa dela?
+
+Tinha uma geladeira, tinha algumas lampadinhas incandescentes, tinha ali televisão, aquela televisão a tubo ainda, mais antiga.
+
+Agora, quando você entra numa casa hoje no século XXI, em 2021, inclusive, eu não preciso dizer a diferença que é.
+
+Está todo mundo usando tecnologia LED, você tem um trilhão de máquinas elétricas consumindo para diferentes finalidades, só que em casa a gente tem panela elétrica para fazer arroz, lixou, aquecedor, tem máquina de lavar louça, máquina de lavar roupa, enfim, mudou tudo.
+
+Então, é natural que, ou melhor, é uma consequência que tenha havido uma mudança.
+
+Por quê?
+
+Em primeiro lugar, a tecnologia avançou, e à medida que a tecnologia vai avançando, os hábitos do consumidor vão mudando, certo?
+
+E você tem todas as questões macroeconômicas envolvidas, crescimento da população, a mudança de vários elementos culturais da população.
+
+Então, tudo isso interfere ou implica na necessidade de se evoluir como que o setor elétrico trataria as problemáticas para universalizar, para garantir que todo mundo tenha acesso à energia elétrica.
+
+É que hoje, principalmente, acho que todo mundo aqui hoje mora em áreas urbanas e tal, está aqui na capital, se não está em São Paulo, está em São Bernardo, está em algum lugar do Brasil, enfim, mas é que hoje é inconcebível a gente pensar uma sociedade, algum local que não tenha acesso à energia elétrica.
+
+Mas se a gente parar para pensar lá atrás, isso não era universal, da mesma forma que hoje o saneamento não é universal.
+
+Então, essa universalidade é o ponto central, se a gente fosse considerar esse ciclo que eu já vou explicar, a universalização está bem aqui.
+
+Os elementos necessários para se garantir a universalização do acesso à energia elétrica.
+
+E de lá para cá, a gente passou por várias reformas.
+
+Houve uma reforma, isso aqui é só para citar, no livro lá do Tomaskin, vocês vão ter esse histórico bem detalhado, mas na década de 90, a gente teve uma reforma muito importante, que foi conduzida ali, meados dos anos 90, pelo governo FHC.
+
+De novo, nada de apologia política, só realmente comentário histórico.
+
+E houve um processo interessante em 1990, que foi uma mudança de um modelo que era essencialmente estatal, para o início de um modelo pautado na competição, um modelo mais liberalista.
+
+Só que a gente vai ver que essa mudança, essa reforma de 90, foi insuficiente.
+
+Houve uma falha de planejamento que demandou uma nova reforma no início dos anos 2000.
+
+E essa reforma é a que dura até hoje, claro que ela já teve alguns ajustes, mas essa reforma que aconteceu ali no início dos anos 2000, a gente vai ver por que ela aconteceu, ela hoje é a que está vigente.
+
+E já vale ressaltar que hoje a gente passa por um novo processo de reforma do setor elétrico.
+
+Se você entrar depois na internet e colocar lá modernização do setor elétrico, você vai ver que existem alguns projetos de lei tramitando dentro do Congresso, inclusive existe um grupo de trabalho conduzido pelo Ministério de Minas e Energia chamado GT da Modernização, porque a gente já chegou no momento que a gente precisa modernizar de novo, precisa reformar de novo o setor elétrico brasileiro.
+
+É que hoje essa modernização, essa nova reforma, ela é muito complexa.
+
+Porque ela vem carregando elementos de outras reformas, ela traz consigo muito avanço tecnológico, e isso precisa ser muito bem feito para a gente não ter traumas, especialmente traumas econômicos.
+
+Mas a gente fala isso mais para frente.
+
+E aí se a gente pensar, pessoal, em termos de setor elétrico, qual que é o objetivo do setor elétrico?
+
+Porque a gente precisa garantir que a energia chegue para todo mundo, mas eu não posso só garantir que ela chegue.
+
+O setor elétrico é pautado nesses três pilares que vocês estão vendo, economicidade, confiabilidade e sustentabilidade.
+
+Não adianta eu levar energia elétrica para a população a um custo exorbitante.
+
+Eu tenho que levar energia ao menor custo possível.
+
+Eu não posso levar energia elétrica, mas eu levar essa energia com alto risco de ter falha.
+
+Tem que ser confiável.
+
+E não adianta nada eu levar uma energia confiável, uma energia barata, porém extremamente poluente.
+
+Então precisa ser sustentável.
+
+Sustentável aí é talvez um termo equivocado, ou talvez seria ambientalmente correto, ou algo assim, verde.
+
+E a sustentabilidade é pautada na combinação tecnológica, econômica e ambiental.
+
+Então sustentabilidade poderia ser um termo até mais abrangente.
+
+Mas sustentabilidade hoje em dia é sinônimo de ser verde, de você ser ambientalmente amigável.
+
+Então, o setor elétrico, pessoal, por que é tão difícil a gente evoluir em termos de setor elétrico?
+
+Por que não dá para fazer do dia para a noite?
+
+Porque às vezes a gente ouve o pessoal falar coloca energia solar em tudo, coloca energia eólica em tudo.
+
+Porque a gente fazer uma ação desse tipo não vai garantir o atendimento desses três requisitos.
+
+Legal, a energia solar, ela é extremamente sustentável.
+
+Ela hoje caminha para uma super economicidade.
+
+Mas do ponto de vista de confiabilidade, aqui eu não falo que ela vai falhar.
+
+Mas aqui a confiabilidade faz referência à forma de ser flexível.
+
+A gente garantir que na hora que precisar de energia ela vai atender.
+
+Não adianta.
+
+Hoje você não tem absolutamente nenhuma fonte de energia que cumpra de forma plena esses três requisitos.
+
+Por isso que nós temos no Brasil e no mundo são matrizes de energia.
+
+Porque cada fonte contribui em maior ou menor grau com elementos que estão na tela.
+
+Então é importante a gente já enxergar isso no setor elétrico brasileiro e mundial.
+
+É um setor pautado em equilíbrio.
+
+Não dá para a gente trabalhar em extremos.
+
+E assim tem sido desde então.
+
+Tanto que se você não faz esse equilíbrio você tem problemas como esse.
+
+A gente teve esse ano a eminência de um novo racionamento.
+
+A eminência...
+
+A gente chegou em níveis preocupantes de ter probabilidades de apagões no Brasil esse ano.
+
+Esse risco está momentaneamente reduzido porque a gente teve as chuvas no período que era necessário.
+
+E na quantidade que era necessária.
+
+Então esse risco de racionamento foi reduzido agora, nesse mês de outubro.
+
+Mas isso aconteceu em 2001.
+
+Lembra que eu falei?
+
+Houve a reforma lá no final da década de 90.
+
+O pessoal evoluiu em várias coisas.
+
+Evoluiu no tratamento de quem ia vender energia, quem ia distribuir e tal.
+
+Mas falharam no planejamento.
+
+Como assim?
+
+Na época, lá em 2001, a matriz era predominantemente hídrica. 83% da matriz energética brasileira era hídrica.
+
+Especialmente hídricas com reservação.
+
+Por exemplo, Itaipu é uma hídrica com reservação.
+
+Ela tem um reservatório de água.
+
+E à medida que você tem o regime de chuvas, aquele reservatório enche e diminui.
+
+Era predominantemente hídrica.
+
+O que aconteceu?
+
+Houve uma escassez hídrica.
+
+Uma crise hídrica forte.
+
+Mesma coisa que a gente está passando agora.
+
+Só que o que aconteceu?
+
+A gente tinha um reservatório muito grande, mas não tinha combustível.
+
+E a matriz, se ela era 83% hídrica, significa que ela era 17% não hídrica.
+
+O que não foi suficiente na época para mitigar o risco das pessoas ficarem sem energia.
+
+Como funciona esse negócio de apagão no fim do dia?
+
+Se eu não tenho energia disponível para todos, o que eu faço?
+
+Uma energia de origem sustentável e barata, que é o caso da hídrica.
+
+O que eu faço?
+
+Eu aciono outros tipos de fontes.
+
+Eu aciono as térmicas.
+
+Então, sempre que você está próximo de um cenário de escassez hídrica, o Brasil é predominantemente hídrico em sua matriz elétrica, você começa acionando outras fontes que são mais caras para compensar aquela escassez.
+
+Então, o que acontece imediatamente?
+
+Aumento da tarifa.
+
+Aqui no Brasil, hoje, a gente tem as bandeiras tarifárias.
+
+A gente vai falar muito disso para frente.
+
+Só que chega um momento em que você não consegue mais compensar essa falta com as fontes mais caras, que são as térmicas.
+
+Ao passo que você precisa, no limite, para você não extrapolar a capacidade do sistema elétrico, você precisa imibir ou reduzir o consumo para que você tenha equilíbrio.
+
+E aí é quando acontecerão os apagões.
+
+Por exemplo, só essa manchete da Folha, você teve um apagão em nove estados.
+
+Dez, né?
+
+Dez unidades federativas tiveram um apagão.
+
+Lá em 2001.
+
+As pessoas eram obrigadas a reduzir.
+
+Se elas não reduzissem o consumo...
+
+Isso é racionamento.
+
+Não é uso racional, é racionamento.
+
+Elas eram obrigadas a reduzir.
+
+Porque se elas não reduzissem o consumo, elas seriam penalizadas, teriam multas, elas poderiam ter um corte na conta de energia.
+
+Não reduziu, vai ter corte.
+
+Isso, gente, é racionamento.
+
+A gente não viveu isso desde então.
+
+O que a gente teve agora, em setembro, foi um programa voluntário para quem quiser reduzir o consumo ia ter um incentivo.
+
+Então, isso não é racionamento.
+
+A gente não chegou nisso, mas graças a Deus.
+
+Agora, por que a gente não chegou mais nisso?
+
+Porque aí sim, a partir de 2001, o Brasil começou a investir em planejamento.
+
+E isso aconteceu muito em razão da outra reforma setorial que aconteceu em 2004.
+
+Eu comentei na década de 90.
+
+Teve uma reforma, mas ela...
+
+Não houve um bom planejamento da expansão da matriz.
+
+A gente continuou muito dependente das hídricas, certo?
+
+E aí, quando foi em 2004, houve uma nova reforma setorial.
+
+E essa reforma setorial, aí sim, essa sim, prezou por fazer um devido planejamento para que o Brasil ficasse menos dependente das hídricas ou que, pelo menos, expandisse a sua capacidade para conseguir suprir energia mesmo em períodos de escassez.
+
+E aí, desde então, gente, olha só que coisa legal.
+
+Desde então, a gente expandiu em 130% a nossa capacidade de geração de energia.
+
+O consumo, porém, aumentou em 80%.
+
+Pensem que energia elétrica, a gente está sempre trabalhando no equilíbrio.
+
+O que eu gero tem que ser igual ao que eu consumo.
+
+Isso em termos de país, Brasil.
+
+Então, a gente teve...
+
+Isso aqui já é uma boa aproximação, que como o aumento da capacidade foi maior do que o aumento do consumo, a gente tem uma boa expectativa de que o planejamento tem sido suficiente.
+
+É claro que esse crescimento não aconteceu só de fonte hídrica.
+
+Pelo contrário, a fonte hídrica foi a que menos cresceu nesse período.
+
+Quem cresceu muito nesse período?
+
+Térmicas, principalmente entre 2004, 2008, 2009.
+
+Agora, de 2008, 2009 para cá, uma explosão de eólica.
+
+E de 2015 para cá, uma explosão do solar.
+
+Então, hoje a matriz, vocês vão ver isso, muito diversificada.
+
+Tudo bem até aqui, pessoal?
+
+Alguma dúvida?
+
+Quem tiver dúvida, comentário, é só falar.
+
+Então, gente, como eu falei, o que aconteceu lá em 2004?
+
+Essa estrutura que eu estou mostrando na tela não existia ainda.
+
+Olha só, a ANEL foi fundada em 1997.
+
+Mas ela se tornou, de fato, importante para o setor em 2004.
+
+Então, vejam só, isso aqui é muito importante, pessoal.
+
+A gente precisa ter uma visão sistêmica do setor.
+
+Olhem aqui.
+
+Como que funciona isso aqui?
+
+Vale para hoje, tá?
+
+Hoje, o sentido do setor elétrico é esse, de cima para baixo.
+
+Então, olha só.
+
+O Congresso Nacional estabelece leis, a Presidência da República estabelece decretos.
+
+E quem que é, quais são os órgãos responsáveis por estabelecer a política energética?
+
+O que é política energética?
+
+A política energética é o seguinte.
+
+O Brasil, nos próximos 10 anos, vai investir predominantemente em fontes renováveis.
+
+Isso é uma política energética.
+
+Isso tudo é pautado principalmente por esses três órgãos, mas essencialmente pelo Ministério de Minas e Energia.
+
+O Ministério de Minas e Energia estabelece a política energética, subsidiado por esses outros dois órgãos.
+
+É o Conselho Nacional...
+
+Agora eu esqueci se o P é Política ou Planejamento, mas é o Conselho Nacional de Política Energética, acho que é isso.
+
+E tem o CMSE, que é o Comitê de Monitoramento do Setor Elétrico.
+
+O que o CNPE faz?
+
+Conselho Nacional de Política Energética.
+
+Ele é um grupo formado...
+
+Eu já esqueci, tem lá o Ministro da Casa Civil, o Ministro não sei de onde.
+
+É o pessoal ali que dá suporte ao Ministério para estabelecer as políticas.
+
+Em consonância com quem?
+
+Com a Presidência e com o Congresso.
+
+O CMSE, que é o Comitê de Monitoramento, ele pauta mais do cotidiano do setor, como trabalhar o cotidiano do setor com vistas a atingir essas políticas energéticas de médio e longo prazo.
+
+Por exemplo, risco de racionamento.
+
+O Comitê de Monitoramento vai olhar.
+
+Se você navegar na internet, você vai ver.
+
+Reunião extraordinária do Comitê de Monitoramento.
+
+Justamente para tratar sobre essas problemáticas mais de curto prazo.
+
+Porém, ainda do ponto de vista de política energética.
+
+Agora, quem que dá o subsídio técnico para estabelecer essas políticas?
+
+EPE, Empresa de Pesquisa Energética.
+
+A EPE está lá no Rio de Janeiro e é uma empresa de pesquisa mesmo.
+
+Brincadeiras à parte.
+
+Eu não gosto dessas piadas, porque elas são ruins.
+
+Às vezes tem alguém aqui que trabalha, conhece alguém.
+
+Mas são os nerds do setor elétrico, gente.
+
+É isso.
+
+A EPE são os caras que vão estudar absolutamente tudo o que está acontecendo de energia no Brasil e no mundo.
+
+Todos os estudos que estão vendo aqui e todo o planejamento para a expansão do setor, como que o setor deve evoluir, é desenvolvido pela empresa de pesquisa energética.
+
+Por isso que lá no site deles vocês vão ter muita coisa.
+
+Boletim Energético Nacional, Anuário Estatístico do Setor, Plano Decenal de Energia, Plano Nacional de Energia, Plano Nacional de Eficiência Energética, Plano Decenal de Eficiência Energética.
+
+Eu estou falando só de energia de forma genérica e de energia elétrica.
+
+Você vai ter também tudo que diz respeito a combustíveis, petróleo.
+
+Então, tudo dentro da EPE.
+
+Uma vez que essa política energética é estabelecida pelo MME, em conjunto com a CNPE e CMSE, subsidiados pela EPE, quem que é o próximo nível para fazer a coisa acontecer?
+
+A Aneel.
+
+Agência Nacional de Energia Elétrica.
+
+Pessoal, a Aneel é em regulamento.
+
+A Aneel cria a lei?
+
+Não.
+
+A Aneel que vai dizer o que é importante para o setor?
+
+Não.
+
+A Aneel vai regulamentar o que vier de cima.
+
+É isso.
+
+A Aneel tem níveis de autonomia para fazer algumas regulamentações específicas, mas todas elas estão sob o guarda-chuva de alguma política energética específica, alguma lei específica para um dado tema.
+
+Por exemplo, mercado de energia.
+
+Então, existe uma lei que trata da atividade de comercialização de energia.
+
+Não me lembro qual que é a lei, mas tem essa lei aí.
+
+Essa lei é pautada, ou melhor, ela é conduzida pela política energética estabelecida pelo Ministério de Minas e Energia.
+
+E a Aneel regulamenta o quê?
+
+A atividade de comercialização de energia.
+
+Porque a preocupação da Aneel é o quê?
+
+Segurança técnica e garantir as condições econômicas adequadas para que haja, em primeiro lugar, a universalização do acesso de energia e exista a palavra que eles mais amam nessa terra, modicidade tarifária.
+
+A grande preocupação da Aneel hoje é com relação à modicidade tarifária.
+
+O que significa isso?
+
+O consumidor pagar o que ele realmente deveria pagar pela energia.
+
+Então, a Aneel é hoje quem regulamenta.
+
+A Aneel regulamenta, em absoluto, todas as atividades do setor elétrico.
+
+Mas e o mercado livre de energia?
+
+O mercado livre de energia é livre para se comprar e vender energia, mas ele tem algumas regrinhas que vão ser seguidas.
+
+E essas regrinhas também são estabelecidas pela Aneel.
+
+Vejam que a Aneel também faz mediação e fiscaliza o setor elétrico.
+
+Ela fiscaliza a atividade de todos os segmentos, de todos os agentes que a gente vai ver daqui a pouco.
+
+Eu não aguento mais a distribuidora da minha região, porque ela está fazendo um monte de coisa errada.
+
+Para quem você tem que reclamar?
+
+Para a Aneel.
+
+Está certo?
+
+A Aneel é a responsável por isso tudo.
+
+Beleza, pessoal?
+
+Ainda, a ONS e a CCE estão abaixo da Aneel.
+
+O ideal seria que eles estivessem ao lado, na minha visão.
+
+Mas eles são agentes institucionais.
+
+A ONS e a CCE não regulamentam, não fiscalizam, mas são agentes que operacionalizam os dois universos do setor.
+
+Isso vocês vão ver ainda na aula de hoje.
+
+A ONS operacionaliza o universo físico, tudo que diz respeito à operação do setor.
+
+Que usina precisa gerar?
+
+Que usina não precisa?
+
+Será que determinado setor de transmissão ou área de transmissão tem condições de receber a carga de várias usinas que estão ali à montante?
+
+Estou usando alguns termos só para vocês perceberem.
+
+O problema da ONS é garantir que a energia chegue aos pontos, aos centros de consumo.
+
+O resumo bem pobre disso é isso.
+
+Ela coordena a operação e o despacho do setor elétrico, do sistema interligado.
+
+A ONS trata muito desse mundo físico.
+
+Se você gosta de circuitos elétricos, de sistemas de potência, a ONS é o seu lugar.
+
+A ONS trata da realidade física do setor elétrico.
+
+A preocupação deles é a energia que foi gerada, qual foi o intercâmbio de energia entre os supermercados do Brasil.
+
+Essa é uma preocupação física.
+
+A CCE, por outro lado, tem uma preocupação essencialmente econômica, comercial.
+
+A CCE é quem administra o mercado de energia, tanto o regulado quanto o livre.
+
+Calma, isso vai ficar claro daqui a pouco.
+
+A CCE não está preocupada se o elétron chegou, saiu do gerador e chegou na sua casa.
+
+Não é a preocupação da CCE.
+
+Os contratos foram honrados.
+
+Quem prometeu gerar, entregou.
+
+Quem prometeu gerar a X reais por megawatt-hora, entregou a X reais por megawatt-hora.
+
+Quem prometeu consumir, consumiu.
+
+Nossa, prometeu consumir, tem isso?
+
+Tem.
+
+Tem isso no mercado de energia.
+
+Então, a CCE lida com essas questões.
+
+Questões econômicas, mas econômica é um termo errado.
+
+Comerciais da energia.
+
+Repito, tanto do regulado, e hoje todos nós aqui somos consumidores do mercado regulado, porque todos nós vivemos em alguma casa, e hoje o residencial é um cliente cativo.
+
+A gente não é cliente livre, nós somos cativos.
+
+Mas ela também administra o universo da comercialização de energia no mercado livre.
+
+E aí, por fim, nós temos os segmentos, ou os agentes.
+
+Agentes é uma palavra até melhor.
+
+Os agentes do setor elétrico.
+
+Quem são os agentes do setor elétrico?
+
+São esses cinco aí, gente.
+
+Geradores, transmissores, distribuidores, comercializadores, pode ser que você não conheça esse aí, e consumidores.
+
+Consumidores todos somos.
+
+Todos somos comercializadores.
+
+Nem todos somos geradores, transmissores, distribuidores, comercializadores.
+
+Tudo bem, senhores?
+
+Alguma dúvida?
+
+Se vocês tiverem dúvida em algum slide desse, pare e pergunte.
+
+Não dá para passar para o próximo slide se você tiver dúvida.
+
+Porque é uma teia esse negócio.
+
+A gente fala isso aqui e vai usar o conceito no próximo, no próximo, no próximo, no próximo.
+
+Então não deixa perguntar.
+
+Bom, vamos expandir essa última classe, que são os segmentos, ou os agentes do setor elétrico?
+
+Olha só.
+
+Eu não sei se você sabia, mas esses caras aí, de um ponto de vista econômico, como que funciona?
+
+Eu vou começar pelo transmissor.
+
+Pessoal, seria lógica a gente escolher quem vai transmitir energia?
+
+Não, né?
+
+Senão a gente ia ter um monte de tolos de transmissão e a gente não ia conseguir andar na rua.
+
+Mesma coisa para o distribuidor.
+
+Então, consequentemente, transmissão e distribuição são monopólios regulados.
+
+O governo fala assim, olha, o governo é modo genérico de falar, mas o governo fala assim, olha, conforme a nossa política energética, a gente vai ter que garantir que a energia que está nesse lugar, acho que vocês conseguem me ver aí na TV, na tela, vai sair desse lugar, precisa chegar até aqui.
+
+Essa energia precisa sair daqui até aqui.
+
+Só que não tem linha de transmissão.
+
+Então a gente precisa garantir isso daqui.
+
+Não dá para todo mundo sair, competir e cada um construir sua linha de transmissão.
+
+Não dá, absurdo.
+
+Então o que é feito?
+
+Existe um leilão e um vencedor constrói essa linha de transmissão e tem uma concessão, porque isso é um monopólio.
+
+Um monopólio regulado.
+
+Existe uma competição para quem vai ser o concessionário, mas é um monopólio.
+
+Mesma coisa de distribuição.
+
+Já pensou se aqui no centro de São Paulo tivesse que escolher, quero que minha energia seja entregue pela Enel.
+
+Só ia ter fio na calçada, no meio da rua, porque não ia dar.
+
+Então são monopólios regulados.
+
+O que não acontece na geração?
+
+Pode ser que tenha alguém aqui que imaginava que geração também fosse monopólio, fosse algo monopólio regulado.
+
+Não é.
+
+Geração não é monopólio regulado.
+
+Geração é competição e a gente vê como.
+
+A gente vai ver como.
+
+Hoje qualquer um pode construir um gerador onde você quiser.
+
+É claro que você precisa ter as autorizações para isso, mas você pode construir e investir num sistema de geração e aí, dependendo de como você vai desenvolver esse sistema de geração, você vai cair em alguma modalidade de geração.
+
+Produtor independente, autoprodutor, por aí vai.
+
+E aí você vai poder vender essa energia livremente.
+
+Você vai vender para quem você quiser.
+
+Só que aí você pode vender no mercado regulado ou no mercado livre.
+
+Ou os dois.
+
+Isso vai ficar claro.
+
+Porque lembra, gente, energia é igual soja.
+
+A gente não vê.
+
+Mas energia é igual soja.
+
+Você pode produzir soja e vender a soja.
+
+Você está gerando soja.
+
+Você está produzindo soja.
+
+Agora, a cadeia de suprimento, o caminho da soja até quem vai consumir, já é outra discussão.
+
+E aí a gente chega na parte mais debaixo.
+
+A gente tem consumidores cativos e consumidores livres e comercializadores.
+
+Consumidores cativos são aqueles que naturalmente compram energia da distribuidora.
+
+Vocês vão entender por quê.
+
+E pagam também pelo serviço de transporte.
+
+Então o consumidor cativo paga o quê?
+
+Ele paga uma tarifa.
+
+E essa tarifa tem reajustes regulados.
+
+Por isso que todo ano a gente vai lá e já sabe no mês de junho, mais ou menos.
+
+Junho, julho, quem mora na Enel aqui em São Paulo vai ter um reajuste na tarifa, porque o reajuste é anual.
+
+Então esse é o consumidor cativo.
+
+Por outro lado, o consumidor livre continua pagando uma tarifa pelo transporte, mas ele paga um preço livre.
+
+E as condições de reajuste também são livres quando ele está no mercado livre de energia.
+
+Então pessoal, isso aqui a gente vai explorar bastante ainda, mas percebem que o setor segue uma lógica, percebem?
+
+Ele segue uma lógica em que a geração de energia é totalmente competitiva, mas uma vez que essa energia precisa ser entregue, ela precisa ser entregue por meio de uma cadeia de suprimento que é monopolizada.
+
+Uma vez que essa energia é entregue, essa energia pode ser entregue para consumidores que não podem escolher quem vai fornecer energia para ele, ou consumidores que podem escolher quem vai comercializar essa energia para ele, que é um comercializador ou gerador.
+
+Agora, todo mundo paga pela infraestrutura.
+
+Esse é um spoiler da próxima aula, mas tenha isso em mente, tá bom?
+
+Tenha em mente que quando a gente paga pelo uso da energia elétrica, a gente não está pagando só pelo elétron ali, pela energia que vai ser usada.
+
+A gente está pagando por toda uma cadeia de suprimentos e vários outros custos associados.
+
+Beleza, pessoal?
+
+Então é importante ter essa visão dos agentes do setor elétrico.
+
+Se a gente colocar uma lupa na geração ou uma lupa mais abrangente no setor de energia, o que a gente vai perceber?
+
+Eu coloquei alguns links aqui, alguns a gente vai abrir, outros não.
+
+Depois vocês cliquem, tem algumas referências boas e tal.
+
+A gente vai perceber que quando a gente falar de energia, energia não é só energia elétrica, gente.
+
+Energia, vamos voltar para o conceito físico.
+
+Energia, alguém já pensou aí, é a capacidade de realizar trabalho, é isso mesmo.
+
+É a capacidade que você tem de transformar algo.
+
+Você precisa dessa energia para transformar algo.
+
+Só que essa energia às vezes vem em outros formatos, ela vem no formato de petróleo, de seus derivados, gás natural, carvão.
+
+Então quando a gente olha para a energia para o país, é isso aqui que está acontecendo.
+
+A energia que é utilizada, e nem é watt hora, a gente está falando de joules, tonelada equivalente de petróleo.
+
+A gente está falando de uma composição muito diversa, porque esse gás natural está sendo utilizado para fins, por exemplo, de aquecimento da indústria.
+
+O gás natural é utilizado para outros fins.
+
+Só que a própria energia elétrica está sendo utilizada para fins de aquecimento também.
+
+Essa energia está vindo da eólica, da solar, da hidráulica.
+
+Então é bom a gente ter esse panorama, essa visão de que a matriz energética é uma coisa.
+
+Matriz energética diz respeito a toda oferta de energia que a gente tem.
+
+Percebam que essa matriz energética, ela cada vez mais se torna renovável.
+
+Isso se a gente olhar para um contexto geral.
+
+Tem uma base industrial e outros que utilizam lenha, utilizam carvão, utilizam derivado de cana.
+
+Também cana já é renovável.
+
+Mas utilizam gás, utilizam derivado de petróleo.
+
+Mas essa matriz vem se renovabilizando.
+
+Agora, se a gente coloca uma lupa só na matriz elétrica, a coisa já muda.
+
+A matriz elétrica hoje brasileira, principalmente em razão dessas reformas setoriais que a gente teve, em razão desse ambiente de competição do gerador, a gente proporcionou para o Brasil uma situação muito renovável.
+
+Vejam que hoje 65% é de origem hidráulica, fonte renovável. 9% é biomassa, 8% é eólica.
+
+Solar está super crescendo, ainda é pouquinho, mas está crescendo muito, é a fonte que mais cresce no país.
+
+E a gente ainda tem uma fração razoável de fontes térmicas.
+
+Mas percebam que a nossa matriz é muito diversificada, percebem?
+
+Do ponto de vista elétrico.
+
+E se a gente olhar ainda para a renovabilidade da matriz, como eu falei, vejam que a gente, pessoal, está muito, muito à frente do panorama mundial.
+
+Mas não é pouco, é muito.
+
+Precisamos continuar investindo em uma matriz renovável, não tenho dúvida.
+
+Precisamos ampliar os investimentos, sem dúvida.
+
+Mas frente à realidade mundial, nós, sem dúvida nenhuma, estamos à frente.
+
+Vejam que em 2020, a gente tinha quase 85% da nossa matriz elétrica renovável.
+
+Ela já vinha renovável lá em 2011, caiu um pouco, por quê?
+
+O que aconteceu?
+
+A gente teve aqui alguns leilões, algumas atividades, empreendimentos que entraram que não eram renováveis, mas a partir daqui de 2013, começam a entrar muitas usinas eólicas, depois a gente tem um boom solar, e aí daqui para frente, meu amigo, extrapola.
+
+Então, a gente tem hoje uma matriz renovável.
+
+Se alguém falar para você, o Brasil não tem uma matriz diversificada, não sabe o que está falando, é diversificada sim.
+
+O Brasil não tem uma matriz renovável, tem países do mundo tão melhor, pode até ter países do mundo tão melhor, mas o nosso não está feio, não.
+
+Então, é claro que muito disso vem da história que a gente tem de utilizar fonte hídrica.
+
+As hídricas realmente contribuem muito, mas merito também de quem estava lá atrás e viu isso.
+
+Está bom, pessoal?
+
+Só para a gente ter uma visão aqui mais consolidada do que está acontecendo no país, vejam só.
+
+Esse gráfico é bem legal, porque vocês percebem aqui o consumo de energia.
+
+Hoje o Brasil consome um pouco mais de 435 mil gigawatt-hora.
+
+Esse número, se não me engano, é anual.
+
+O sumo anual do país.
+
+Vocês percebem aqui uma predominância no Sudeste.
+
+São Paulo é disparado o maior centro de carga do Brasil.
+
+E vejam só a evolução do consumo.
+
+Vocês percebem?
+
+A gente tem que ir abrindo a nossa mente para entender isso que energia, pessoal, ela é sinônimo de crescimento.
+
+Energia não é só a gente ter usina entrando.
+
+Energia, gente, o aumento do consumo de energia significa que o país cresce.
+
+Significa que as pessoas estão investindo.
+
+Significa que a indústria está crescendo.
+
+Significa que os comércios estão abrindo.
+
+Então, a gente ter maior consumo de eletricidade significa crescimento.
+
+Significa que mais pessoas estão tendo acesso à qualidade de vida, a conforto, sabe?
+
+A acender uma lâmpada, uma coisa besta, que às vezes a gente acha que a gente que não tem isso.
+
+Então, vejam o crescimento vertiginoso do consumo.
+
+Aí, 14, 15, 16 teve o quê?
+
+Crise econômica, crise política, impeachment.
+
+Depois volta, 2020, vem a pandemia e dá uma quebradinha no ritmo.
+
+Mas vejam que o Brasil vem num crescimento e o consumo de energia mostra isso muito claramente.
+
+Vejam aqui também a separação entre os setores.
+
+Setor industrial muito intensivo em consumo de energia elétrica, óbvio, mas vejam a representatividade do consumo residencial.
+
+Não é brincadeira.
+
+O Sudeste é o líder.
+
+E eu faço um destaque aqui ao lado, pessoal.
+
+O grande desafio do setor elétrico é balancear geração e consumo.
+
+Se eu consumo 475.648 GWh por ano, eu preciso ter 475.648 GWh sendo gerados instantaneamente para atender essa demanda.
+
+Está claro isso?
+
+Esse balanço entre oferta e demanda, por que ele é importante?
+
+Porque na hora que eu entro no meu quarto aqui, já apago a luz, apaguei a luz aqui.
+
+No próximo segundo que eu for acender essa luz aqui, é bom ter energia disponível, porque se eu acender essa lâmpada e não acender, acabou.
+
+Eu não tive acesso ao bem energético.
+
+Acabou.
+
+Tem um problema sério.
+
+Só que para essa energia chegar aqui, além do transporte, além de passar pela transmissão e distribuição, a gente tem que garantir lá que a geração está acontecendo.
+
+E aí é quando a gente volta lá no assunto do racionamento.
+
+Então, gente, é o grande, grande, grande desafio, quando você vai gerenciar, quando você vai ordenar a operação do sistema elétrico, e essa bucha é do ANS que a gente citou, tem que garantir que esse balanço vai acontecer.
+
+E esse balanço não é só físico, ele precisa ser econômico.
+
+Porque o quilowatt-hora que eu estou consumindo agora, ele tem que ter sido vendido por alguém.
+
+Tudo bem que eu pago, mas na cadeia alguém comprou e repassou para alguém.
+
+Isso é ficar claro.
+
+Tudo bem até aqui, gente?
+
+Tudo jóia?
+
+Então, a gente precisa ter esse balanço técnico, físico e comercial.
+
+Tá bom?
+
+São 8h25.
+
+Vamos fazer um...
+
+Vamos fazer um intervalo, pessoal?
+
+Pode ser?
+
+Vamos fazer um intervalinho de 8h25, vamos até 8h35.
+
+A gente volta aí entre 8h35 o que vocês preferem?
+
+8h35 ou 8h40?
+
+Porque depois a gente vai até 10h30, hein?
+
+4 horas.
+
+Aliás, tem alguém na aula ainda?
+
+Todo mundo já dormiu?
+
+Tem alguém aí?
+
+Algo ligado?
+
+Quem que falou que eu não ouvi aí?
+
+Ô, Felipe.
+
+Pode ser, pessoal?
+
+Vamos fazer então essa pausa para não ficar mais pesado ainda.
+
+Porque aí depois disso a gente vai para um fluxo aí da aula.
+
+Então a gente volta, 8h26, a gente volta exatamente 8h37.
+
+Tá bom?
+
+A gente pega 10 minutinhos, lista alguma coisa, vai no banheiro rapidinho, daqui 10 minutinhos a gente está de volta.
+
+Combinado?
+
+Ok, até logo.
+
+Beleza, pessoal?
+
+Então até já.
+
+Deixa eu colocar o microfone no mudo.
+
+E a gente já volta, tá bom?
+
+Até já, pessoal.
+
+Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Legendas pela comunidade Amara.org Ele vai desembocar agora aqui numa perspectiva muito importante que vai pautar o resto do curso.
+
+É a seguinte, tá?
+
+Como que a gente vai enxergar o mercado de energia daqui pra frente?
+
+Como que esse mercado funciona?
+
+Como a atividade de se fornecer energia pode ser enxergada?
+
+E essa atividade de se entregar energia pode ser enxergada do ponto de vista físico, então existe um mundo físico disso, e existe um mundo comercial, tá?
+
+Afinal de contas, a gente, no nosso dia a dia, a gente vive esse mundo, né?
+
+A frase perfeita pra definir isso é a seguinte, acabou a energia na tua rua.
+
+Voltou aqui, minha tela tinha falhado.
+
+Faltou energia na tua rua.
+
+Imediatamente, de uma forma ou de outra, você vai pensar em algo parecido com isso.
+
+Caramba, eu tô pagando por algo que eu não tô recebendo, né?
+
+Então você tem uma realidade física que deu problema, e uma realidade comercial evidente, né?
+
+Que você tá pagando pra não consumir.
+
+Mas como assim?
+
+Não, você vai receber uma fatura no final do mês, que no mínimo vai ter um custo de disponibilidade lá, que a gente chama, sabe?
+
+Existe um custo mínimo pra isso, tá?
+
+Então, já tô entrando aí, tô indo muito além da discussão, mas, na essência, você tem essas duas visões.
+
+Uma visão, ela lida com essa cadeia de suprimento, né?
+
+Ela lida com isso, né?
+
+Com você ter entrega de energia, a produção de energia na geração, depois a sua transmissão, o seu transporte, a distribuição aqui, né?
+
+Nos centros de consumo, e o consumo propriamente dito.
+
+Por outro lado, esse mundo comercial trata dos contratos, né?
+
+Os contratos que existem entre essas partes que atuam no mercado físico, né?
+
+Pra fazer a venda efetiva da energia, tá certo?
+
+Então, penso o seguinte.
+
+O gerador, ele tem que vender a energia dele.
+
+O transmissor tem que transmitir a energia.
+
+O distribuidor distribui, o consumidor consome, né?
+
+Então, todas essas relações são relações comerciais.
+
+Então, esses contratos de compra e venda precisam existir.
+
+De compra e venda, de prestação de serviços, enfim.
+
+Vale a pena reforçar que o universo físico, o mundo físico, é uma problemática tratada pelo Operador Nacional do Sistema Elétrico, o ANS.
+
+Por outro lado, o mundo comercial é tratado essencialmente pela CCE, a Câmara de Comercialização de Energia Elétrica.
+
+Nesse curso, a gente vai falar muito, muito mais da CCE.
+
+A gente vai estudar muito, muito mais o mundo comercial, o setor de energia.
+
+É onde a coisa acontece.
+
+É onde você vai ter a opção de contratar a energia de quem você quiser, se for o mercado livre.
+
+É onde você vai compreender o porquê que você está pagando X centavos por quilowatt-hora na tua casa, né?
+
+Tudo isso está dentro de um panorama econômico.
+
+Então, é dentro do mundo comercial.
+
+Então, é tratado naturalmente pela CCE.
+
+Tá bom, pessoal?
+
+Então, é muito importante a gente ter essa visão sistemática.
+
+E essa visão sistemática de um único mercado, ela passa pela compreensão do que é o Sistema Interligado Nacional, tá?
+
+Eu imagino que, eventualmente, vocês já tenham ouvido falar sobre o SIM, o Sistema Interligado Nacional.
+
+Basicamente, o que significa isso?
+
+Significa, pessoal, e acredite se você quiser.
+
+Se você não quiser, você vai clicar nesse link aqui, ó.
+
+Eu vou clicar também.
+
+Você vai abrir esse mapa, tá?
+
+Está dentro da página da EPS, vocês estão vendo o mapa, né?
+
+Eu imagino.
+
+E esse mapa, ele mostra, atualizado, qual que é o Sistema Interligado Nacional aqui do Brasil.
+
+Vejam que interessante.
+
+Para quem gosta mais desse universo físico, quem tiver curiosidade, dá uma abridinha nesse mapa aqui e olha que coisa legal.
+
+Você tem aqui o mapa do Brasil inteiro, atualizado, né?
+
+Não o mapa do Brasil atualizado, mas o mapa do Sistema Interligado.
+
+Com, gente, absolutamente tudo.
+
+Tudo que você quiser saber, quais são as linhas de transmissão.
+
+Olha só, vou dar um zoom aqui, ó.
+
+Olha a legenda do lado.
+
+Então, aqui você tem as linhas de transmissão, as existentes e planejadas, quais são as linhas 230KV até 800KV, onde estão as usinas hidrelétricas, onde estão as solares, onde estão os eólicos, onde estão as térmicas, os sistemas viários, hidrografia, enfim.
+
+Você tem muita coisa aqui.
+
+O que significa esse mapa no final do dia, tá?
+
+Significa, basicamente, que o Brasil inteiro, com exceção de um lugar só, de modo geral, em termos gerais, está interligado.
+
+Em outras palavras, eu posso afirmar, eu poderia afirmar, que eu não sei de onde está vindo essa energia que eu estou consumindo para acender minha lâmpada aqui.
+
+Não sei dizer.
+
+Porque está tudo interligado, né?
+
+Então, a energia que eu estou consumindo pode estar vindo dessa usininha hidrelétrica, esse triangulinho que está aqui na tela.
+
+Pode estar vindo de qualquer lugar.
+
+A energia, propriamente dita.
+
+Mas essa malha aqui é a malha de transmissão.
+
+É a interligação do setor elétrico brasileiro.
+
+Percebam que a linha aqui só vai até 230KV.
+
+Abaixo disso, não aparece aqui no sistema interligado.
+
+Que é o que a gente chama de rede básica.
+
+Então, aqui a gente tem, essencialmente, a rede básica.
+
+As redes de tensão mais baixa não aparecem no mapa.
+
+Mas nós temos redes de outros níveis de tensão.
+
+E, claro, também não está a rede de distribuição aqui.
+
+Senão, a gente não ia ver absolutamente nada no mapa.
+
+Ia ser só rabisco de linha, né?
+
+Então, por que é importante a gente entender isso?
+
+Porque, de um ponto de vista físico e econômico, a gente não passa a tratar de forma isolada os estados.
+
+A gente começa a olhar porque a gente chama de submercados.
+
+Então, vejam que o estado de Roraima não está interligado.
+
+Ainda é o único estado que não está interligado com o resto do Brasil.
+
+Lá é o que a gente chama de sistema isolado.
+
+Então, toda a geração, transmissão e distribuição, acontecem dentro do estado.
+
+Não existe conexão ainda com o resto do Brasil.
+
+Isso é muito ruim.
+
+Porque isso eleva o custo local com a energia.
+
+Agora, o resto do país é interligado.
+
+A gente tem quatro submercados.
+
+Submercado Norte, Nordeste, Sudeste e Centro-Oeste.
+
+É um único submercado.
+
+E Sul.
+
+Então, eu posso dizer que a divisão geográfica é a mesma?
+
+Não.
+
+Veja que o estado do Acre faz parte do submercado Sudeste e Centro-Oeste.
+
+E, geograficamente, é o estado do Norte.
+
+A mesma coisa é a Rondônia aqui.
+
+Então, muita atenção nisso.
+
+Tem, inclusive, alguns estados aqui que estão no submercado Norte.
+
+Mas, geograficamente, são os estados do Nordeste.
+
+Como é o caso, se eu não me engano, aqui de Tocantins.
+
+Enfim.
+
+Então, é importante a gente ter essa visão de submercados.
+
+Porque os submercados, o setor elétrico vai tratar a energia, seja de um ponto de vista físico, como econômico, em termos de submercados.
+
+Aqui, em São Paulo, estamos no submercado Sudeste.
+
+Guardem isso, porque vai ser bem importante lá na aula...
+
+Já na aula que vem, já.
+
+Quando a gente for estudar preço de energia.
+
+E, principalmente, na aula 3.
+
+Quando a gente for fazer o estudo de viabilidade econômica.
+
+Tá bom?
+
+Considerando essa questão do sistema interligado nacional, a gente percebe uma cadeia de suprimento muito forte.
+
+Como a gente já falou aqui, e vou reforçar agora.
+
+A gente tem uma cadeia que começa na geração.
+
+E a geração que eu me refiro aqui, pessoal, é a geração que é centralizada.
+
+Não me refiro aqui à geração distribuída.
+
+O que é a geração distribuída?
+
+É a geração de pequeníssimo porte, que está na moda, é o que está mais na moda hoje, e é de estar mesmo.
+
+Que a possibilidade de o consumidor colocar a placa no telhado, colocar algum sistema de geração dentro das suas dependências, ou em uma outra área ali, na mesma área de concessão que ele reside, enfim, na área de concessão que ele está situado, gera energia e injeta na rede da distribuidora.
+
+Ou seja, você tem um ponto de geração aqui.
+
+Meu mouse aparece, né?
+
+Eu tenho um ponto de geração aqui desse lado.
+
+Não é essa geração que eu me refiro.
+
+A gente vai tangenciar esse assunto no curso, tá?
+
+Não vamos trabalhar com geração distribuída no curso.
+
+Última análise.
+
+Mas, de qualquer maneira, vai ter elementos muito importantes, principalmente na parte de tarifação, que é importante saber para trabalhar com geração distribuída.
+
+Agora, quando a gente fala disso de cadeia de suprimentos do setor elétrico, de mercado, geração é isso aqui.
+
+É a geração centralizada.
+
+Grandes unidades de geração conectadas na rede básica, que é a rede que a gente enxerga aqui no sistema interligado.
+
+E aí, existe um pagamento.
+
+É feito pelo uso desse sistema de transmissão.
+
+Depois, essa energia é escoada para a distribuidora.
+
+Existe um pagamento pelo uso da distribuição, e aí, sim, essa energia chega aqui até os centros de consumo.
+
+Não vale a pena destacar aqui, gente, antes de qualquer coisa.
+
+Por que o setor elétrico foi pensado dessa forma?
+
+Porque lá atrás, principalmente, e ainda continua dessa forma, o maior recurso disponível para gerar energia estava em locais afastados.
+
+Lácias hidrográficas, locais com maior disponibilidade solar ou de vento.
+
+Uma coisa é você colocar uma usina térmica ou uma usina nuclear no meio da cidade de São Paulo.
+
+O risco é enorme.
+
+Ninguém vai fazer isso em sã consciência.
+
+Então, você vai para regiões mais afastadas para gerar energia a um custo mais baixo, com mais segurança.
+
+E depois, você transmite isso, você transporta isso.
+
+Só que quando você vai transportar, você precisa, tecnicamente, garantir que esse transporte também vai ser mais barato e mais seguro.
+
+Então, por isso que a gente transporta tensões bem altas, quilovolts, quando chega nos centros de consumo, porque isso aqui é milhares de quilômetros, quando chega nos centros de consumo, você tem lá as subestações, essas subestações rebaixam esse nível de tensão para um nível que possa ser mais facilmente transportado ali, com menos risco para a população.
+
+E aí, quando você chega na boca da tua casa ali, que é na rua, no quarteirão, você tem, enfim, a redução do nível de tensão para 380, 220, 127 volts para atender as cargas aqui.
+
+Então, a gente tem isso.
+
+Isso vai ficar mais claro ainda quando a gente for estudar as tarifas.
+
+Tá, pessoal?
+
+E aí, considerando essa cadeia de suprimentos, aí a gente chega no elemento fundamental da aula de hoje.
+
+E aqui é o que eu peço para você, sua atenção máxima.
+
+Se você estava jogando videogame, estava fazendo não sei o que aí, assistindo série, para agora e olha essa parte.
+
+Essa relação aqui, econômica e econômica, ela pode se dar de duas formas.
+
+De forma regulada, 100% regulada, ou de forma livre.
+
+Alguma dúvida, Diogo?
+
+Não, Diogo?
+
+Tá legal.
+
+Apareceu aqui, você piscando aqui.
+
+Então, gente, máxima atenção aqui, né, que eu estava falando.
+
+Então, essa relação econômica, ela pode acontecer de duas formas, como eu falei, de forma regulada ou de forma livre.
+
+Isso significa, então, que esse pessoal que está do lado de cá, os consumidores de energia, esquece o que está escrito perto aqui, esse consumidor pode contratar a energia, essa energia que foi gerada por alguém dentro do sistema interligado.
+
+Então, veja só.
+
+Eu estou aqui no Sul, estou aqui no estado do Paraná.
+
+Posso comprar energia de qualquer lugar do país, certo?
+
+De forma livre ou de forma regulada.
+
+Olha que coisa interessante.
+
+Eu não necessariamente preciso saber de onde vem a energia.
+
+Quer ver uma forma de a gente pensar nisso?
+
+Você sabe de onde está vindo a energia que você está consumindo agora na tua casa?
+
+Você não sabe.
+
+Nem a distribuidora sabe.
+
+Do ponto de vista físico, a distribuidora não sabe dizer.
+
+O que a distribuidora sabe dizer é de quem ela comprou a energia.
+
+Porque ela está te repassando a energia.
+
+É isso que acontece quando existe a contratação regulada de energia.
+
+Vejam só.
+
+A contratação regulada de energia funciona dessa forma.
+
+A energia gerada é cobrada do consumidor numa fatura.
+
+O serviço de transmissão é cobrado do consumidor numa fatura.
+
+Na mesma fatura.
+
+E a distribuição de energia, o serviço de distribuição, que é o que a Enel faz, a Electro, a CPFL, a Light no Rio de Janeiro, o Grupo Equatorial lá no Nordeste, enfim.
+
+A Coppel no Paraná e tal.
+
+Esse serviço de distribuição também é cobrado na mesma fatura.
+
+É cobrado aqui.
+
+Só que o que acontece?
+
+Não é você, no mercado regulado, que está comprando a energia.
+
+Não é você que está comprando, pagando pela transmissão.
+
+Mas é você que paga pela distribuição.
+
+Por quê?
+
+O nosso contrato regulado, você não tem um contrato com o gerador.
+
+Alguém aqui tem contrato com o gerador?
+
+Tenho certeza que não.
+
+Você não tem contrato direto com o gerador para pagar pela energia.
+
+Você, no ambiente regulado, também não tem um contrato com a transmissora para pagar pelo transporte que ela fez.
+
+Agora, você tem um contrato com a distribuidora.
+
+E essa fatura carrega o nome da distribuidora.
+
+E dentro dessa fatura tem uma tarifa.
+
+E dentro dessa tarifa, aí sim, existe o custo de distribuição que é cobrado, existe o repasse do custo de transmissão e existe o repasse da energia gerada que você consumiu.
+
+Essa é a estrutura do mercado regulado.
+
+Então, a próxima vez que você abrir a sua fatura de energia na sua casa, você vai lá embaixo.
+
+Eu não sei, vai depender de qual fatura, de qual distribuidora é.
+
+E você vai ver que lá embaixo, em algum lugar, vai ter uma separação.
+
+Ele vai te mostrar o quanto da fatura.
+
+Aliás, vamos até mostrar isso aqui na internet.
+
+Vamos mostrar aqui no navegador.
+
+Eu confesso que eu não preparei um negócio específico para isso.
+
+Olha só.
+
+Fatura de energia elétrica.
+
+Por exemplo.
+
+Aqui.
+
+Vamos ver se...
+
+Vai ser meio difícil eu achar essa aqui.
+
+Ah, opa, essa aqui.
+
+Essa aqui está bem ruim, viu?
+
+Não sei se vocês conseguem ver.
+
+Essa realmente está ruim.
+
+Deixa eu ver aqui.
+
+Então, as faturas...
+
+Vamos voltar para ela aqui.
+
+Não sei, pessoal.
+
+Acho que vocês não vão conseguir ver.
+
+Deixa eu abrir aqui essa...
+
+Essa aqui também não.
+
+Está meio difícil.
+
+Vai ser meio difícil agora do Sopetão achar uma fatura que esteja razoável para mostrar isso para vocês.
+
+Mas eu acho que talvez dê para enxergar alguma coisa.
+
+Mas vocês vão ver aqui, nessa região aqui, a fatura da Enel.
+
+Composição do valor de consumo.
+
+Ele mostra aqui o que é energia.
+
+Aqui é R$40,00 a energia.
+
+Do que ele pagou, não é da tarifa, é do que ele pagou.
+
+Então, R$40,00 do que ele pagou, esse consumidor aqui, foi energia.
+
+R$4,00 foi transmissão.
+
+R$20,00 e poucos reais foi distribuição.
+
+R$6,00 foi encargo setorial.
+
+E R$30,00 e poucos reais tributos.
+
+Não se preocupe não com essa estrutura, que na aula que vem a gente vai dissecar isso aqui.
+
+A gente vai entender no detalhe o que compõe a tarifa.
+
+Mas você percebe que existe um repasse?
+
+E dentro desse repasse, existe o repasse da energia.
+
+Vocês viram, né?
+
+Então, essa energia é repassada na tarifa.
+
+Por quem?
+
+Pela distribuidora.
+
+Porque ela que fatura essa cadeia de suprimento aqui do setor elétrico.
+
+Então, no regulado, a gente tem uma fatura, mas por quê?
+
+Quem se responsabiliza por repassar esses custos todos da cadeia é a distribuidora.
+
+Está certo?
+
+Tudo bem até aqui, gente?
+
+Alguma dúvida?
+
+Está jóia?
+
+Gente, a distribuidora tem uma responsabilidade fundamental no ambiente regulado de contratação.
+
+Qual que é essa responsabilidade?
+
+Comprar em nosso nome a energia.
+
+Só que vamos lá, gente.
+
+Você sabe quanto você vai consumir de energia amanhã?
+
+Não, né?
+
+Nem eu.
+
+Ninguém sabe quanto vai consumir de energia amanhã.
+
+A gente sabe quanto a gente consumiu ontem, agora amanhã não.
+
+Então, a distribuidora o que ela faz?
+
+Ela faz um planejamento em que ela compra essa energia dos geradores para nos atender no futuro.
+
+Porque não é a gente que celebra contrato.
+
+Só que ela precisa comprar um montante, uma quantidade de energia que ela tenha segurança que ela vai conseguir nos atender.
+
+E aí, gente, existem estudos absurdos dentro das distribuidoras para verificar, para planejar o quanto ela precisa comprar de energia para suprir a área de concessão dela.
+
+É uma obrigação da distribuidora.
+
+Hoje, a distribuidora tem a obrigação de suprir a energia dos consumidores regulados, cativos.
+
+E ela tem a obrigação de distribuir.
+
+A obrigação de fazer o serviço do fio, que a gente chama, né?
+
+O serviço do transporte.
+
+Então, quem compra essa energia é a distribuidora.
+
+E onde que ela compra essa energia?
+
+Nos leilões de geração.
+
+Então, a próxima vez que você ver aí na internet alguma notícia de um leilão de geração aconteceu assim, é isso.
+
+O leilão de geração nada mais é do que a venda de energia, uma energia a ser entregue no futuro.
+
+Ou seja, empreendimentos que vão ser construídos.
+
+Por isso que leilão de energia é sinônimo de investimento, porque alguém está vendendo energia para quem?
+
+Para a distribuidora.
+
+E a distribuidora compra a quantidade de energia que ela acha que vai ser necessária para atender os consumidores dela no futuro.
+
+E aí ela repassa esses custos de energia para o consumidor na fatura por meio da tarifa.
+
+Está claro, gente?
+
+Está claro?
+
+Porque se você entender isso aqui, se ficar claro para você, vai ser uma baba entender o ACL, que é o Mercado Livre, e vai ser uma baba entender leilão e tarifa.
+
+Está joia?
+
+Um segundo.
+
+Valeu.
+
+Está ouvindo?
+
+Oi?
+
+Oi, está ouvindo?
+
+Estou ouvindo, Diogo.
+
+Então só tirar uma dúvida.
+
+Então eu tenho a geração, eu tenho a transmissão, a comercialização e a distribuição, certo?
+
+Certo.
+
+Então a distribuição vai tabelar todos os custos desses três processos anteriores e depois repassar para o cliente final, é isso?
+
+É.
+
+Só esquece, por enquanto, a comercialização, tá?
+
+Tá.
+
+A atividade comercialização é uma outra coisa, ela não entra nessa cadeia.
+
+Está nessa cadeia, beleza.
+
+A comercialização está fora disso.
+
+Logo mais a gente vai entender, beleza?
+
+Agora o seu título está certo sim, tá, Diogo?
+
+É isso mesmo.
+
+E a distribuidora, qual que é a responsabilidade dela, primária?
+
+Distribuir a energia, garantir que a energia chegue da subestação até a nossa casa, até o nosso trabalho.
+
+Essa é a obrigação zero, prioridade zero dela, garantir que esse fio não quebre, não caia, que não quebre o transformador.
+
+Esse é o objetivo, ela é uma prestadora de serviço para distribuir energia.
+
+Por isso que a gente fala que é um monopólio, né?
+
+Não dá para você escolher qual fio que você vai usar, tá?
+
+Mas o seu entendimento está certo, ela pega os custos de transmissão e repassa, tabela, como você falou, repassa isso, e o de geração também.
+
+Só que o de geração, especificamente, ela é responsável por contratar a energia que vai ser necessária para atender os consumidores.
+
+Sim, aí ela vai para o mercado livre para poder fazer a negociação, para poder abastecer o mercado dela, né?
+
+Porque ela tem a previsão, né?
+
+Mercado livre não, mercado regulado.
+
+Ah, mercado regulado, tá.
+
+Isso, e onde que ela compra essa energia dentro do mercado regulado?
+
+Nos leilões de energia, a gente vai falar dos leilões já.
+
+Ah, legal.
+
+A gente não fala de mercado livre ainda.
+
+Tá bom?
+
+Perfeito.
+
+Então, repetindo aqui rapidinho, pessoal.
+
+Esquece o lado esquerdo da imagem, esquece.
+
+Esquece isso aqui, esquece.
+
+Vamos olhar só para o lado direito.
+
+Energia foi gerada.
+
+Ela fisicamente vai para uma linha de transmissão, que fisicamente vai para uma linha de distribuição, que fisicamente é entregue para o consumidor final aqui.
+
+Comercialmente, essa energia gerada é vendida para a distribuidora, que fez um planejamento e ela entende que essa quantidade que ela comprou vai ser suficiente para atender o futuro do mercado dela ou os consumidores dela.
+
+Quando ela compra essa energia, ela está comprando em nosso nome.
+
+Então, ela repassa esse custo da energia na tarifa.
+
+É o que a gente viu naquela tarifa bem ruim que eu achei aí, e estava lá.
+
+Dentro da fatura que você paga, da tarifa que você paga, uma parte é esse custo energético.
+
+Só que, além disso, como o Diogo bem falou, ela pega o custo da transmissão e repassa também na fatura.
+
+Então, ela repassa esse custo na fatura e ela também cobra pelo serviço que ela tem que prestar, que é a distribuição.
+
+É manter o transformador, manter a linha, manter o poste.
+
+Então, ela também cobra pelo serviço que ela ganha dinheiro.
+
+Em última análise, pessoal, a tarifa que a gente paga de 0,80 centavos não vai para o bolso totalmente da distribuidora.
+
+Uma parte vai para o bolso dela.
+
+Que parte?
+
+A parte referente à distribuição.
+
+Todo o resto é repasse.
+
+Todo o resto é repasse.
+
+A gente vai ver isso muito bem visto na próxima aula.
+
+Tá bom?
+
+Isso tudo, gente, o mercado regulado.
+
+Ou a empresa regulada.
+
+Oi?
+
+Só um segundo, desculpa.
+
+Eu lembro que você falou que estava existindo essa geração distribuída.
+
+E logo em seguida, o governo, eu acho que pela anão, ele quis regulamentar que a distribuidora cobrasse o uso da energia solar que o pessoal estava gerando na rede.
+
+E isso ia inviabilizar essa alavancagem da geração distribuída no Brasil.
+
+Eu não entendi.
+
+Agora, você me explicando isso, eu consegui entender o porquê.
+
+Porque teria um...
+
+Isso aí, eu faço excelente comentário.
+
+Eu sei que foi mais um comentário, não uma pergunta.
+
+Mas, independentemente disso, guarda isso aí, Diogo, que a gente vai falar isso muito amanhã.
+
+Amanhã não, na próxima segunda.
+
+Porque esse é o ponto.
+
+Resumindo, para não deixar o teu comentário no ar, a discussão é essa.
+
+Hoje, quem tem geração distribuída, ele tem o abatimento de todos os custos da cadeia.
+
+Eu não vou falar todos, que é muito forte.
+
+Mas ele tem o abatimento da grande maioria dos custos da cadeia.
+
+Lembrando que, além do que está aqui, desses custos aqui, a gente tem outros custos que não estão aparecendo.
+
+Se a gente paga por perdas, a gente paga encargos, a gente paga impostos.
+
+Então, tem outras coisas que vão dentro da tarifa.
+
+E é isso mesmo, Diogo.
+
+O que a distribuidora está falando?
+
+O que a Anel está falando?
+
+Olha, você colocou uma solar no teu telhado?
+
+Legal, maravilha.
+
+Só que, na visão deles, não seria justo você se beneficiar de todo o benefício se você continuar, em algum momento, usando algum desses serviços.
+
+Entendeu?
+
+Então, a discussão que a distribuidora tem discutido...
+
+É isso, olha.
+
+Não faz sentido...
+
+Não estou falando que é nem certo nem errado o argumento.
+
+Só estou dizendo que...
+
+Eles falam assim.
+
+Não faz sentido você deixar de pagar pelo serviço de distribuição se mesmo gerando energia própria, você está utilizando o serviço de distribuição.
+
+Tá?
+
+Deixa eu ver que tem uma pergunta do Felipe aqui.
+
+Eu fiz um reforço, Diogo, do que você comentou.
+
+Mas, na próxima aula, a gente vai discutir isso no detalhe.
+
+Na próxima aula, a primeira parte é só tarifa.
+
+A gente vai entender no detalhe tarifa e preço.
+
+Beleza?
+
+Show.
+
+Tem uma outra pergunta do Felipe Kioschi aqui.
+
+A distribuidora acaba fazendo trading de energia comprando o gerador e vendendo aos consumidores?
+
+É uma espécie de trading, sim.
+
+Tá?
+
+Trading é uma palavra forte, tá, Felipe?
+
+Mas o que ela está fazendo...
+
+A palavra melhor a ser dita...
+
+Ela está comprando energia do gerador e revendendo a energia para o consumidor.
+
+Só que revendendo, às vezes, presume que ela tem uma margem em cima disso.
+
+Ela não tem margem nenhuma.
+
+Ela não cobra um centavo a mais pela energia que ela comprou e está repassando.
+
+E aquela energia que ela comprou, ela tem um preço estático.
+
+No trading de energia do mercado livre, esse preço de energia é dinâmico.
+
+Aí você consegue fazer trading.
+
+Entendi.
+
+Aí varia igual uma ação de...
+
+Porque é regulado, né?
+
+Não é no...
+
+Isso.
+
+No ambiente livre.
+
+Isso aí.
+
+Então, não é um trading propriamente dito.
+
+Mas ela está fazendo uma atividade de comercializar energia.
+
+Então, ela está comprando e está revendendo.
+
+Mas, na verdade, essa revenda é um repasse.
+
+Beleza, beleza.
+
+Quem faz atividade de trading?
+
+Imagina.
+
+Quem faz atividade de trading?
+
+Comercializadora.
+
+Só que a comercializadora, ela tem alguma função física?
+
+Nenhuma.
+
+Ela não está no croquis aí.
+
+Estão vendo o desenho?
+
+Não está a comercializadora aí.
+
+Porque a comercializadora, ela não tem função física no sistema.
+
+Ela tem uma função estritamente comercial.
+
+Ela está ali só para comprar e vender energia.
+
+E a gente vai entender depois a importância da comercializadora.
+
+Não agora.
+
+Mas a gente vai perceber que a comercializadora, ela é um agente puramente econômico no setor que serve para movimentar o mercado e garantir o acesso e dar liquidez ao mercado de energia no ambiente livre.
+
+Então, fiquem tranquilos.
+
+A gente vai depois explorar o que é a comercializadora.
+
+Mas, por hora, esqueçam.
+
+Não esqueçam.
+
+Deixa quieto um pouquinho a comercializadora ali.
+
+Beleza?
+
+Mas valeu pela pergunta, Filipe.
+
+Se a gente entendeu bem o que é o ACR, que é o que ele funciona, que é a nossa realidade, o que a gente está acostumado no nosso dia a dia, o que muda no ambiente contratação livre?
+
+O que acontece no mercado livre de energia?
+
+Qual é a diferença?
+
+Gente, a diferença é uma só.
+
+Ela tem um monte de detalhes, essa diferença, que a gente vai explorar nas próximas duas aulas.
+
+Mas hoje, se você entender isso, acabou, você já é um formado em mercado de energia.
+
+O que muda é só isso aqui.
+
+Só isso.
+
+Ao invés de você comprar a energia que a distribuidora está repassando, porque ela comprou no leilão, você deixa de comprar a energia que ela comprou em seu nome e você compra a energia de quem você quiser.
+
+De quem você pode comprar?
+
+Geradores e comercializadores.
+
+Só que percebe que você continua pagando pela transmissão e distribuição, porque não adianta nada você comprar a energia e ninguém te entregar.
+
+Só que essa entrega de energia, esse transporte, é um monopólio.
+
+Então, não tem como você escolher.
+
+Então, você continua tendo uma fatura regulada, mas essa fatura regulada diz respeito somente ao transporte, transmissão e distribuição.
+
+Por outro lado, dentro da tua tarifa lá, não vai ter mais aquele custo de energia, porque a distribuidora não vai mais cobrar por energia, porque ela não vai mais comprar energia para você.
+
+Essa responsabilidade agora é sua.
+
+Então, você vai negociar livremente os termos da contratação da energia.
+
+Isso, gente, é mercado livre.
+
+Isso é mercado livre.
+
+Não é que você vai ficar livre da distribuidora.
+
+Ah, não, vou me livrar da distribuidora?
+
+Nunca mais vou ver a cara da Enel.
+
+Não.
+
+A gente vai ver para sempre.
+
+Para sempre é muito forte.
+
+Mas a gente depende desse serviço que é um monopólio.
+
+Precisa ser entregue.
+
+A não ser, é claro, que você instale um monte de placa na tua casa, coloque um monte de bateria, e aí você está livre de todo mundo.
+
+Ninguém mais vai te encher o saco, mas você vai ter que ser responsável para fazer as coisas na tua casa.
+
+Mas caso contrário, se você for para o mercado livre, você vai comprar energia livremente.
+
+Gente, muda alguma coisa na realidade física?
+
+Nada.
+
+Nada.
+
+Nada.
+
+Não muda nada.
+
+A energia continua sendo gerada, vai ser transmitida, vai ser distribuída.
+
+Às vezes o pessoal pergunta, tá, mas tem algum risco de faltar energia se for para o mercado livre?
+
+Zero.
+
+Zero.
+
+Não muda nada.
+
+Não muda nada.
+
+Nada.
+
+Fisicamente é a mesma coisa.
+
+Só muda a tua realidade comercial.
+
+No regulado você tem uma fatura.
+
+Nessa fatura tem energia e transporte.
+
+No mercado livre você tem duas faturas.
+
+Uma fatura de energia e uma outra fatura que só tem transporte.
+
+Acabou, gente.
+
+É isso.
+
+É isso.
+
+Contratação de energia é assim que funciona.
+
+Qual que é o problema?
+
+Hoje, na nossa realidade residencial, a gente só tem essa alternativa, que não é alternativa, é obrigação.
+
+Se você quiser ter energia, você vai ter que comprar dessa forma aqui.
+
+Agora, dependendo de alguns requisitos, você pode comprar energia de quem você quiser.
+
+Tá bom, gente?
+
+Tá claro?
+
+Tudo bem até aqui?
+
+Quem quiser falar, fala agora ou manda um texto igual o Felipe mandou.
+
+Tá bom?
+
+Porque realmente esse slide aqui é muito importante, tá, gente?
+
+Jhonatas, deixa eu te fazer uma pergunta.
+
+Um pouco antes você tinha falado dos 475, né, que é o equilíbrio que a gente tem que ter no gerado e consumido, né?
+
+Já está incluso a contratação regulada e a contratação livre naquele uso, né?
+
+Isso.
+
+Isso, boa pergunta.
+
+Deixa eu até voltar aqui, ó.
+
+Ó, legal.
+
+Tá vendo esse gráfico aqui, ó?
+
+Tá vendo que a maior parte é cativa ainda, né?
+
+Você vê que desses 475, Tales, 300 e pouco foi consumo cativo e 100 e pouco consumo livre.
+
+Aí você fala, nossa, alto esse consumo livre, hein?
+
+A gente vai ver.
+
+Mas, gente, consumidor livre, principalmente há uns 10 anos, eram os maiores consumidores industriais do Brasil.
+
+Então, você tem ali, sei lá, 10% da energia do Brasil inteira em três indústrias, entendeu?
+
+Então, no dia desse, a Companhia Siderúrgica Nacional era, assim, um absurdo, né?
+
+Mas é isso mesmo, é o total, tá, Tales?
+
+Perfeito.
+
+Que bola.
+
+Mais alguém?
+
+Aqui.
+
+Mais alguém?
+
+Sim, não.
+
+Deixa eu ver se tem algum bate-papo aqui, não.
+
+Então, gente, vou assumir que vocês entenderam isso aqui bem entendido, tá?
+
+Estamos entrando na reta final de hoje.
+
+Fiquem tranquilos.
+
+Tem uma horinha aí para a gente matar aqui, tem muita coisa boa ainda.
+
+Então, gente, a gente já citou tudo isso.
+
+O que eu vou fazer agora?
+
+A gente vai entender um pouquinho a importância desse negócio chamado leilão, tá?
+
+Porque esse negócio chamado leilão interfere diretamente nos custos regulados que a gente tem, na tarifa.
+
+Então, não.
+
+E a base do crescimento do setor de energia hoje ainda é o mercado regulado.
+
+Vocês viram lá que a residência é o segundo maior consumidor, o residencial é o segundo maior consumidor do país.
+
+E muitas indústrias, para não dizer a maioria, ainda compram energia regulada, não estão comprando energia livre.
+
+O comércio hoje, majoritariamente, compra energia regulada.
+
+Então, o crescimento do setor de energia hoje no Brasil é pautado pelo avanço do mercado regulado, que, por sua vez, depende da ampliação do parque gerador para fornecer energia.
+
+Então, qual que é a dinâmica disso aqui?
+
+Como que funcionam os leilões?
+
+Relembrando, isso aqui não é um curso de leilões, tá, gente?
+
+Isso aqui é um curso de mercado.
+
+Mas vejam só, lembra que a gente falou?
+
+A EPE elabora estudos, plano nacional, plano decenal, programa de expansão da transmissão.
+
+Ela prepara os estudos e subsidia o MME, falando do MME, com base nas nossas projeções de crescimento populacional, de crescimento econômico, de um monte de coisa.
+
+O MME, a gente sugere que haja leilões para contratação de geração de energia ao longo dos próximos anos.
+
+Os nossos estudos indicam isso.
+
+O ONS faz outros estudos para reforços e ampliação de linhas de transmissão.
+
+Tudo isso aqui subsidia o MME, que vai fazer de reprise.
+
+Ele vai mandar uma portaria e falar, olha, precisamos garantir a contratação tanto de capacidade de geração para atender à necessidade de energia do país ao longo dos próximos 5, 10 anos.
+
+Sei lá, tá?
+
+Aí a ANEL vai lá, ela não é a regulamentadora, ela vai preparar um edital, uma resolução, falando, olha, vou promover um leilão sob essas condições, com base nos estudos da EPE e do ONS, com base nas diretrizes do MME, para a contratação de empreendimentos nos leilões tal, tal e tal.
+
+Aí os leilões são operacionalizados.
+
+Quem operacionaliza o leilão para compra de energia dos empreendimentos de geração?
+
+A CCE.
+
+Então a CCE é aquela que executa os leilões.
+
+Quem promove os leilões de transmissão?
+
+Porque pensa, é um monopólio, mas você pode ser um investidor em transmissão.
+
+Você vai lá investir, vai construir a linha e vai operar aquela linha, você vai ter uma concessão daquela linha lá.
+
+Então você tem um leilão de transmissão também, para poder garantir que a energia vai sair do lugar, vai chegar até o centro, o grande centro de consumo, vai se interconectar com o sistema interligado, com o SIM.
+
+Quem promove isso?
+
+BMF Bovespa.
+
+Se você procurar no YouTube, você vai ver, tem os leilões lá, no BMF Bovespa, os caras batendo martelinho, não sei o quê.
+
+Na CCE também é a mesma coisa, já vai entrar no negócio inclusive disso.
+
+Então, essa é a dinâmica dos leilões.
+
+E aí uma vez que acontecem os leilões, você tem ali dois agentes essenciais.
+
+O lado vendedor, que é o empreendedor.
+
+O empreendedor que vai lá investir na usina, construir e operar, e vai vender essa energia.
+
+Ou que vai investir, construir e operar a linha de transmissão.
+
+E o lado comprador.
+
+No caso, o lado comprador da energia é a distribuidora.
+
+E aí, um pouquinho mais sobre os leilões.
+
+A gente tem alguns tipos, algumas modalidades de leilões.
+
+Gente, o objetivo nosso deve ser sair daqui, craque em leilão e etc.
+
+Mas só para você ter uma noção, que não é um assunto trivial.
+
+Em primeiro lugar, uma característica do leilão, vamos focar primeiro aqui do lado direito.
+
+Uma característica de um leilão de energia que existe, você pode comprar energia nova.
+
+Que energia nova?
+
+De um empreendimento que ainda vai ser construído.
+
+Então o cara vai lá e fala assim, eu tenho um projeto aqui, não tenho nada construído ainda, e eu vou construir para atender.
+
+Ou eles estão sendo construídos, ou estão sendo planejados, tem energia nova.
+
+Mas você também pode ter um leilão de energia já existente.
+
+Já tem um empreendimento funcionando, rodando e tal.
+
+E esse empreendimento tem contratos de venda até um determinado ano.
+
+Vamos supor que eu sou um dono, que me deram.
+
+Eu sou um dono de uma hidrelétrica.
+
+E vendi minha energia, fiz um contrato de venda de energia, para uma distribuidora, até 2022.
+
+Então, a partir de 2023, não tem para quem vender minha energia.
+
+E a gente vai ver o que pode acontecer nesse caso, na terceira aula.
+
+Segunda ou terceira aula.
+
+Não tem para quem vender energia.
+
+É a mesma coisa que você ter um monte de tênis produzido, não tem para quem vender.
+
+Mas aí você pode vender essa energia se tiver um leilão de energia existente.
+
+Aí você vende.
+
+Já está construído, operando.
+
+Você tem energia de reserva, que é o que diz o nome.
+
+É uma energia de reserva.
+
+Tem toda uma outra estrutura para você vender essa energia de reserva, até porque ela é de reserva, como o nome diz.
+
+Então, não necessariamente você vai construir e vai operar ela sempre.
+
+Você vai operar ela sob certas condições.
+
+Objetivo, promover segurança.
+
+Energia de reserva é para isso.
+
+Você tem a transmissão.
+
+Leilões de transmissão.
+
+E você pode ter um leilão especial para fontes alternativas.
+
+Por exemplo, lá em 2000 e...
+
+Já esqueci o ano. 2013, 14 e tal. 11, não lembro mais.
+
+A gente teve leilões de fontes alternativas.
+
+Por quê?
+
+Eram fontes que ainda não eram super competitivas.
+
+E elas precisavam de um trâmite.
+
+De um trâmite que fosse focado nelas.
+
+Então, naquele leilão participaram só fontes renováveis.
+
+Biomassa, hídrica de pequeno porte, que são as PCHs.
+
+Eólica, solar.
+
+Mas, à medida que elas ficam competitivas, todas compitam entre si, de forma econômica.
+
+E aí, quem decide quem vai contratar o quê?
+
+A distribuidora.
+
+Conforme o quê?
+
+Conforme a estratégia daquela distribuidora.
+
+Então, ela vai lá, compra energia térmica de um, eólica de outro, solar de outro.
+
+E, no montante, ela fala, opa, contratei a quantidade de energia que eu precisava para suprir o meu mercado, os meus consumidores, até tal ano.
+
+Tudo bem, gente?
+
+Modalidade, leilão?
+
+Tá?
+
+Tão importante quanto as modalidades, é a estrutura dos leilões.
+
+Então, veja.
+
+A gente tem leilões que...
+
+Eles podem acontecer no mesmo ano que a energia vai ser entregue.
+
+Ou seja, eu vou contratar energia para ser entregue este ano ainda.
+
+É o ano A. É hoje.
+
+É o ano hoje.
+
+Mas eu posso contratar energia muito antes do prazo de entrega, que são os leilões a menos.
+
+O leilão de energia nova, como são empreendimentos que ainda vão ser construídos, eles, via de regra, acontecem a menos três, a menos quatro, a menos cinco, a menos seis.
+
+O mais comum é a menos quatro, eu diria.
+
+É o que a gente tem mais visto para projetos novos, porque o leilão acontece aqui no a menos quatro, e aí o empreendedor tem quatro anos para botar o projeto de pé.
+
+E não são projetos pequenos, gente.
+
+São projetos grandes.
+
+Então, tem toda uma questão de investimento, de financiabilidade dos projetos, a obra em si, a construção, o comissionamento.
+
+Então, quatro anos é um tempo para botar esse projeto de pé.
+
+E como são projetos novos, eu imagino que todos vocês em algum momento tiveram contato com as disciplinas de engenharia econômica, análise de investimentos e tal.
+
+E dependendo do tipo de projeto que a gente vai analisar, a sua viabilidade, você precisa de mais tempo para viabilizar, para que o projeto dê retorno.
+
+Afinal de contas, você está competindo.
+
+Então, você vai fazer...
+
+Todo mundo faz o investimento esperando um retorno.
+
+Com geração não é diferente, pelo contrário.
+
+Geração é um investimento muito intensivo em capital e o pessoal vai demandar retorno.
+
+Então, para os projetos de energia nova, você espera...
+
+Você tem contratos mais longos, 15 a 35 anos.
+
+Na média, 20, 25 anos.
+
+Já os de energia existente, 3, 4, 5 anos.
+
+Eventualmente, pode ser mais longo.
+
+Está bom?
+
+Então, essa é a dinâmica.
+
+Eu deixei um link no material, gente, que é bem interessante.
+
+Preciso até correr com a agenda aqui, estou falando demais.
+
+Mas eu faço questão de abrir esse link.
+
+É na CCE.
+
+Já que a gente viu que a CCE é quem promove os leilões de energia, aqui dentro da CCE, a gente tem resultados, tem um monte de coisa.
+
+Então, se eu vier aqui, resultado consolidado de leilões.
+
+Me ajuda, computador.
+
+Resultado consolidado de...
+
+Não, não queria isso, não.
+
+Era isso que eu queria, não.
+
+Ah, não, era isso mesmo que eu queria.
+
+Besteira aqui.
+
+Então, temos resultado consolidado de leilões.
+
+Olha só, a gente teve um leilão agora em outubro.
+
+Se eu ampliar aqui, vou baixar a planilha.
+
+Está vendo?
+
+É uma planilha, mas eles também às vezes colocam os resultados resumidos.
+
+Mas, por exemplo, nessa planilhinha aqui, a gente vai ter os resultados do leilão que foi realizado aqui em 18 de outubro.
+
+Não, isso é a data de referência que é hoje.
+
+O leilão foi realizado, a gente vai descobrir agora no Excel.
+
+Vamos lá.
+
+Foi semana passada esse leilão, se não me engano.
+
+Passado ou retrasado?
+
+Estou na dúvida agora.
+
+Pronto, olha só, gente.
+
+Então, olha.
+
+Ah, está.
+
+É que esse resultado de...
+
+Ah, melhor ainda.
+
+Esse resultado consolidado é de todos os leilões, tá, gente?
+
+Todos.
+
+Todos os leilões já realizados.
+
+Então, veja aqui.
+
+Nessa planilha, tem um monte de explicação do que...
+
+Vale a pena até depois vocês darem uma lida nesse glossário que tem um monte de conceito importante.
+
+O que é garantia física?
+
+O que é potência instalada?
+
+Enfim.
+
+Então, tem um monte de coisa aqui e essa planilha mostra o resultado consolidado.
+
+O que é isso?
+
+No leilão realizado no edital de 2004, a Eletronorte...
+
+Tá?
+
+Eletronorte, não.
+
+Vamos pegar aqui uma outra aqui.
+
+Vamos pegar aqui.
+
+Deixa eu só separar a sigla do computador.
+
+Leilão de energia existente, não.
+
+Quero leilão de energia nova.
+
+LEN.
+
+Leilão de energia nova.
+
+Pronto.
+
+Primeiro leilão de energia nova realizado no Brasil.
+
+Olha só.
+
+Em 2005.
+
+Reforma do setor foi em 2004.
+
+Olha que legal.
+
+Vocês estão vendo bem a planilha, gente?
+
+Tá legível?
+
+Sim?
+
+Não?
+
+Não sei se dá pra ver.
+
+Dá, né?
+
+Deixa eu dar só uma piadinha aqui.
+
+Pronto.
+
+Então, 2005.
+
+Primeiro leilão.
+
+Essa empresa, Aruanã Energia, que é a usina Chavantes S.A., ela vendeu energia no leilão para a Cozerne, que é a distribuidora do Rio Grande do Norte.
+
+O nome da usina dela é Chavante Aruanã.
+
+Essa Chavante Aruanã é uma UTE, usina termoelétrica.
+
+Ela está no estado de Goiás.
+
+A fonte de energia é óleo diesel.
+
+É uma usina de 53 megawatts de capacidade instalada.
+
+Só que a garantia física dela é 22,2 megawatts médios.
+
+Meu Deus, o que é isso?
+
+Calma.
+
+A gente vai ver isso aqui na hora que vem.
+
+Ver o que significa o megawatt médio.
+
+Ela vendeu esse megawatt médio, que significa 3.242 megawatt-hora.
+
+Ela negociou essa energia e tal, não sei o quê, e vendeu ao preço de R$ 139 por megawatt-hora.
+
+Barato essa energia que ela foi vendida.
+
+Não foi vendida a cara, não.
+
+Pelo menos esse lote aí.
+
+Percebe, pessoal?
+
+Já foi atualizado, já está valendo 300 e tanto essa energia.
+
+Nessa planilha, por exemplo, que eu abri, que nem era que eu queria abrir, mas foi até legal, você tem esse consolidado dos leilões.
+
+Aqui é um exemplo de como é essa dinâmica, como os leilões funcionam.
+
+Depois passei no site da CCE, tem muito recurso.
+
+Leilão de energia nova 5, isso.
+
+Aqui não quero ver o pouco simplificado, não.
+
+Quero ver o leilão 30 de setembro. 30 de setembro teve esse leilão aqui.
+
+Acessa a plataforma.
+
+Tem um monte de documento aqui do leilão, anexo, edital.
+
+Depois você entra, dá uma lida no edital do leilão.
+
+Não vou entender muita coisa, não tem problema.
+
+Já vai ter contato com isso aqui.
+
+O leilão está aqui, você tem muita coisa do leilão aqui disponível.
+
+Vamos ver o resultado.
+
+Resultado do leilão agora do final de setembro.
+
+Olha só.
+
+Vou abrir a planilha de novo.
+
+Agora em setembro...
+
+Ventos de Santa Luzia, por exemplo, vendeu...
+
+Ela vai investir R$ 21 milhões nessa planta.
+
+Está certo?
+
+E ela vendeu...
+
+R$ 191 por megawatt-hora.
+
+Qual a fonte de energia?
+
+Vento a gente já desconfia, que é eólica.
+
+Então tem muita informação aqui da dinâmica, resumo, etc.
+
+Está bom, pessoal?
+
+Vamos ver...
+
+Se vocês quiserem tratar mais do assunto, vamos guardar os detalhes para, quem sabe, discutir na última aula, na quarta aula.
+
+Espero que dê tempo de a gente falar bastante na quarta aula.
+
+Mas a gente pode, quem sabe, desbravar um pouquinho mais esse universo dos leilões.
+
+Beleza?
+
+Voltando aqui...
+
+Então, isso é a dinâmica dos leilões, tá, pessoal?
+
+Por isso que é importante a gente entender isso.
+
+Agora, quando você ouvir no Jornal Nacional, ver no canal Energia, no Valor Econômico, leilão de energia contrata tantos megawatts médios de fontes assim e assim assado, você já vai entender a importância disso.
+
+Porque esse custo que foi comprado no leilão hoje, daqui a quatro, cinco, seis anos, vai estar na nossa tarifa, sendo repassado pela distribuidora.
+
+Então, com esse compilado aí, gente, até agora, a gente tem condições de fazer um comparativo simples.
+
+Um comparativo simples, que é o objetivo da nossa...
+
+Deixa eu só ver um negócio aqui.
+
+Da nossa aula até agora, tá?
+
+O que esse comparativo consiste?
+
+Ambiente e contratação regulado.
+
+Gerador por meio dos leilões.
+
+Vende a energia.
+
+Vejam só, gente.
+
+Cadê o transmissor, Jonatas?
+
+Esquece o transmissor.
+
+Agora é a realidade da energia.
+
+Não estou pensando em transporte.
+
+Não estou pensando em transporte.
+
+Estou pensando em energia.
+
+Estou pensando na realidade comercial do setor.
+
+Então, comercialmente, do ponto de vista da energia vendida, o gerador vende a energia por meio dos leilões para o distribuidor, por sua vez, repassa para o consumidor.
+
+O consumidor, por sua vez, tem uma fatura única, mensalmente, e paga por essa energia que foi vendida e pelo serviço de distribuição.
+
+Então, dentro da tarifa, a gente tem a tarifa de energia, TE, e a tarifa do uso do sistema de transmissão, a TUSD.
+
+O que é a energia gerada do gerador repassada até o consumidor?
+
+É a TE.
+
+De modo simplista.
+
+Dentro da TE tem alguns outros negócinhos ainda, mas 90% da TE é o custo de energia que foi comprado no leilão.
+
+Agora, quando a gente olha para o mercado livre, para o ACL, o gerador gera energia e vende de forma direta para o consumidor.
+
+Não tem leilão regulado.
+
+Não tem distribuidor para comprar e repassar.
+
+A venda é direta.
+
+Ela é negociada livremente e diretamente com o gerador.
+
+A entrega física da energia continua sendo feita pelo distribuidor, mas tudo isso aqui ocorre de forma livre, sem amarras.
+
+Olha aqui o comercializador.
+
+Quem é que tinha comentado mesmo que o comercializador tinha perguntado?
+
+Foi o Diogo?
+
+Não, né?
+
+Felipe, né?
+
+Agora eu já me confundi.
+
+Olha o comercializador, onde ele entra.
+
+O comercializador é um agente puramente comercial, puramente econômico.
+
+Então, o comercializador, o que ele faz?
+
+Ele monta uma carteira de energias.
+
+Ele compra a energia no mercado.
+
+Compra de quem?
+
+De geradores.
+
+O comercializador pode comprar a energia de outro comercializador?
+
+Pode.
+
+Porque o comercializador faz isso.
+
+Ele está lidando com o papel.
+
+Ele está lidando com a realidade comercial da energia.
+
+Por isso que eu bato tanto nessa tecla.
+
+A gente está muito acostumado a pensar em energia em termos físicos.
+
+Ah, energia física, a energia que está fluindo no cabo, na rede.
+
+Não.
+
+O comercializador tem uma realidade puramente econômica.
+
+Então, o comercializador pode comprar essa energia de um gerador ou comprar de outro comercializador e vender para o consumidor.
+
+E aí a gente vai ver na aula que vem, por que que o consumidor, então...
+
+Aí você pensa, né?
+
+Bom, mas, pô, pera aí.
+
+Mas onde é que o comerciador ganha dinheiro?
+
+Porque, pô, o distribuidor compra a energia do leilão, né?
+
+E só repassa para o consumidor.
+
+Não bota uma margenzinha na energia, só repassa o valor.
+
+E esse valor é fixo.
+
+É o valor que ele pagou lá no leilão.
+
+E o comercializador?
+
+Aí é que está.
+
+O comercializador de energia, ele opera dentro de um mercado livre.
+
+E dentro do mercado livre, o preço de energia não é fixo.
+
+Esse preço varia.
+
+Então, existe, de fato, um mercado de energia.
+
+Tem gente aqui que deve investir em ação.
+
+O preço da ação de uma empresa é fixo?
+
+Jamais.
+
+Jamais, jamais, jamais.
+
+O valor do papel que você compra, ele muda.
+
+Ele muda.
+
+Ele muda em razão de quê?
+
+Depende do mercado do papel que você está comprando.
+
+Se você comprar ações de varejo, eles vão se comportar de uma forma.
+
+Esquece a especulação, tá, gente?
+
+Esquece a especulação.
+
+A especulação é outra coisa.
+
+Mas pensa que o papel do varejo vai variar em função do quê?
+
+Do mercado de varejo, como o varejo funciona.
+
+Por isso que, por exemplo, indicadores de consumo de varejo interferem no preço das ações de empresas de varejo.
+
+Mesma coisa, petróleo.
+
+Você compra a ação da Petrobras, compra a ação de alguma dessas aí.
+
+O preço da empresa de petróleo deve variar em função das variáveis do mercado de petróleo.
+
+Tá?
+
+Mesma coisa.
+
+Aí, vamos trazer para uma realidade de commodities.
+
+Soja, grãos, de modo geral, ouro, metais, aço.
+
+Eles vão variar em função de vários aspectos que se relacionam com aquele mercado daquele metal, daquela commodity.
+
+Por exemplo, vamos pensar no aço.
+
+Disponibilidade da matéria, da extração.
+
+Conflitos comerciais, crescimento econômico, crescimento industrial.
+
+Crescimento do setor civil interfere no preço do aço e vice-versa?
+
+Lógico.
+
+Você tem uma relação de oferta e demanda direta.
+
+Agora, troca tudo que eu falei aqui, gente, por energia elétrica.
+
+Pronto, é isso.
+
+Então, no mercado livre, a energia...
+
+Energia, de um ponto de vista comercial, o preço da energia flutua.
+
+Ela tem volatilidade.
+
+Ela depende de várias características do próprio mercado de energia.
+
+A gente vai ver como isso funciona.
+
+Então, o preço de energia vai variar em função de várias questões.
+
+Questões macroeconômicas, que envolve o quê?
+
+Inflação, câmbio, crescimento econômico.
+
+Vai variar em questões inerentes ao setor, como clima, regime de chuvas, nível de reservatório.
+
+Enfim, você vai ter uma centena de variáveis que vão interferir no movimento de preços.
+
+Mas você fala, mas que preços?
+
+Preços que os geradores que vendem energia no mercado livre vão cobrar.
+
+Os preços que os comercializadores, de modo geral, vão cobrar.
+
+Mas, espera aí, mas quem vai dizer que esse preço aí, ou que as variáveis, de fato, vão interferir?
+
+Aí, a gente vai ter que deixar pra ir pra frente.
+
+Porque aí a discussão vai ficando mais e mais complexa.
+
+Mas, por ora, é bom você entender isso.
+
+Aqui, o preço de energia, guardar as devidas proporções, ele é fixo.
+
+Aqui, ele é variável.
+
+Tudo bem, pessoal, até aqui?
+
+Alguma dúvida?
+
+Tá muito rápido.
+
+Tá muito rápido, tô falando muito difícil.
+
+Não, tá tranquilo.
+
+Tranquilo?
+
+Tranquilo.
+
+Tá tranquilo, Adriano.
+
+Beleza.
+
+Show de bola, gente.
+
+É...
+
+Então, posto tudo isso, pessoal, a gente começa a entrar agora numa parte mais final da aula.
+
+A gente vai agora por uma questão muito prática do setor, que é quem pode ser um consumidor livre?
+
+A gente já entendeu já a dinâmica, a estrutura e tal.
+
+E é razoável, antes da gente estudar os detalhes, que, basicamente, é o processo de migração e a viabilidade que passa pelo entendimento das tarifas e dos preços de energia, é bom a gente já entender o que torna um consumidor elegível para comprar energia no mercado livre.
+
+Tá?
+
+Então, vamos lá.
+
+Requisitos e tipos de consumidores.
+
+Então, hoje, pessoal, presta atenção aqui antes de você ler o slide.
+
+Isso aí está tudo no material, não precisa ficar lendo tela, tá?
+
+Lê depois esse material, porque tudo que eu vou falar está escrito aí.
+
+Hoje, a gente tem algumas classes de consumidores, certo?
+
+Por exemplo, hoje, todo mundo aqui é consumidor residencial.
+
+Então, a gente é consumidor residencial.
+
+Mas você tem os consumidores comerciais, você tem os consumidores industriais, você tem os consumidores rurais, você tem uma classe específica lá.
+
+Isso tudo que eu estou falando é classe de consumidor.
+
+Segmento.
+
+Existe uma outra característica, e isso aí você pode ler na tua fatura, que é a classe de tensão.
+
+Você tem os consumidores que são atendidos em baixa tensão e tem os consumidores que são atendidos em média tensão.
+
+Imagino que, para a maioria aqui, isso aí é contencido, tranquilo.
+
+Perguntei se é o seguinte, os consumidores hoje em baixa tensão, que recebem ali a energia já 220 volts, 380 volts, mais ou menos por ali, média, em via de regra, recebem isso aí, esses consumidores de baixa tensão, eles pagam uma tarifa única, que a gente chama tarifa monômia.
+
+Ou seja, a gente vai entender isso melhor na próxima aula, mas eles pagam somente pelo volume de energia que é consumido.
+
+Então, é o que você vai ver na tua fatura, na tua casa.
+
+Vai ter lá R$1,00 por kWh, consumiu mais, consumiu menos, seu valor vai variar em cima daquilo.
+
+Por outro lado, os consumidores de média tensão, eles têm uma tarifa binômia.
+
+Então, em primeiro lugar, os consumidores de média tensão não recebem a energia em 220, 380 volts, eles recebem em uma tensão relativamente alta, por exemplo, 13.000 volts.
+
+São aqueles consumidores que todo mundo aqui já sabe, o pessoal que recebe ainda tem que rebaixar o nível de tensão, tem uma cabine primária.
+
+Então, esse consumidor de média tensão, ele recebe essa energia em uma tensão mais alta, e ele não paga só pelo consumo dele, ele paga pelo consumo em uma tarifa em reais por kWh, mas também paga pela demanda.
+
+O que significa demanda?
+
+É a potência que vai ser disponibilizada de um ponto de vista de infraestrutura pela distribuidora para você usar.
+
+Então, a demanda é isso, eu tenho uma demanda de 1.000 kW.
+
+Significa que a infraestrutura de rede da distribuidora vai permitir ou vai te disponibilizar as condições técnicas para você absorver 1.000 kW da rede dela de forma segura.
+
+E aí você paga pelo consumo e paga pela demanda.
+
+De cara, o que você já percebe, clientes de baixa tensão não são elegíveis para comprar energia de forma livre, não são.
+
+Então, pessoal, se você tem uma tarifa, uma fatura, desculpa, se você tem uma fatura, um contrato com a distribuidora que você compra energia em baixa tensão, e isso é a realidade de todos os residenciais, de grande parte do comércio e até de algumas indústrias, você não é elegível para o mercado livre, ponto.
+
+Ponto final, você não pode hoje, pelo menos ainda, comprar energia no mercado livre.
+
+Você vai continuar como um consumidor cativo, você vai continuar comprando energia pela distribuidora que está repassando o custo do leilão que ela contratou.
+
+Então, o primeiro ponto é esse.
+
+Segundo ponto, se você for um consumidor que está conectado em média tensão, você precisa tentar para dois elementos.
+
+O primeiro elemento, o patamar de demanda que você tem.
+
+E dentro do mercado livre, você tem duas classes de consumidores.
+
+Você tem os consumidores especiais, e os consumidores livres.
+
+Aí você fala, ué, mas o cara migra para o mercado livre, ele não é consumidor livre?
+
+É, filosoficamente, ele é um consumidor livre.
+
+Agora, na prática, tem essa diferença, você já vai entender por quê.
+
+Consumidor especial hoje, ele com 500 quilowatts de demanda contratada, pode me ligar para o mercado livre.
+
+Show de bola.
+
+Para requisito, tem que estar na média tensão.
+
+O segundo ponto é isso.
+
+Você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, e você tem uma rede de contato.
+
+O terceiro ponto é isso.
+
+Você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato, você tem uma rede de contato,

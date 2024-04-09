@@ -1,0 +1,195 @@
+# Na aula anterior...
+
+## 1. Estudamos os fundamentos de regulação tarifária.
+
+## 2. Estrutura tarifária no mercado regulado.
+
+## 3. Precificação de energia no ACL.
+
+## 4. Etapas para migração ao Mercado Livre de Energia.
+
+
+# Estudo de viabilidade
+
+- Análise dos requisitos mínimos para migração
+- Análise da data de vencimento do contrato de fornecimento de energia no
+
+## mercado cativo
+
+- Estudo de viabilidade para antecipação da data da migração com
+
+## pagamento de multa de rescisão contratual
+
+- Cálculo comparativo de economia: Cativo x Livre
+
+
+# Megawatt médio (MWm ou MWmédio)
+
+```
+𝐹𝑎𝑡𝑜𝑟𝑑𝑒𝑐𝑎𝑟𝑔𝑎=𝐹𝐶 =𝑁°𝑑𝑒ℎ𝑜𝑟𝑎𝑠𝐶𝑜𝑛𝑠𝑢𝑚𝑜𝑛𝑜𝑝𝑒𝑟í𝑜𝑑𝑜𝑑𝑒𝑒𝑛𝑒𝑟𝑔𝑖𝑎(ℎ) ×𝐷𝑒𝑚𝑎𝑛𝑑𝑎(𝑀𝑊ℎ) (𝑀𝑊)
+```
+```
+𝑀𝑒𝑔𝑎𝑤𝑎𝑡𝑡𝑚é𝑑𝑖𝑜= 𝑀𝑊𝑚=𝐶𝑜𝑛𝑠𝑢𝑚𝑜𝑁°𝑑𝑒ℎ𝑜𝑟𝑎𝑠𝑑𝑒𝑒𝑛𝑒𝑟𝑔𝑖𝑎𝑛𝑜𝑝𝑒𝑟í𝑜𝑑𝑜(𝑀𝑊ℎ(ℎ))
+```
+
+# Megawatt médio (MWm ou MWmédio)
+
+```
+1 𝑀𝑊𝑚= 𝐶𝑜𝑛𝑠𝑢𝑚𝑜 730 𝑑𝑒𝑒𝑛𝑒𝑟𝑔𝑖𝑎ℎ𝑜𝑟𝑎𝑠 (𝑀𝑊ℎ)⇒𝐶𝑜𝑛𝑠𝑢𝑚𝑜𝑑𝑒𝑒𝑛𝑒𝑟𝑔𝑖𝑎 𝑀𝑊ℎ = 730 𝑀𝑊ℎ = 1 MWm
+```
+### 𝐻𝑜𝑟𝑎𝑠𝑒𝑚𝑢𝑚𝑎𝑛𝑜 = 24 ℎ𝑜𝑟𝑎𝑠𝑝𝑜𝑟𝑑𝑖𝑎 × 365 𝑑𝑖𝑎𝑠𝑝𝑜𝑟𝑎𝑛𝑜= 8. 760 ℎ𝑜𝑟𝑎𝑠𝑝𝑜𝑟𝑎𝑛𝑜
+
+```
+𝐻𝑜𝑟𝑎𝑠𝑒𝑚𝑢𝑚𝑚ê𝑠=^8. 12760 𝑚𝑒𝑠𝑒𝑠ℎ𝑜𝑟𝑎𝑠𝑝𝑜𝑟𝑝𝑜𝑟𝑎𝑛𝑜𝑎𝑛𝑜= 730 ℎ𝑜𝑟𝑎𝑠𝑝𝑜𝑟𝑚ê𝑠
+```
+
+# Roteiro de análise
+
+1. Conferir pré-requisitos de migração.
+2. Verificar consumo de energia a ser contratado.
+3. Verificar modalidade tarifária atual no ACR.
+4. Consultar curva de preços futuros para cada tipo de energia.
+5. Simular cenários de migração por preços (ano a ano), tipo de energia,
+    modalidade tarifária e aplicação de bandeiras.
+6. Verificar cenários de viabilidade.
+7. Calcular rentabilidade do projeto considerando custos de migração e gestão.
+
+
+# Exemplo
+
+```
+Considereum consumidorindustrialconectado em 13. 200 V,situadoemAraraquara/SP.
+Atualmente, seu consumo é igual a 0 , 85 MWmédios, sendo que a proporção do
+consumona pontaéequivalente a 10 %do total. Suademandacontratadaatualéigual
+a 2. 000 kW.
+```
+```
+a) Esteconsumidor estánosubgrupotarifárioideal?
+b) Há viabilidade econômica para migrar ao ACL? Considerar curva de preços já
+apresentada.
+c) Aviabilidademudacasohajaaplicaçãodebandeiratarifária?
+Vamos treinar?
+```
+
+# Aplicação de descontos
+
+**Tipo de energia Subgrupo Tarifa de energia (TE) TUSD Demanda TUSD Encargos**
+
+```
+Energia
+incentivada
+(50%, 80% e
+100%)
+```
+```
+Verde Tarifa de energia (TE) é substituída pelo preço de energia do ACL
+```
+```
+Aplicação direta do
+desconto na tarifa de
+demanda (R$/kW)
+```
+```
+Desconto aplicado na
+tarifa ponta (deduzido o
+valor fora ponta)
+```
+```
+Azul Tarifa de energia (TE) é substituída pelo preço de energia do ACL
+```
+```
+Aplicação direta do
+desconto nas tarifas de
+demanda na ponta e fora
+ponta (R$/kW)
+```
+```
+N/A
+```
+```
+Energia
+convencional Verde/Azul
+```
+```
+Tarifa de energia (TE) é substituída
+pelo preço de energia do ACL (com
+ajuste para perdas de 3%)
+```
+```
+N/A N/A
+```
+
+# Exercício: parte 1
+
+```
+Considere um consumidor industrial conectado em 13. 200 V, situado em Salvador/BA.
+Atualmente, seu consumo é igual a 1 , 35 MWmédios, sendo que a proporção do
+consumona pontaéequivalente a 12 %do total. Sua demandacontratadaatual éigual
+a 1. 400 kW(pontaeforaponta).
+```
+```
+a) Esteconsumidor estánosubgrupotarifárioideal?
+b) Há viabilidade econômica para migrar ao ACL? Considerar curva de preços já
+apresentada.
+```
+```
+Vamos treinar?
+```
+
+# Investimentos
+
+```
+Adesãoà CCEE
+Valor únicode R$ 7. 394 ,00 por CNPJ raiz.
+```
+```
+Adequaçãodo SMF –Sistema de Mediçãoe Faturamento
+Realizadopor empresaespecializadaoupela Concessionáriade Distribuiçãolocal. O valor
+varia de acordocom a DistribuidoraLocal e condiçõesda cabineprimária.
+GarantiaFinanceira solicitadapelofornecedorde energia
+Obrigatoriedadede apresentaçãode garantiafinanceirapara aquisiçãode energia, devendo
+contemplaremmédia3 meses do faturamentode energia. Modalidadesmaiscomunssão:
+FiançaBancária, Seguro Garantia, FiançaCorporativaouCDB Caução.
+```
+
+# Custos mensais
+
+- **ContribuiçãoassociativaCCEE** =R$ 220 , 00 +(VolumedeenergiaemkWh* 0 , 1 )/ 1000
+- **LiquidaçãofinanceiraCCEE** =(VolumedeenergiaemkWh* 2 )/ 1000
+- **Energiadereserva** =(VolumedeenergiaemkWh* 0 , 5 )/ 1000
+- **AdministraçãoBRADESCO** =R$ 20 , 40
+- **Encargodeconexão** =R$ 100 , 00 /( 1 - ICMS-PIS_COFINS)
+- **EncargoContaCovid- 19** =adependerdadistribuidora(emR$/MWh)
+- **Custocomgestão** =adependerdacontratação.
+
+
+# Exercício: parte 2
+
+```
+Analise a viabilidade do investimento para migração da unidade consumidora
+apresentada, considerando os investimentos necessários e custos mensais de
+referência.
+```
+```
+Dados:
+```
+- AdequaçãodoSMF=R$ 15. 000 , 00
+- Gestãomensal=R$ 2. 800 , 00
+
+```
+Vamos treinar?
+```
+
+# Próxima aula
+
+## 1. Quais os riscos inerentes aos consumidores no ACL?
+
+## 2. Quais os meios para se mitigar esses riscos?
+
+## 3. Como funciona uma empresa de comercialização de energia?
+
+## 4. Qual o futuro do setor de energia elétrica no Brasil?
+
+## 5. O que falta para que todos possam optar pelo ACL?
+
+
